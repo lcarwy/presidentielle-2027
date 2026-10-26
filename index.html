@@ -1,0 +1,146 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Sondages Présidentielle 2027</title>
+  <meta name="description" content="Moyenne des sondages pour l'élection présidentielle française de 2027 : intentions de vote au premier tour, évolution, duels du second tour et détail de chaque enquête. Mise à jour automatique.">
+  <meta property="og:title" content="Sondages Présidentielle 2027 — moyenne des intentions de vote">
+  <meta property="og:description" content="Moyenne des sondages, évolution, duels du second tour et détail de chaque enquête, mis à jour automatiquement.">
+  <meta property="og:type" content="website">
+  <meta name="theme-color" content="#f9f9f7">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%23f9f9f7'/%3E%3Crect x='6' y='16' width='5' height='10' rx='1.5' fill='%23002395'/%3E%3Crect x='13.5' y='9' width='5' height='17' rx='1.5' fill='%2389877f'/%3E%3Crect x='21' y='13' width='5' height='13' rx='1.5' fill='%23ED2939'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="assets/style.css">
+  <script>
+    try { const t = localStorage.getItem('theme'); if (t) document.documentElement.dataset.theme = t; } catch (e) {}
+  </script>
+</head>
+<body>
+  <div class="tricolore" aria-hidden="true"></div>
+  <header class="top">
+    <div class="wrap top-inner">
+      <a class="brand" href="#">Sondages <strong>Présidentielle 2027</strong></a>
+      <nav class="nav" aria-label="Sections">
+        <a href="#moyenne">Moyenne</a>
+        <a href="#evolution">Évolution</a>
+        <a href="#second-tour">Second tour</a>
+        <a href="#sondages">Sondages</a>
+        <a href="#methode">Méthode</a>
+      </nav>
+      <button class="icon-btn" id="theme-btn" type="button" aria-label="Changer de thème" title="Thème clair / sombre">
+        <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path fill="currentColor" d="M12 3a9 9 0 1 0 9 9c0-.46-.04-.92-.1-1.36a5.39 5.39 0 0 1-4.4 2.26 5.4 5.4 0 0 1-3.14-9.8c-.44-.06-.9-.1-1.36-.1z"/></svg>
+      </button>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="hero">
+      <p class="eyebrow"><span id="countdown">Premier tour le 18 avril 2027</span> · second tour le 2 mai 2027</p>
+      <h1>Qui mène la course à l'Élysée&nbsp;?</h1>
+      <p class="lede" id="summary">Chargement des derniers sondages…</p>
+      <p class="status" id="status" aria-live="polite"></p>
+    </section>
+
+    <div class="controls" role="group" aria-label="Filtres">
+      <label class="field">
+        <span>Scénario</span>
+        <select id="scenario"><option value="">Toutes les hypothèses</option></select>
+      </label>
+      <div class="field">
+        <span id="period-label">Période</span>
+        <div class="seg" id="period" role="radiogroup" aria-labelledby="period-label">
+          <button type="button" role="radio" data-p="3m">3 mois</button>
+          <button type="button" role="radio" data-p="6m">6 mois</button>
+          <button type="button" role="radio" data-p="1a">1 an</button>
+          <button type="button" role="radio" data-p="tout">Tout</button>
+        </div>
+      </div>
+      <button type="button" class="btn ghost" id="share-btn">
+        <svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M10 14a5 5 0 0 0 7.07 0l3-3a5 5 0 0 0-7.07-7.07l-1 1M14 10a5 5 0 0 0-7.07 0l-3 3a5 5 0 0 0 7.07 7.07l1-1"/></svg>
+        Copier le lien
+      </button>
+    </div>
+
+    <section class="card" id="moyenne" aria-labelledby="h-moyenne">
+      <div class="card-head">
+        <h2 id="h-moyenne">Intentions de vote au premier tour</h2>
+        <p class="sub" id="ranking-sub">Moyenne pondérée des sondages récents</p>
+      </div>
+      <ol class="ranking" id="ranking"></ol>
+      <p class="note">Survolez une ligne pour voir la fourchette des sondages. Un sondage n'est pas une prévision&nbsp;: c'est une photographie de l'opinion à un instant donné.</p>
+    </section>
+
+    <section class="card" id="evolution" aria-labelledby="h-evolution">
+      <div class="card-head">
+        <h2 id="h-evolution">Évolution de la moyenne</h2>
+        <p class="sub">Lignes&nbsp;: moyenne · points&nbsp;: sondages individuels. Cliquez sur un nom pour l'afficher ou le masquer.</p>
+      </div>
+      <div class="legend" id="legend"></div>
+      <div class="chart" id="chart">
+        <div class="tooltip" id="tooltip" role="status" hidden></div>
+      </div>
+    </section>
+
+    <section class="card" id="second-tour" aria-labelledby="h-duels">
+      <div class="card-head">
+        <h2 id="h-duels">Second tour&nbsp;: les duels testés</h2>
+        <p class="sub">Moyenne des sondages des 60 derniers jours pour chaque affiche.</p>
+      </div>
+      <div class="duels" id="duels"></div>
+      <button type="button" class="btn ghost small" id="duels-more" hidden>Voir les duels plus anciens</button>
+    </section>
+
+    <section class="card" id="sondages" aria-labelledby="h-sondages">
+      <div class="card-head row">
+        <div>
+          <h2 id="h-sondages">Tous les sondages</h2>
+          <p class="sub" id="table-sub">Fourchette des hypothèses testées par chaque institut. Cliquez sur une ligne pour le détail.</p>
+        </div>
+        <div class="table-tools">
+          <label class="field compact">
+            <span class="sr-only">Institut</span>
+            <select id="institut"><option value="">Tous les instituts</option></select>
+          </label>
+          <a class="btn ghost small" href="data/sondages.csv" download>CSV</a>
+          <a class="btn ghost small" href="data/sondages.json" download>JSON</a>
+        </div>
+      </div>
+      <p class="scroll-hint" aria-hidden="true">Faites glisser le tableau pour voir tous les candidats →</p>
+      <div class="table-wrap">
+        <table class="polls" id="polls-table"></table>
+      </div>
+      <button type="button" class="btn ghost small" id="more-btn" hidden>Afficher plus de sondages</button>
+    </section>
+
+    <section class="card" id="methode" aria-labelledby="h-methode">
+      <h2 id="h-methode">Méthode et sources</h2>
+      <details open>
+        <summary>Comment la moyenne est-elle calculée&nbsp;?</summary>
+        <p>Chaque institut teste plusieurs <em>hypothèses</em> (avec ou sans tel candidat). Pour ne pas surreprésenter les sondages qui testent beaucoup de configurations, on calcule d'abord, pour chaque sondage, la moyenne des scores d'une personnalité sur les hypothèses où elle figure.</p>
+        <p>La courbe est ensuite lissée&nbsp;: chaque jour combine les sondages réalisés autour de cette date, avec un poids qui décroît en douceur avec l'écart (noyau gaussien d'environ deux semaines). Pour la moyenne du jour, seuls les sondages passés comptent, les plus récents pesant le plus. Deux autres pondérations s'appliquent&nbsp;: <strong>la taille de l'échantillon</strong> (racine carrée, bornée) et <strong>un institut, une voix</strong> (le poids total d'un institut est plafonné, pour qu'un institut qui publie souvent ne domine pas la moyenne). Une personnalité n'apparaît que si elle est testée dans une part suffisante des sondages récents.</p>
+      </details>
+      <details>
+        <summary>À quoi sert le menu «&nbsp;Scénario&nbsp;»&nbsp;?</summary>
+        <p>Les candidatures ne sont pas encore toutes connues. En choisissant par exemple «&nbsp;Avec Édouard Philippe&nbsp;», seules les hypothèses où il est candidat sont retenues&nbsp;: les scores des autres personnalités s'ajustent en conséquence. Le scénario s'applique à la moyenne, au graphique et au tableau du premier tour.</p>
+      </details>
+      <details>
+        <summary>Quelle est la marge d'erreur&nbsp;?</summary>
+        <p>Pour un échantillon de 1&nbsp;000 personnes, l'intervalle de confiance à 95&nbsp;% est d'environ ±1,4 point pour un score de 5&nbsp;%, ±2,2 points à 15&nbsp;% et ±3 points à 35&nbsp;%. Survolez une case du tableau pour voir la marge propre à chaque sondage. La moyenne de plusieurs sondages est plus stable qu'un sondage isolé, mais les erreurs communes à tous les instituts ne disparaissent pas.</p>
+      </details>
+      <details>
+        <summary>D'où viennent les données&nbsp;? À quelle fréquence sont-elles mises à jour&nbsp;?</summary>
+        <p>Les sondages sont relevés automatiquement toutes les trois heures sur la page Wikipédia <a id="source-link" href="https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027" target="_blank" rel="noopener">«&nbsp;Liste de sondages sur l'élection présidentielle française de 2027&nbsp;»</a> (licence CC BY-SA 4.0), elle-même alimentée par les notices officielles déposées auprès de la <a href="https://www.commission-des-sondages.fr/" target="_blank" rel="noopener">Commission des sondages</a>. Le lien de chaque institut, dans le tableau, renvoie à sa notice. Cette page se recharge d'elle-même lorsque de nouvelles données sont publiées.</p>
+      </details>
+    </section>
+  </main>
+
+  <footer class="foot">
+    <div class="wrap">
+      <p>Site indépendant, sans affiliation politique. Données&nbsp;: Wikipédia (CC BY-SA 4.0) et Commission des sondages. <a href="data/sondages.json">Données brutes</a> · <a id="repo-link" href="https://github.com/" target="_blank" rel="noopener">Code source</a></p>
+    </div>
+  </footer>
+
+  <div class="toast" id="toast" role="status" hidden></div>
+  <script src="assets/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,57 @@
+name: Mise à jour et publication
+
+on:
+  schedule:
+    - cron: "17 */3 * * *" # toutes les 3 heures
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Récupérer les sondages sur Wikipédia
+        id: scrape
+        continue-on-error: true # en cas d'échec, on republie les données précédentes
+        run: python3 scripts/update_polls.py
+
+      - name: Enregistrer les nouvelles données
+        run: |
+          if git diff --quiet -- data; then
+            echo "Aucun nouveau sondage."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git commit -m "Mise à jour des sondages ($(date -u +'%Y-%m-%d %H:%M') UTC)"
+          git push
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

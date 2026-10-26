@@ -1,0 +1,5879 @@
+{
+ "mis_a_jour": "2026-10-26T09:40:01+00:00",
+ "source": {
+  "nom": "Wikipédia — Liste de sondages sur l'élection présidentielle française de 2027",
+  "url": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+  "revision": 240710063,
+  "revision_date": "2026-10-25T18:11:29Z",
+  "licence": "CC BY-SA 4.0"
+ },
+ "election": {
+  "premier_tour": "2027-04-18",
+  "second_tour": "2027-05-02"
+ },
+ "sondages": [
+  {
+   "id": "2026-10-22-opinionway-973",
+   "institut": "OpinionWay",
+   "debut": "2026-10-21",
+   "fin": "2026-10-22",
+   "echantillon": 973,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10333-pres-iv-opinionway-cnews-22-octobre.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 0.5,
+     "melenchon": 16.0,
+     "roussel": 1.0,
+     "tondelier": 1.0,
+     "glucksmann": 13.0,
+     "attal": 4.0,
+     "philippe": 12.0,
+     "lisnard": 6.0,
+     "retailleau": 6.0,
+     "dupont-aignan": 1.0,
+     "le-pen": 36.0,
+     "zemmour": 4.0
+    }
+   ]
+  },
+  {
+   "id": "2026-10-22-ipsos-1500",
+   "institut": "Ipsos",
+   "debut": "2026-10-21",
+   "fin": "2026-10-22",
+   "echantillon": 1500,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10338-pres-iv-ipsos-bva-le-parisien-24-octobre.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 0.5,
+     "melenchon": 17.0,
+     "roussel": 2.0,
+     "tondelier": 3.5,
+     "glucksmann": 13.0,
+     "attal": 4.0,
+     "philippe": 13.0,
+     "retailleau": 7.5,
+     "dupont-aignan": 1.5,
+     "le-pen": 33.5,
+     "zemmour": 4.5
+    },
+    {
+     "arthaud": 0.5,
+     "melenchon": 17.0,
+     "roussel": 2.0,
+     "tondelier": 3.5,
+     "glucksmann": 14.0,
+     "philippe": 15.0,
+     "retailleau": 8.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 33.5,
+     "zemmour": 4.5
+    },
+    {
+     "arthaud": 0.5,
+     "melenchon": 17.0,
+     "roussel": 2.5,
+     "tondelier": 3.5,
+     "glucksmann": 15.5,
+     "attal": 9.5,
+     "retailleau": 11.5,
+     "dupont-aignan": 2.0,
+     "le-pen": 33.5,
+     "zemmour": 4.5
+    },
+    {
+     "arthaud": 0.5,
+     "melenchon": 17.0,
+     "roussel": 2.5,
+     "tondelier": 3.5,
+     "glucksmann": 13.0,
+     "philippe": 14.0,
+     "lisnard": 6.5,
+     "retailleau": 5.5,
+     "dupont-aignan": 1.5,
+     "le-pen": 32.0,
+     "zemmour": 4.0
+    }
+   ]
+  },
+  {
+   "id": "2026-10-21-harris-interactive-2094",
+   "institut": "Harris Interactive",
+   "debut": "2026-10-19",
+   "fin": "2026-10-21",
+   "echantillon": 2094,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10332-pres-iv-toluna-harris-interactive-23-octobre.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 1.0,
+     "melenchon": 17.0,
+     "roussel": 2.0,
+     "tondelier": 2.0,
+     "glucksmann": 12.0,
+     "philippe": 15.0,
+     "lisnard": 7.0,
+     "retailleau": 4.0,
+     "dupont-aignan": 1.0,
+     "le-pen": 33.0,
+     "zemmour": 5.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 17.0,
+     "roussel": 2.0,
+     "tondelier": 2.0,
+     "glucksmann": 14.0,
+     "attal": 10.0,
+     "lisnard": 8.0,
+     "retailleau": 5.0,
+     "dupont-aignan": 1.0,
+     "le-pen": 33.0,
+     "zemmour": 5.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 17.0,
+     "roussel": 1.0,
+     "tondelier": 2.0,
+     "glucksmann": 12.0,
+     "attal": 5.0,
+     "philippe": 13.0,
+     "retailleau": 6.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 35.0,
+     "zemmour": 6.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 17.0,
+     "roussel": 2.0,
+     "tondelier": 2.0,
+     "glucksmann": 13.0,
+     "philippe": 16.0,
+     "retailleau": 7.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 35.0,
+     "zemmour": 5.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 19.0,
+     "roussel": 2.0,
+     "tondelier": 2.0,
+     "glucksmann": 13.0,
+     "attal": 11.0,
+     "retailleau": 9.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 35.0,
+     "zemmour": 6.0
+    }
+   ]
+  },
+  {
+   "id": "2026-10-19-ifop-1928",
+   "institut": "Ifop",
+   "debut": "2026-10-17",
+   "fin": "2026-10-19",
+   "echantillon": 1928,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10327-pres-barometre-election-v7-ifop-20-octobre.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 0.5,
+     "melenchon": 16.5,
+     "roussel": 3.0,
+     "tondelier": 3.0,
+     "glucksmann": 13.5,
+     "attal": 5.0,
+     "philippe": 12.0,
+     "retailleau": 5.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 36.0,
+     "zemmour": 3.5
+    },
+    {
+     "arthaud": 0.5,
+     "melenchon": 16.5,
+     "roussel": 2.5,
+     "tondelier": 3.0,
+     "glucksmann": 14.0,
+     "philippe": 15.0,
+     "retailleau": 7.5,
+     "dupont-aignan": 1.5,
+     "le-pen": 36.0,
+     "zemmour": 3.5
+    },
+    {
+     "arthaud": 0.5,
+     "melenchon": 16.0,
+     "roussel": 2.0,
+     "tondelier": 3.0,
+     "glucksmann": 16.0,
+     "attal": 13.0,
+     "retailleau": 7.0,
+     "dupont-aignan": 1.5,
+     "le-pen": 38.0,
+     "zemmour": 3.0
+    },
+    {
+     "arthaud": 0.5,
+     "melenchon": 18.0,
+     "glucksmann": 16.0,
+     "philippe": 16.0,
+     "retailleau": 6.5,
+     "dupont-aignan": 2.5,
+     "le-pen": 37.0,
+     "zemmour": 3.5
+    },
+    {
+     "arthaud": 0.5,
+     "melenchon": 20.0,
+     "hollande": 10.0,
+     "attal": 6.5,
+     "philippe": 14.0,
+     "retailleau": 6.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 38.0,
+     "zemmour": 3.0
+    },
+    {
+     "arthaud": 0.0,
+     "melenchon": 15.0,
+     "roussel": 2.0,
+     "tondelier": 2.5,
+     "glucksmann": 12.0,
+     "attal": 4.0,
+     "philippe": 12.0,
+     "lisnard": 5.5,
+     "retailleau": 5.5,
+     "dupont-aignan": 1.5,
+     "le-pen": 34.0,
+     "zemmour": 3.0
+    },
+    {
+     "arthaud": 0.5,
+     "melenchon": 15.5,
+     "roussel": 2.0,
+     "tondelier": 3.0,
+     "glucksmann": 13.0,
+     "attal": 5.0,
+     "philippe": 13.0,
+     "lisnard": 7.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 36.0,
+     "zemmour": 3.0
+    },
+    {
+     "arthaud": 0.5,
+     "melenchon": 15.0,
+     "roussel": 2.0,
+     "tondelier": 3.0,
+     "glucksmann": 12.0,
+     "attal": 6.0,
+     "philippe": 12.0,
+     "retailleau": 6.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 35.0,
+     "zemmour": 3.5
+    }
+   ]
+  },
+  {
+   "id": "2026-10-16-elabe-1701",
+   "institut": "Elabe",
+   "debut": "2026-10-14",
+   "fin": "2026-10-16",
+   "echantillon": 1701,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10324-pres-iv-elabe-17-octobre.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 1.0,
+     "melenchon": 15.0,
+     "roussel": 1.5,
+     "tondelier": 3.0,
+     "glucksmann": 15.5,
+     "philippe": 16.5,
+     "retailleau": 7.0,
+     "dupont-aignan": 2.5,
+     "le-pen": 32.5,
+     "zemmour": 3.5
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 16.0,
+     "roussel": 2.0,
+     "tondelier": 2.5,
+     "glucksmann": 16.5,
+     "attal": 10.5,
+     "retailleau": 9.5,
+     "dupont-aignan": 2.0,
+     "le-pen": 33.5,
+     "zemmour": 3.5
+    },
+    {
+     "arthaud": 0.5,
+     "melenchon": 15.5,
+     "roussel": 1.5,
+     "tondelier": 2.5,
+     "glucksmann": 15.0,
+     "philippe": 15.5,
+     "lisnard": 5.5,
+     "retailleau": 6.5,
+     "dupont-aignan": 3.0,
+     "le-pen": 31.5,
+     "zemmour": 3.0
+    },
+    {
+     "arthaud": 0.5,
+     "melenchon": 16.0,
+     "roussel": 1.5,
+     "glucksmann": 16.5,
+     "attal": 9.5,
+     "lisnard": 6.5,
+     "retailleau": 9.0,
+     "dupont-aignan": 2.5,
+     "le-pen": 31.0,
+     "zemmour": 3.5
+    },
+    {
+     "arthaud": 0.5,
+     "melenchon": 15.5,
+     "roussel": 1.5,
+     "tondelier": 2.5,
+     "glucksmann": 15.5,
+     "attal": 4.5,
+     "philippe": 13.5,
+     "retailleau": 7.5,
+     "dupont-aignan": 3.0,
+     "le-pen": 32.5,
+     "zemmour": 3.5
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 15.0,
+     "roussel": 1.0,
+     "tondelier": 2.5,
+     "glucksmann": 16.0,
+     "philippe": 16.5,
+     "retailleau": 7.5,
+     "dupont-aignan": 2.5,
+     "le-pen": 33.5,
+     "zemmour": 3.0
+    }
+   ]
+  },
+  {
+   "id": "2026-10-15-yougov-1094",
+   "institut": "YouGov",
+   "debut": "2026-10-12",
+   "fin": "2026-10-15",
+   "echantillon": 1094,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10323-pres-iv-yougov-le-huffpost-18-octobre.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 0.0,
+     "melenchon": 15.0,
+     "roussel": 3.0,
+     "tondelier": 6.0,
+     "glucksmann": 12.0,
+     "attal": 6.0,
+     "philippe": 10.0,
+     "retailleau": 6.0,
+     "dupont-aignan": 3.0,
+     "le-pen": 36.0,
+     "zemmour": 3.0
+    },
+    {
+     "arthaud": 0.0,
+     "melenchon": 15.0,
+     "roussel": 3.0,
+     "tondelier": 6.0,
+     "glucksmann": 14.0,
+     "attal": 10.0,
+     "retailleau": 9.0,
+     "dupont-aignan": 3.0,
+     "le-pen": 37.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 0.0,
+     "melenchon": 15.0,
+     "roussel": 3.0,
+     "tondelier": 6.0,
+     "glucksmann": 13.0,
+     "philippe": 13.0,
+     "retailleau": 7.0,
+     "dupont-aignan": 3.0,
+     "le-pen": 36.0,
+     "zemmour": 3.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 16.0,
+     "roussel": 3.0,
+     "tondelier": 6.0,
+     "hollande": 9.0,
+     "philippe": 15.0,
+     "retailleau": 7.0,
+     "dupont-aignan": 3.0,
+     "le-pen": 37.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 0.0,
+     "melenchon": 13.0,
+     "roussel": 2.0,
+     "tondelier": 5.0,
+     "glucksmann": 12.0,
+     "attal": 6.0,
+     "philippe": 8.0,
+     "lisnard": 4.0,
+     "retailleau": 5.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 35.0,
+     "zemmour": 4.0
+    }
+   ]
+  },
+  {
+   "id": "2026-10-15-cluster17-1263",
+   "institut": "Cluster17",
+   "debut": "2026-10-14",
+   "fin": "2026-10-15",
+   "echantillon": 1263,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10325-pres-focus-droite-et-centre-cluster17-le-point-18-octobre.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 0.5,
+     "melenchon": 18.0,
+     "roussel": 1.5,
+     "tondelier": 2.0,
+     "glucksmann": 11.0,
+     "philippe": 17.0,
+     "lisnard": 7.0,
+     "retailleau": 7.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 31.0,
+     "zemmour": 3.0
+    },
+    {
+     "arthaud": 0.5,
+     "melenchon": 20.0,
+     "roussel": 2.0,
+     "tondelier": 2.0,
+     "glucksmann": 12.0,
+     "philippe": 20.0,
+     "dupont-aignan": 3.0,
+     "le-pen": 35.5,
+     "zemmour": 5.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 20.0,
+     "roussel": 2.0,
+     "tondelier": 2.0,
+     "glucksmann": 16.0,
+     "retailleau": 17.5,
+     "dupont-aignan": 3.0,
+     "le-pen": 34.5,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 20.5,
+     "roussel": 2.0,
+     "tondelier": 2.0,
+     "glucksmann": 16.0,
+     "lisnard": 17.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 35.5,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 20.0,
+     "roussel": 2.0,
+     "tondelier": 2.0,
+     "glucksmann": 13.5,
+     "attal": 17.0,
+     "dupont-aignan": 3.5,
+     "le-pen": 35.5,
+     "zemmour": 5.5
+    }
+   ]
+  },
+  {
+   "id": "2026-10-14-opinionway-1043",
+   "institut": "OpinionWay",
+   "debut": "2026-10-13",
+   "fin": "2026-10-14",
+   "echantillon": 1043,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10319-pres-iv-opinionway-cnews-15-octobre.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 1.0,
+     "melenchon": 15.0,
+     "roussel": 1.0,
+     "tondelier": 2.0,
+     "glucksmann": 13.0,
+     "attal": 5.0,
+     "philippe": 12.0,
+     "lisnard": 4.0,
+     "retailleau": 6.0,
+     "dupont-aignan": 1.0,
+     "le-pen": 35.0,
+     "zemmour": 5.0
+    }
+   ]
+  },
+  {
+   "id": "2026-10-14-opinionway-1001",
+   "institut": "OpinionWay",
+   "debut": "2026-10-13",
+   "fin": "2026-10-14",
+   "echantillon": 1001,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10318-pres-presitrack-v3-opinionway-15-octobre.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 0.5,
+     "melenchon": 14.0,
+     "roussel": 3.0,
+     "tondelier": 3.0,
+     "glucksmann": 13.0,
+     "attal": 7.0,
+     "philippe": 12.0,
+     "retailleau": 7.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 35.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 15.0,
+     "roussel": 2.0,
+     "tondelier": 3.0,
+     "glucksmann": 16.0,
+     "attal": 11.0,
+     "retailleau": 9.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 37.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 15.0,
+     "roussel": 2.0,
+     "tondelier": 3.0,
+     "glucksmann": 15.0,
+     "philippe": 15.0,
+     "retailleau": 8.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 35.0,
+     "zemmour": 4.0
+    }
+   ]
+  },
+  {
+   "id": "2026-10-14-ifop-1390",
+   "institut": "Ifop",
+   "debut": "2026-10-12",
+   "fin": "2026-10-14",
+   "echantillon": 1390,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10314-pres-climat-politique-post-primaire-ps-pp-ifop-lci-14-octobre.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 0.0,
+     "melenchon": 16.0,
+     "roussel": 2.0,
+     "tondelier": 2.0,
+     "glucksmann": 11.5,
+     "attal": 5.0,
+     "philippe": 13.0,
+     "lisnard": 6.0,
+     "retailleau": 5.0,
+     "dupont-aignan": 1.0,
+     "le-pen": 32.0,
+     "zemmour": 3.0
+    },
+    {
+     "arthaud": 0.5,
+     "melenchon": 17.0,
+     "roussel": 2.5,
+     "tondelier": 2.0,
+     "glucksmann": 16.0,
+     "attal": 13.0,
+     "retailleau": 8.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 36.0,
+     "zemmour": 3.0
+    },
+    {
+     "arthaud": 0.5,
+     "melenchon": 16.0,
+     "roussel": 3.0,
+     "tondelier": 2.5,
+     "glucksmann": 13.5,
+     "philippe": 18.0,
+     "retailleau": 6.5,
+     "dupont-aignan": 2.0,
+     "le-pen": 35.0,
+     "zemmour": 3.0
+    },
+    {
+     "arthaud": 0.0,
+     "melenchon": 16.0,
+     "roussel": 2.5,
+     "tondelier": 2.0,
+     "glucksmann": 14.0,
+     "attal": 6.0,
+     "philippe": 14.0,
+     "retailleau": 6.5,
+     "dupont-aignan": 2.0,
+     "le-pen": 34.0,
+     "zemmour": 3.0
+    }
+   ]
+  },
+  {
+   "id": "2026-10-08-harris-interactive-2004",
+   "institut": "Harris Interactive",
+   "debut": "2026-10-05",
+   "fin": "2026-10-08",
+   "echantillon": 2004,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10305-pres-iv-toluna-harris-interactive-12-octobre.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 1.0,
+     "melenchon": 19.0,
+     "roussel": 2.0,
+     "tondelier": 5.0,
+     "hollande": 7.0,
+     "attal": 12.0,
+     "retailleau": 10.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 37.0,
+     "zemmour": 5.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 18.0,
+     "roussel": 3.0,
+     "tondelier": 4.0,
+     "hollande": 7.0,
+     "philippe": 17.0,
+     "retailleau": 8.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 36.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 18.0,
+     "roussel": 2.0,
+     "tondelier": 3.0,
+     "glucksmann": 11.0,
+     "attal": 12.0,
+     "retailleau": 10.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 36.0,
+     "zemmour": 5.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 18.0,
+     "roussel": 2.0,
+     "tondelier": 3.0,
+     "glucksmann": 10.0,
+     "philippe": 17.0,
+     "retailleau": 7.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 36.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 18.0,
+     "roussel": 2.0,
+     "tondelier": 2.0,
+     "glucksmann": 10.0,
+     "attal": 5.0,
+     "philippe": 13.0,
+     "retailleau": 7.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 35.0,
+     "zemmour": 5.0
+    }
+   ]
+  },
+  {
+   "id": "2026-10-07-odoxa-12005",
+   "institut": "Odoxa",
+   "debut": "2026-09-24",
+   "fin": "2026-10-07",
+   "echantillon": 12005,
+   "notice": "https://www.odoxa.fr/sondage/melenchon-est-passe-devant-philippe-au-premier-tour-marine-le-pen-est-plus-que-jamais-la-grande-favorite-pour-2027-a-la-fois-au-premier-et-au-second-tour/",
+   "hypotheses": [
+    {
+     "arthaud": 0.5,
+     "melenchon": 18.0,
+     "roussel": 2.0,
+     "tondelier": 3.0,
+     "glucksmann": 9.5,
+     "philippe": 17.0,
+     "retailleau": 6.5,
+     "dupont-aignan": 2.0,
+     "le-pen": 37.0,
+     "zemmour": 4.5
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 18.5,
+     "roussel": 2.0,
+     "tondelier": 3.5,
+     "glucksmann": 10.5,
+     "attal": 11.0,
+     "retailleau": 9.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 38.0,
+     "zemmour": 4.5
+    }
+   ]
+  },
+  {
+   "id": "2026-09-29-ifop-1527",
+   "institut": "Ifop",
+   "debut": "2026-09-25",
+   "fin": "2026-09-29",
+   "echantillon": 1527,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10284-pres-barometre-election-presidentielle-v6-ifop-le-figaro-30-septembre.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 0.5,
+     "melenchon": 15.0,
+     "roussel": 2.5,
+     "tondelier": 3.0,
+     "glucksmann": 11.0,
+     "attal": 8.0,
+     "philippe": 16.0,
+     "retailleau": 7.0,
+     "dupont-aignan": 1.0,
+     "le-pen": 32.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 0.5,
+     "melenchon": 16.0,
+     "roussel": 2.5,
+     "tondelier": 3.0,
+     "glucksmann": 11.0,
+     "philippe": 21.0,
+     "retailleau": 8.0,
+     "dupont-aignan": 1.5,
+     "le-pen": 33.0,
+     "zemmour": 3.5
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 15.0,
+     "roussel": 2.5,
+     "tondelier": 4.0,
+     "glucksmann": 13.0,
+     "attal": 15.0,
+     "retailleau": 10.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 34.0,
+     "zemmour": 3.5
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 17.0,
+     "roussel": 3.0,
+     "tondelier": 5.5,
+     "faure": 4.0,
+     "attal": 17.0,
+     "retailleau": 11.0,
+     "dupont-aignan": 1.0,
+     "le-pen": 36.0,
+     "zemmour": 4.5
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 16.0,
+     "roussel": 3.5,
+     "tondelier": 5.0,
+     "faure": 3.0,
+     "philippe": 23.0,
+     "retailleau": 8.0,
+     "dupont-aignan": 1.5,
+     "le-pen": 35.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 0.5,
+     "melenchon": 15.0,
+     "roussel": 3.0,
+     "tondelier": 6.0,
+     "royal": 3.0,
+     "philippe": 24.0,
+     "retailleau": 8.0,
+     "dupont-aignan": 1.5,
+     "le-pen": 35.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 17.0,
+     "roussel": 3.5,
+     "tondelier": 5.5,
+     "guedj": 3.0,
+     "philippe": 23.0,
+     "retailleau": 8.0,
+     "dupont-aignan": 1.0,
+     "le-pen": 35.0,
+     "zemmour": 3.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 17.0,
+     "roussel": 3.5,
+     "tondelier": 6.0,
+     "maurel": 1.0,
+     "philippe": 23.0,
+     "retailleau": 9.0,
+     "dupont-aignan": 1.5,
+     "le-pen": 35.0,
+     "zemmour": 3.0
+    },
+    {
+     "arthaud": 0.5,
+     "melenchon": 16.0,
+     "roussel": 2.5,
+     "tondelier": 5.0,
+     "hollande": 8.0,
+     "philippe": 22.0,
+     "retailleau": 7.0,
+     "dupont-aignan": 1.0,
+     "le-pen": 34.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 0.5,
+     "melenchon": 14.0,
+     "roussel": 2.0,
+     "tondelier": 3.0,
+     "glucksmann": 9.0,
+     "attal": 7.0,
+     "philippe": 15.0,
+     "retailleau": 5.0,
+     "dupont-aignan": 1.0,
+     "le-pen": 31.0,
+     "zemmour": 4.0
+    }
+   ]
+  },
+  {
+   "id": "2026-09-24-harris-interactive-1974",
+   "institut": "Harris Interactive",
+   "debut": "2026-09-22",
+   "fin": "2026-09-24",
+   "echantillon": 1974,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10277-pres-toluna-harris-interactive-rtl-28-septembre.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 1.0,
+     "melenchon": 17.0,
+     "roussel": 3.0,
+     "tondelier": 5.0,
+     "hollande": 8.0,
+     "attal": 13.0,
+     "retailleau": 10.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 36.0,
+     "zemmour": 5.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 18.0,
+     "roussel": 3.0,
+     "tondelier": 4.0,
+     "hollande": 7.0,
+     "philippe": 16.0,
+     "retailleau": 9.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 35.0,
+     "zemmour": 5.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 17.0,
+     "roussel": 2.0,
+     "tondelier": 3.0,
+     "glucksmann": 11.0,
+     "attal": 12.0,
+     "retailleau": 10.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 36.0,
+     "zemmour": 6.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 18.0,
+     "roussel": 2.0,
+     "tondelier": 3.0,
+     "glucksmann": 10.0,
+     "philippe": 16.0,
+     "retailleau": 8.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 35.0,
+     "zemmour": 5.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 17.0,
+     "roussel": 2.0,
+     "tondelier": 3.0,
+     "glucksmann": 10.0,
+     "attal": 5.0,
+     "philippe": 13.0,
+     "retailleau": 7.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 35.0,
+     "zemmour": 5.0
+    }
+   ]
+  },
+  {
+   "id": "2026-09-21-yougov-1103",
+   "institut": "YouGov",
+   "debut": "2026-09-17",
+   "fin": "2026-09-21",
+   "echantillon": 1103,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10270-pres-iv-yougov-huffpost-23-septembre.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 1.0,
+     "melenchon": 17.0,
+     "roussel": 2.0,
+     "tondelier": 3.0,
+     "glucksmann": 8.0,
+     "attal": 9.0,
+     "philippe": 12.0,
+     "retailleau": 8.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 34.0,
+     "zemmour": 6.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 17.0,
+     "roussel": 2.0,
+     "tondelier": 3.0,
+     "glucksmann": 9.0,
+     "le-maire": 3.0,
+     "philippe": 13.0,
+     "retailleau": 8.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 35.0,
+     "zemmour": 6.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 17.0,
+     "roussel": 3.0,
+     "tondelier": 3.0,
+     "glucksmann": 9.0,
+     "attal": 14.0,
+     "retailleau": 10.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 35.0,
+     "zemmour": 5.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 18.0,
+     "roussel": 3.0,
+     "tondelier": 7.0,
+     "philippe": 17.0,
+     "retailleau": 8.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 37.0,
+     "zemmour": 5.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 16.0,
+     "roussel": 2.0,
+     "tondelier": 4.0,
+     "faure": 5.0,
+     "attal": 9.0,
+     "philippe": 12.0,
+     "retailleau": 8.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 35.0,
+     "zemmour": 6.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 15.0,
+     "roussel": 1.0,
+     "tondelier": 2.0,
+     "hollande": 4.0,
+     "glucksmann": 5.0,
+     "attal": 8.0,
+     "philippe": 10.0,
+     "retailleau": 7.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 33.0,
+     "zemmour": 5.0
+    }
+   ]
+  },
+  {
+   "id": "2026-09-16-cluster17-1943",
+   "institut": "Cluster17",
+   "debut": "2026-09-15",
+   "fin": "2026-09-16",
+   "echantillon": 1943,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10273-pres-iv-cluster17-politico-24-septembre.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 0.5,
+     "melenchon": 19.0,
+     "roussel": 2.0,
+     "tondelier": 2.5,
+     "glucksmann": 12.0,
+     "philippe": 19.0,
+     "retailleau": 7.5,
+     "dupont-aignan": 3.0,
+     "le-pen": 31.0,
+     "zemmour": 3.5
+    },
+    {
+     "arthaud": 0.5,
+     "melenchon": 20.0,
+     "roussel": 2.5,
+     "tondelier": 2.5,
+     "glucksmann": 14.0,
+     "attal": 13.5,
+     "retailleau": 9.5,
+     "dupont-aignan": 3.0,
+     "le-pen": 31.0,
+     "zemmour": 3.5
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 19.5,
+     "roussel": 3.0,
+     "tondelier": 3.0,
+     "hollande": 7.5,
+     "philippe": 19.5,
+     "retailleau": 7.5,
+     "dupont-aignan": 4.0,
+     "le-pen": 30.0
+    }
+   ]
+  },
+  {
+   "id": "2026-09-11-ifop-1548",
+   "institut": "Ifop",
+   "debut": "2026-09-09",
+   "fin": "2026-09-11",
+   "echantillon": 1548,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10292-pres-vote-blanc-ifop-6-octobre.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 0.5,
+     "melenchon": 17.0,
+     "roussel": 2.0,
+     "tondelier": 3.0,
+     "glucksmann": 9.0,
+     "attal": 7.0,
+     "philippe": 14.0,
+     "retailleau": 6.5,
+     "dupont-aignan": 2.0,
+     "le-pen": 35.0,
+     "zemmour": 4.0
+    }
+   ]
+  },
+  {
+   "id": "2026-09-10-opinionway-1001",
+   "institut": "OpinionWay",
+   "debut": "2026-09-09",
+   "fin": "2026-09-10",
+   "echantillon": 1001,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10260-pres-iv-opinionway-cnews-11-septembre.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 1.0,
+     "melenchon": 16.0,
+     "roussel": 3.0,
+     "tondelier": 3.0,
+     "hollande": 7.0,
+     "attal": 8.0,
+     "philippe": 16.0,
+     "retailleau": 7.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 32.0,
+     "zemmour": 2.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 17.0,
+     "roussel": 4.0,
+     "tondelier": 3.0,
+     "royal": 3.0,
+     "attal": 8.0,
+     "philippe": 16.0,
+     "retailleau": 7.0,
+     "dupont-aignan": 3.0,
+     "le-pen": 33.0,
+     "zemmour": 2.0
+    },
+    {
+     "arthaud": 0.5,
+     "melenchon": 17.0,
+     "roussel": 2.0,
+     "tondelier": 3.0,
+     "glucksmann": 9.0,
+     "attal": 7.0,
+     "philippe": 15.0,
+     "retailleau": 7.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 34.0,
+     "zemmour": 2.0
+    }
+   ]
+  },
+  {
+   "id": "2026-09-10-harris-interactive-2052",
+   "institut": "Harris Interactive",
+   "debut": "2026-09-08",
+   "fin": "2026-09-10",
+   "echantillon": 2052,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10263-pres-iv-toluna-harris-interactive-rtl-14-septembre.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 1.0,
+     "melenchon": 17.0,
+     "roussel": 3.0,
+     "tondelier": 4.0,
+     "hollande": 7.0,
+     "attal": 15.0,
+     "retailleau": 10.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 36.0,
+     "zemmour": 5.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 17.0,
+     "roussel": 3.0,
+     "tondelier": 4.0,
+     "hollande": 7.0,
+     "philippe": 19.0,
+     "retailleau": 9.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 33.0,
+     "zemmour": 5.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 17.0,
+     "roussel": 2.0,
+     "tondelier": 3.0,
+     "glucksmann": 12.0,
+     "attal": 14.0,
+     "retailleau": 9.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 35.0,
+     "zemmour": 5.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 17.0,
+     "roussel": 3.0,
+     "tondelier": 3.0,
+     "glucksmann": 10.0,
+     "philippe": 17.0,
+     "retailleau": 7.0,
+     "dupont-aignan": 3.0,
+     "le-pen": 34.0,
+     "zemmour": 5.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 16.0,
+     "roussel": 2.0,
+     "tondelier": 3.0,
+     "glucksmann": 9.0,
+     "attal": 8.0,
+     "philippe": 14.0,
+     "retailleau": 7.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 33.0,
+     "zemmour": 5.0
+    }
+   ]
+  },
+  {
+   "id": "2026-09-09-opinionway-1001",
+   "institut": "OpinionWay",
+   "debut": "2026-09-08",
+   "fin": "2026-09-09",
+   "echantillon": 1001,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10259-pres-presitrack-v2-opinionway-les-echos-10-septembre.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 0.5,
+     "melenchon": 15.0,
+     "roussel": 2.0,
+     "tondelier": 3.0,
+     "glucksmann": 9.0,
+     "attal": 8.0,
+     "philippe": 15.0,
+     "retailleau": 8.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 34.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 15.0,
+     "roussel": 2.0,
+     "tondelier": 4.0,
+     "glucksmann": 12.0,
+     "attal": 14.0,
+     "retailleau": 12.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 34.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 15.0,
+     "roussel": 1.0,
+     "tondelier": 3.0,
+     "glucksmann": 10.0,
+     "philippe": 19.0,
+     "retailleau": 10.0,
+     "dupont-aignan": 3.0,
+     "le-pen": 34.0,
+     "zemmour": 4.0
+    }
+   ]
+  },
+  {
+   "id": "2026-09-09-ipsos-13060",
+   "institut": "Ipsos",
+   "debut": "2026-09-03",
+   "fin": "2026-09-09",
+   "echantillon": 13060,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10262-pres-enquete-electorale-ipsos-bva-le-monde-13-septembre.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 0.5,
+     "melenchon": 15.5,
+     "roussel": 2.5,
+     "tondelier": 4.0,
+     "glucksmann": 11.5,
+     "attal": 6.0,
+     "philippe": 14.0,
+     "retailleau": 7.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 33.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 0.5,
+     "melenchon": 15.5,
+     "roussel": 2.5,
+     "tondelier": 4.0,
+     "glucksmann": 12.5,
+     "philippe": 17.5,
+     "retailleau": 8.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 33.5,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 0.5,
+     "melenchon": 15.5,
+     "roussel": 2.5,
+     "tondelier": 4.5,
+     "glucksmann": 13.5,
+     "attal": 13.0,
+     "retailleau": 10.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 34.0,
+     "zemmour": 4.5
+    },
+    {
+     "arthaud": 0.5,
+     "melenchon": 16.5,
+     "roussel": 3.0,
+     "tondelier": 5.0,
+     "faure": 4.5,
+     "attal": 7.5,
+     "philippe": 16.0,
+     "retailleau": 7.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 34.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 0.5,
+     "melenchon": 16.5,
+     "roussel": 3.5,
+     "tondelier": 5.5,
+     "faure": 5.0,
+     "philippe": 21.0,
+     "retailleau": 7.5,
+     "dupont-aignan": 2.0,
+     "le-pen": 34.5,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 0.5,
+     "melenchon": 17.0,
+     "roussel": 3.5,
+     "tondelier": 5.5,
+     "faure": 5.5,
+     "attal": 15.5,
+     "retailleau": 10.5,
+     "dupont-aignan": 2.5,
+     "le-pen": 35.0,
+     "zemmour": 4.5
+    }
+   ]
+  },
+  {
+   "id": "2026-09-04-opinionway-1034",
+   "institut": "OpinionWay",
+   "debut": "2026-09-02",
+   "fin": "2026-09-04",
+   "echantillon": 1034,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10264-pres-opinionway-facebook-15-septembre.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 1.0,
+     "melenchon": 16.0,
+     "roussel": 2.0,
+     "tondelier": 3.0,
+     "glucksmann": 12.0,
+     "attal": 7.0,
+     "philippe": 15.0,
+     "retailleau": 7.0,
+     "le-pen": 34.0,
+     "zemmour": 3.0
+    }
+   ]
+  },
+  {
+   "id": "2026-09-03-opinionway-1003",
+   "institut": "OpinionWay",
+   "debut": "2026-09-02",
+   "fin": "2026-09-03",
+   "echantillon": 1003,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10252-pres-iv-opinionway-jdd-7-septembre.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 1.0,
+     "melenchon": 17.0,
+     "roussel": 3.0,
+     "tondelier": 4.0,
+     "glucksmann": 13.0,
+     "attal": 13.0,
+     "retailleau": 11.0,
+     "le-pen": 35.0,
+     "zemmour": 3.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 16.0,
+     "roussel": 3.0,
+     "tondelier": 4.0,
+     "glucksmann": 12.0,
+     "philippe": 20.0,
+     "retailleau": 8.0,
+     "le-pen": 33.0,
+     "zemmour": 3.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 17.0,
+     "roussel": 2.0,
+     "tondelier": 3.0,
+     "glucksmann": 11.0,
+     "attal": 7.0,
+     "philippe": 15.0,
+     "retailleau": 7.0,
+     "le-pen": 34.0,
+     "zemmour": 3.0
+    }
+   ]
+  },
+  {
+   "id": "2026-09-02-ipsos-1500",
+   "institut": "Ipsos",
+   "debut": "2026-08-31",
+   "fin": "2026-09-02",
+   "echantillon": 1500,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10250-pres-iv-ipsos-bva-le-parisien-5-septembre.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 0.5,
+     "melenchon": 15.0,
+     "roussel": 2.5,
+     "tondelier": 3.5,
+     "glucksmann": 11.5,
+     "attal": 7.5,
+     "philippe": 14.5,
+     "retailleau": 6.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 34.0,
+     "zemmour": 3.0
+    },
+    {
+     "arthaud": 0.5,
+     "melenchon": 15.0,
+     "roussel": 2.5,
+     "tondelier": 4.0,
+     "glucksmann": 12.0,
+     "philippe": 19.0,
+     "retailleau": 7.5,
+     "dupont-aignan": 2.0,
+     "le-pen": 34.5,
+     "zemmour": 3.0
+    },
+    {
+     "arthaud": 0.5,
+     "melenchon": 15.0,
+     "roussel": 2.5,
+     "tondelier": 4.0,
+     "glucksmann": 14.0,
+     "attal": 14.0,
+     "retailleau": 9.5,
+     "dupont-aignan": 2.5,
+     "le-pen": 35.0,
+     "zemmour": 3.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 16.0,
+     "roussel": 3.0,
+     "tondelier": 5.0,
+     "faure": 4.5,
+     "attal": 8.5,
+     "philippe": 16.5,
+     "retailleau": 6.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 34.5,
+     "zemmour": 3.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 16.5,
+     "roussel": 3.5,
+     "tondelier": 5.0,
+     "faure": 4.5,
+     "philippe": 22.5,
+     "retailleau": 7.5,
+     "dupont-aignan": 2.0,
+     "le-pen": 34.5,
+     "zemmour": 3.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 17.0,
+     "roussel": 3.5,
+     "tondelier": 5.5,
+     "faure": 5.5,
+     "attal": 15.5,
+     "retailleau": 10.0,
+     "dupont-aignan": 2.5,
+     "le-pen": 36.0,
+     "zemmour": 3.5
+    }
+   ]
+  },
+  {
+   "id": "2026-09-01-cluster17-1711",
+   "institut": "Cluster17",
+   "debut": "2026-08-31",
+   "fin": "2026-09-01",
+   "echantillon": 1711,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10251-pres-iv-cluster-17-le-point-5-septembre.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 1.0,
+     "melenchon": 18.0,
+     "roussel": 2.0,
+     "tondelier": 2.0,
+     "glucksmann": 11.5,
+     "philippe": 18.0,
+     "retailleau": 7.5,
+     "dupont-aignan": 3.0,
+     "le-pen": 30.0,
+     "zemmour": 3.5
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 18.0,
+     "roussel": 2.0,
+     "tondelier": 2.5,
+     "glucksmann": 11.5,
+     "attal": 13.5,
+     "retailleau": 9.0,
+     "dupont-aignan": 3.0,
+     "le-pen": 31.5,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 17.0,
+     "roussel": 2.0,
+     "glucksmann": 11.0,
+     "philippe": 17.0,
+     "retailleau": 6.5,
+     "dupont-aignan": 2.0,
+     "le-pen": 29.0,
+     "zemmour": 3.0
+    }
+   ]
+  },
+  {
+   "id": "2026-08-28-elabe-1501",
+   "institut": "Elabe",
+   "debut": "2026-08-26",
+   "fin": "2026-08-28",
+   "echantillon": 1501,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10245-pres-iv-elabe-29-aout.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 1.5,
+     "melenchon": 14.0,
+     "roussel": 3.0,
+     "tondelier": 3.5,
+     "glucksmann": 11.5,
+     "philippe": 17.0,
+     "retailleau": 6.5,
+     "dupont-aignan": 3.0,
+     "le-pen": 34.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 1.5,
+     "melenchon": 14.0,
+     "roussel": 3.0,
+     "tondelier": 3.0,
+     "glucksmann": 14.0,
+     "attal": 12.0,
+     "retailleau": 9.5,
+     "dupont-aignan": 2.0,
+     "le-pen": 34.5,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 2.0,
+     "melenchon": 14.0,
+     "roussel": 3.5,
+     "tondelier": 4.0,
+     "hollande": 7.5,
+     "philippe": 19.5,
+     "retailleau": 6.0,
+     "dupont-aignan": 2.5,
+     "le-pen": 34.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 1.5,
+     "melenchon": 14.0,
+     "roussel": 4.0,
+     "hollande": 8.0,
+     "attal": 12.5,
+     "retailleau": 9.0,
+     "dupont-aignan": 2.5,
+     "le-pen": 34.5,
+     "zemmour": 4.5
+    },
+    {
+     "arthaud": 1.5,
+     "melenchon": 14.5,
+     "roussel": 4.5,
+     "tondelier": 4.0,
+     "faure": 3.5,
+     "philippe": 20.5,
+     "retailleau": 7.0,
+     "dupont-aignan": 2.5,
+     "le-pen": 35.5,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 1.5,
+     "melenchon": 14.5,
+     "roussel": 3.0,
+     "glucksmann": 12.5,
+     "attal": 6.5,
+     "philippe": 14.5,
+     "retailleau": 7.0,
+     "dupont-aignan": 2.5,
+     "le-pen": 34.0,
+     "zemmour": 4.0
+    }
+   ]
+  },
+  {
+   "id": "2026-08-25-ifop-1598",
+   "institut": "Ifop",
+   "debut": "2026-08-24",
+   "fin": "2026-08-25",
+   "echantillon": 1598,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10242-pres-barometre-election-pres-iv-v5-ifop-26-aout.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 0.5,
+     "melenchon": 16.0,
+     "roussel": 3.0,
+     "tondelier": 3.0,
+     "glucksmann": 11.0,
+     "attal": 8.0,
+     "philippe": 14.5,
+     "retailleau": 6.0,
+     "dupont-aignan": 1.5,
+     "le-pen": 33.0,
+     "zemmour": 3.5
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 17.0,
+     "roussel": 3.0,
+     "tondelier": 3.0,
+     "glucksmann": 12.0,
+     "philippe": 18.0,
+     "retailleau": 8.0,
+     "dupont-aignan": 1.5,
+     "le-pen": 33.0,
+     "zemmour": 3.5
+    },
+    {
+     "arthaud": 0.5,
+     "melenchon": 17.0,
+     "roussel": 3.0,
+     "tondelier": 3.0,
+     "glucksmann": 15.0,
+     "attal": 14.0,
+     "retailleau": 9.0,
+     "dupont-aignan": 1.5,
+     "le-pen": 34.0,
+     "zemmour": 3.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 18.0,
+     "glucksmann": 15.0,
+     "philippe": 19.0,
+     "retailleau": 8.0,
+     "dupont-aignan": 2.5,
+     "le-pen": 33.0,
+     "zemmour": 3.5
+    },
+    {
+     "arthaud": 1.5,
+     "melenchon": 18.5,
+     "glucksmann": 17.0,
+     "attal": 15.0,
+     "retailleau": 9.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 34.0,
+     "zemmour": 3.0
+    },
+    {
+     "arthaud": 1.5,
+     "melenchon": 19.0,
+     "hollande": 12.0,
+     "philippe": 21.0,
+     "retailleau": 8.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 34.0,
+     "zemmour": 2.5
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 17.0,
+     "roussel": 3.0,
+     "tondelier": 3.0,
+     "glucksmann": 18.0,
+     "le-maire": 6.0,
+     "retailleau": 12.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 35.0,
+     "zemmour": 3.0
+    }
+   ]
+  },
+  {
+   "id": "2026-08-19-harris-interactive-1764",
+   "institut": "Harris Interactive",
+   "debut": "2026-08-18",
+   "fin": "2026-08-19",
+   "echantillon": 1764,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10239-pres-toluna-harris-interactive-rtl-24-aout.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 1.0,
+     "melenchon": 17.0,
+     "roussel": 3.0,
+     "tondelier": 4.0,
+     "hollande": 8.0,
+     "attal": 14.0,
+     "retailleau": 9.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 38.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 17.0,
+     "roussel": 3.0,
+     "tondelier": 4.0,
+     "hollande": 8.0,
+     "philippe": 19.0,
+     "retailleau": 7.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 35.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 17.0,
+     "roussel": 2.0,
+     "tondelier": 3.0,
+     "glucksmann": 11.0,
+     "attal": 15.0,
+     "retailleau": 9.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 37.0,
+     "zemmour": 3.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 17.0,
+     "roussel": 3.0,
+     "tondelier": 3.0,
+     "glucksmann": 10.0,
+     "philippe": 17.0,
+     "retailleau": 7.0,
+     "dupont-aignan": 3.0,
+     "le-pen": 35.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 16.0,
+     "roussel": 2.0,
+     "tondelier": 3.0,
+     "glucksmann": 10.0,
+     "attal": 8.0,
+     "philippe": 14.0,
+     "retailleau": 6.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 35.0,
+     "zemmour": 3.0
+    }
+   ]
+  },
+  {
+   "id": "2026-07-24-cluster17-1506",
+   "institut": "Cluster17",
+   "debut": "2026-07-22",
+   "fin": "2026-07-24",
+   "echantillon": 1506,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10246-pres-cluster17-le-grand-continent-31-aout.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 1.0,
+     "melenchon": 18.0,
+     "roussel": 2.0,
+     "tondelier": 3.0,
+     "glucksmann": 10.0,
+     "philippe": 18.0,
+     "retailleau": 8.0,
+     "dupont-aignan": 3.0,
+     "le-pen": 30.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 18.0,
+     "roussel": 2.0,
+     "tondelier": 3.0,
+     "glucksmann": 10.0,
+     "attal": 14.0,
+     "retailleau": 10.0,
+     "dupont-aignan": 4.0,
+     "le-pen": 30.0,
+     "zemmour": 4.0
+    }
+   ]
+  },
+  {
+   "id": "2026-07-10-verian-1047",
+   "institut": "Verian",
+   "debut": "2026-07-08",
+   "fin": "2026-07-10",
+   "echantillon": 1047,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/juillet/10225-pres-iv-1er-tour-verian-lhemicycle-10-juillet.pdf",
+   "hypotheses": [
+    {
+     "melenchon": 15.0,
+     "roussel": 2.0,
+     "glucksmann": 11.0,
+     "attal": 8.0,
+     "philippe": 17.0,
+     "retailleau": 7.0,
+     "le-pen": 37.0,
+     "zemmour": 3.0
+    }
+   ]
+  },
+  {
+   "id": "2026-07-10-elabe-1503",
+   "institut": "Elabe",
+   "debut": "2026-07-09",
+   "fin": "2026-07-10",
+   "echantillon": 1503,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/juillet/10226-pres-elabe-11-juillet.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 1.0,
+     "melenchon": 16.0,
+     "roussel": 2.5,
+     "tondelier": 3.5,
+     "glucksmann": 10.5,
+     "philippe": 16.5,
+     "retailleau": 8.0,
+     "dupont-aignan": 1.5,
+     "le-pen": 35.0,
+     "zemmour": 3.0
+    },
+    {
+     "arthaud": 1.5,
+     "melenchon": 14.5,
+     "roussel": 2.5,
+     "tondelier": 3.5,
+     "glucksmann": 11.0,
+     "attal": 13.5,
+     "retailleau": 11.0,
+     "dupont-aignan": 1.5,
+     "le-pen": 34.0,
+     "zemmour": 3.5
+    },
+    {
+     "arthaud": 1.5,
+     "melenchon": 14.5,
+     "roussel": 2.0,
+     "hollande": 9.0,
+     "philippe": 19.0,
+     "retailleau": 9.0,
+     "dupont-aignan": 1.5,
+     "le-pen": 35.0,
+     "zemmour": 2.5
+    },
+    {
+     "arthaud": 1.5,
+     "melenchon": 15.0,
+     "roussel": 2.5,
+     "hollande": 8.0,
+     "attal": 15.5,
+     "retailleau": 11.0,
+     "dupont-aignan": 1.5,
+     "le-pen": 35.5,
+     "zemmour": 3.5
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 14.5,
+     "roussel": 2.5,
+     "tondelier": 4.0,
+     "glucksmann": 8.5,
+     "attal": 7.5,
+     "philippe": 14.0,
+     "retailleau": 8.5,
+     "dupont-aignan": 1.5,
+     "le-pen": 35.0,
+     "zemmour": 3.0
+    },
+    {
+     "arthaud": 2.0,
+     "melenchon": 15.0,
+     "roussel": 3.0,
+     "tondelier": 4.0,
+     "hollande": 8.0,
+     "philippe": 18.0,
+     "retailleau": 8.0,
+     "dupont-aignan": 1.5,
+     "le-pen": 34.5,
+     "zemmour": 3.0
+    }
+   ]
+  },
+  {
+   "id": "2026-07-09-opinionway-963",
+   "institut": "OpinionWay",
+   "debut": "2026-07-08",
+   "fin": "2026-07-09",
+   "echantillon": 963,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/juillet/10224-pres-presitrack-opinionway-les-echos-9-juillet.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 0.5,
+     "melenchon": 13.0,
+     "roussel": 2.0,
+     "tondelier": 5.0,
+     "glucksmann": 9.0,
+     "attal": 7.0,
+     "philippe": 18.0,
+     "retailleau": 8.0,
+     "le-pen": 35.0,
+     "zemmour": 3.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 15.0,
+     "roussel": 2.0,
+     "tondelier": 5.0,
+     "glucksmann": 10.0,
+     "attal": 16.0,
+     "retailleau": 12.0,
+     "le-pen": 36.0,
+     "zemmour": 3.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 15.0,
+     "roussel": 2.0,
+     "tondelier": 4.0,
+     "glucksmann": 9.0,
+     "philippe": 22.0,
+     "retailleau": 9.0,
+     "le-pen": 34.0,
+     "zemmour": 4.0
+    }
+   ]
+  },
+  {
+   "id": "2026-07-08-ifop-984",
+   "institut": "Ifop",
+   "debut": "2026-07-07",
+   "fin": "2026-07-08",
+   "echantillon": 984,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/juillet/10222-pres-ifop-le-figaro-8-juillet.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 0.5,
+     "melenchon": 15.0,
+     "roussel": 2.0,
+     "tondelier": 4.0,
+     "glucksmann": 12.0,
+     "attal": 15.0,
+     "retailleau": 10.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 36.0,
+     "zemmour": 3.5
+    },
+    {
+     "arthaud": 0.5,
+     "melenchon": 15.0,
+     "roussel": 3.0,
+     "tondelier": 3.5,
+     "glucksmann": 9.0,
+     "philippe": 19.0,
+     "retailleau": 8.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 36.0,
+     "zemmour": 4.0
+    }
+   ]
+  },
+  {
+   "id": "2026-07-08-harris-interactive-1592",
+   "institut": "Harris Interactive",
+   "debut": "2026-07-07",
+   "fin": "2026-07-08",
+   "echantillon": 1592,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/juillet/10223-pres-iv-toluna-harris-interactive-rtl-8-juillet.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 1.0,
+     "melenchon": 16.0,
+     "roussel": 3.0,
+     "tondelier": 5.0,
+     "hollande": 8.0,
+     "attal": 16.0,
+     "retailleau": 8.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 36.0,
+     "zemmour": 5.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 16.0,
+     "roussel": 3.0,
+     "tondelier": 4.0,
+     "hollande": 8.0,
+     "philippe": 20.0,
+     "retailleau": 8.0,
+     "dupont-aignan": 1.0,
+     "le-pen": 35.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 16.0,
+     "roussel": 3.0,
+     "tondelier": 3.0,
+     "glucksmann": 11.0,
+     "attal": 16.0,
+     "retailleau": 9.0,
+     "dupont-aignan": 1.0,
+     "le-pen": 36.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 16.0,
+     "roussel": 2.0,
+     "tondelier": 3.0,
+     "glucksmann": 11.0,
+     "philippe": 20.0,
+     "retailleau": 8.0,
+     "dupont-aignan": 1.0,
+     "le-pen": 34.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 16.0,
+     "roussel": 2.0,
+     "tondelier": 2.0,
+     "glucksmann": 10.0,
+     "attal": 8.0,
+     "philippe": 14.0,
+     "retailleau": 7.0,
+     "dupont-aignan": 1.0,
+     "le-pen": 35.0,
+     "zemmour": 4.0
+    }
+   ]
+  },
+  {
+   "id": "2026-06-24-ifop-1415",
+   "institut": "Ifop",
+   "debut": "2026-06-22",
+   "fin": "2026-06-24",
+   "echantillon": 1415,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/juin/10211-pres-iv-ifop-le-figaro-25-juin.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 0.5,
+     "melenchon": 13.0,
+     "roussel": 3.0,
+     "tondelier": 2.5,
+     "glucksmann": 9.0,
+     "attal": 8.0,
+     "philippe": 14.0,
+     "retailleau": 8.0,
+     "dupont-aignan": 2.0,
+     "bardella": 36.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 0.5,
+     "melenchon": 13.0,
+     "roussel": 3.0,
+     "tondelier": 3.5,
+     "glucksmann": 10.0,
+     "philippe": 19.0,
+     "retailleau": 9.0,
+     "dupont-aignan": 2.0,
+     "bardella": 36.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 0.5,
+     "melenchon": 13.0,
+     "roussel": 2.5,
+     "tondelier": 3.5,
+     "glucksmann": 11.0,
+     "attal": 15.0,
+     "retailleau": 11.0,
+     "dupont-aignan": 2.0,
+     "bardella": 37.0,
+     "zemmour": 4.5
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 12.0,
+     "roussel": 3.0,
+     "tondelier": 4.0,
+     "glucksmann": 9.0,
+     "philippe": 20.0,
+     "retailleau": 11.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 32.0,
+     "zemmour": 6.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 13.0,
+     "roussel": 3.0,
+     "tondelier": 3.0,
+     "glucksmann": 11.0,
+     "attal": 15.0,
+     "retailleau": 14.0,
+     "dupont-aignan": 3.0,
+     "le-pen": 32.0,
+     "zemmour": 5.0
+    },
+    {
+     "arthaud": 1.5,
+     "melenchon": 15.0,
+     "hollande": 9.0,
+     "philippe": 21.0,
+     "retailleau": 10.0,
+     "dupont-aignan": 3.0,
+     "bardella": 37.0,
+     "zemmour": 3.5
+    },
+    {
+     "arthaud": 1.5,
+     "melenchon": 14.0,
+     "glucksmann": 11.0,
+     "philippe": 20.0,
+     "retailleau": 11.0,
+     "dupont-aignan": 2.5,
+     "bardella": 36.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 13.0,
+     "roussel": 2.5,
+     "tondelier": 3.5,
+     "glucksmann": 8.0,
+     "philippe": 19.0,
+     "retailleau": 9.0,
+     "dupont-aignan": 2.5,
+     "bardella": 35.0,
+     "zemmour": 4.5
+    }
+   ]
+  },
+  {
+   "id": "2026-06-11-opinionway-1001",
+   "institut": "OpinionWay",
+   "debut": "2026-06-10",
+   "fin": "2026-06-11",
+   "echantillon": 1001,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/juin/10205-pres-iv-opinionway-jdd-13-juin.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 1.0,
+     "melenchon": 16.0,
+     "glucksmann": 16.0,
+     "philippe": 19.0,
+     "retailleau": 9.0,
+     "dupont-aignan": 2.0,
+     "zemmour": 3.0,
+     "bardella": 34.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 16.0,
+     "glucksmann": 16.0,
+     "philippe": 19.0,
+     "retailleau": 9.0,
+     "dupont-aignan": 2.0,
+     "zemmour": 3.0,
+     "le-pen": 34.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 13.0,
+     "roussel": 3.0,
+     "tondelier": 5.0,
+     "glucksmann": 13.0,
+     "philippe": 19.0,
+     "retailleau": 8.0,
+     "dupont-aignan": 2.0,
+     "zemmour": 3.0,
+     "bardella": 33.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 13.0,
+     "roussel": 3.0,
+     "tondelier": 5.0,
+     "glucksmann": 13.0,
+     "philippe": 19.0,
+     "retailleau": 8.0,
+     "dupont-aignan": 2.0,
+     "zemmour": 3.0,
+     "le-pen": 33.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 13.0,
+     "roussel": 4.0,
+     "tondelier": 4.0,
+     "glucksmann": 14.0,
+     "attal": 14.0,
+     "retailleau": 9.0,
+     "dupont-aignan": 2.0,
+     "zemmour": 4.0,
+     "bardella": 35.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 13.0,
+     "roussel": 4.0,
+     "tondelier": 4.0,
+     "glucksmann": 14.0,
+     "attal": 14.0,
+     "retailleau": 9.0,
+     "dupont-aignan": 2.0,
+     "zemmour": 4.0,
+     "le-pen": 35.0
+    }
+   ]
+  },
+  {
+   "id": "2026-05-28-ipsos-1500",
+   "institut": "Ipsos",
+   "debut": "2026-05-27",
+   "fin": "2026-05-28",
+   "echantillon": 1500,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/juin/10195-pres-ipsos-bva-le-parisien-1er-juin.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 1.0,
+     "melenchon": 13.0,
+     "roussel": 3.0,
+     "tondelier": 4.0,
+     "glucksmann": 11.0,
+     "attal": 8.5,
+     "philippe": 13.0,
+     "retailleau": 7.5,
+     "dupont-aignan": 1.5,
+     "bardella": 33.5,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 13.0,
+     "roussel": 3.0,
+     "tondelier": 4.0,
+     "glucksmann": 11.0,
+     "attal": 8.5,
+     "philippe": 14.0,
+     "retailleau": 8.5,
+     "dupont-aignan": 1.5,
+     "le-pen": 31.0,
+     "zemmour": 4.5
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 13.5,
+     "roussel": 4.0,
+     "tondelier": 4.0,
+     "hollande": 7.0,
+     "attal": 9.5,
+     "philippe": 13.5,
+     "retailleau": 8.0,
+     "dupont-aignan": 1.5,
+     "bardella": 34.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 13.5,
+     "roussel": 4.0,
+     "tondelier": 4.0,
+     "hollande": 7.0,
+     "attal": 9.5,
+     "philippe": 14.5,
+     "retailleau": 8.5,
+     "dupont-aignan": 1.5,
+     "le-pen": 32.0,
+     "zemmour": 4.5
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 13.0,
+     "roussel": 3.0,
+     "tondelier": 4.0,
+     "glucksmann": 14.0,
+     "attal": 14.5,
+     "retailleau": 10.0,
+     "dupont-aignan": 1.5,
+     "bardella": 35.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 13.0,
+     "roussel": 3.0,
+     "tondelier": 4.0,
+     "glucksmann": 13.0,
+     "philippe": 17.5,
+     "retailleau": 9.0,
+     "dupont-aignan": 1.5,
+     "bardella": 34.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 13.5,
+     "roussel": 3.5,
+     "tondelier": 5.0,
+     "hollande": 8.0,
+     "attal": 17.5,
+     "retailleau": 10.0,
+     "dupont-aignan": 1.5,
+     "bardella": 36.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 13.5,
+     "roussel": 4.0,
+     "tondelier": 5.0,
+     "hollande": 7.5,
+     "philippe": 19.0,
+     "retailleau": 9.0,
+     "dupont-aignan": 1.5,
+     "bardella": 35.5,
+     "zemmour": 4.0
+    }
+   ]
+  },
+  {
+   "id": "2026-05-28-ifop-1501",
+   "institut": "Ifop",
+   "debut": "2026-05-26",
+   "fin": "2026-05-28",
+   "echantillon": 1501,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/mai/10193-pres-ifop-le-figaro-29-mai.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 0.5,
+     "melenchon": 13.0,
+     "roussel": 2.5,
+     "tondelier": 4.0,
+     "glucksmann": 9.0,
+     "attal": 9.0,
+     "philippe": 14.0,
+     "retailleau": 8.0,
+     "dupont-aignan": 2.0,
+     "bardella": 34.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 0.5,
+     "melenchon": 13.0,
+     "roussel": 3.5,
+     "tondelier": 4.0,
+     "glucksmann": 10.0,
+     "philippe": 18.0,
+     "villepin": 2.5,
+     "retailleau": 9.0,
+     "dupont-aignan": 2.0,
+     "bardella": 34.0,
+     "zemmour": 3.5
+    },
+    {
+     "arthaud": 0.5,
+     "melenchon": 13.0,
+     "roussel": 3.0,
+     "tondelier": 4.0,
+     "glucksmann": 11.0,
+     "attal": 16.0,
+     "villepin": 3.0,
+     "retailleau": 10.0,
+     "dupont-aignan": 2.5,
+     "bardella": 34.0,
+     "zemmour": 3.0
+    },
+    {
+     "arthaud": 0.5,
+     "melenchon": 13.0,
+     "roussel": 3.0,
+     "tondelier": 4.0,
+     "glucksmann": 11.0,
+     "philippe": 19.0,
+     "villepin": 2.0,
+     "retailleau": 9.0,
+     "dupont-aignan": 1.5,
+     "le-pen": 33.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 0.5,
+     "melenchon": 13.0,
+     "roussel": 3.0,
+     "tondelier": 3.5,
+     "glucksmann": 11.5,
+     "attal": 16.0,
+     "villepin": 3.0,
+     "retailleau": 11.5,
+     "dupont-aignan": 2.0,
+     "le-pen": 32.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 0.5,
+     "melenchon": 14.0,
+     "roussel": 4.0,
+     "tondelier": 5.0,
+     "hollande": 8.0,
+     "philippe": 20.0,
+     "retailleau": 9.0,
+     "dupont-aignan": 1.5,
+     "bardella": 34.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 13.5,
+     "roussel": 3.5,
+     "tondelier": 5.0,
+     "hollande": 8.0,
+     "attal": 18.5,
+     "retailleau": 10.0,
+     "dupont-aignan": 2.0,
+     "bardella": 35.0,
+     "zemmour": 3.5
+    },
+    {
+     "arthaud": 0.5,
+     "melenchon": 12.5,
+     "roussel": 3.0,
+     "tondelier": 4.0,
+     "glucksmann": 9.0,
+     "philippe": 20.0,
+     "retailleau": 9.0,
+     "dupont-aignan": 2.0,
+     "bardella": 34.0,
+     "zemmour": 3.0
+    },
+    {
+     "arthaud": 0.5,
+     "melenchon": 13.5,
+     "roussel": 6.0,
+     "tondelier": 4.0,
+     "faure": 4.0,
+     "philippe": 21.0,
+     "retailleau": 10.0,
+     "dupont-aignan": 2.5,
+     "bardella": 35.0,
+     "zemmour": 3.5
+    },
+    {
+     "arthaud": 1.5,
+     "melenchon": 15.0,
+     "hollande": 11.0,
+     "philippe": 22.0,
+     "retailleau": 10.0,
+     "dupont-aignan": 2.5,
+     "bardella": 34.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 15.0,
+     "glucksmann": 12.0,
+     "philippe": 22.0,
+     "retailleau": 10.0,
+     "dupont-aignan": 3.0,
+     "bardella": 33.0,
+     "zemmour": 4.0
+    }
+   ]
+  },
+  {
+   "id": "2026-05-27-harris-interactive-1744",
+   "institut": "Harris Interactive",
+   "debut": "2026-05-25",
+   "fin": "2026-05-27",
+   "echantillon": 1744,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/mai/10192-pres-toluna-harris-interactive-29-mai.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 1.0,
+     "melenchon": 15.0,
+     "roussel": 3.0,
+     "tondelier": 3.0,
+     "glucksmann": 10.0,
+     "philippe": 17.0,
+     "retailleau": 9.0,
+     "dupont-aignan": 2.0,
+     "bardella": 34.0,
+     "zemmour": 6.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 15.0,
+     "roussel": 4.0,
+     "tondelier": 3.0,
+     "glucksmann": 11.0,
+     "attal": 14.0,
+     "retailleau": 10.0,
+     "dupont-aignan": 2.0,
+     "bardella": 34.0,
+     "zemmour": 6.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 14.0,
+     "roussel": 3.0,
+     "tondelier": 3.0,
+     "glucksmann": 11.0,
+     "philippe": 19.0,
+     "retailleau": 10.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 31.0,
+     "zemmour": 6.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 15.0,
+     "roussel": 4.0,
+     "tondelier": 3.0,
+     "glucksmann": 11.0,
+     "attal": 15.0,
+     "retailleau": 11.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 32.0,
+     "zemmour": 6.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 14.0,
+     "roussel": 3.0,
+     "tondelier": 3.0,
+     "glucksmann": 10.0,
+     "attal": 9.0,
+     "philippe": 13.0,
+     "retailleau": 8.0,
+     "dupont-aignan": 2.0,
+     "bardella": 32.0,
+     "zemmour": 5.0
+    }
+   ]
+  },
+  {
+   "id": "2026-05-21-odoxa-1005",
+   "institut": "Odoxa",
+   "debut": "2026-05-20",
+   "fin": "2026-05-21",
+   "echantillon": 1005,
+   "notice": "https://www.odoxa.fr/sondage/philippe-seffondre-melenchon-decolle-bardella-simpose/",
+   "hypotheses": [
+    {
+     "arthaud": 0.5,
+     "melenchon": 16.0,
+     "roussel": 2.5,
+     "tondelier": 4.0,
+     "glucksmann": 11.0,
+     "philippe": 17.0,
+     "retailleau": 9.0,
+     "dupont-aignan": 2.0,
+     "bardella": 32.0,
+     "zemmour": 6.0
+    }
+   ]
+  },
+  {
+   "id": "2026-04-30-harris-interactive-1725",
+   "institut": "Harris Interactive",
+   "debut": "2026-04-28",
+   "fin": "2026-04-30",
+   "echantillon": 1725,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/mai/10180-pres-toluna-harris-interactive-rtl-4-mai.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 1.0,
+     "melenchon": 12.0,
+     "roussel": 4.0,
+     "tondelier": 4.0,
+     "glucksmann": 11.0,
+     "philippe": 19.0,
+     "retailleau": 9.0,
+     "dupont-aignan": 1.0,
+     "bardella": 34.0,
+     "zemmour": 5.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 13.0,
+     "roussel": 3.0,
+     "tondelier": 4.0,
+     "glucksmann": 12.0,
+     "attal": 14.0,
+     "retailleau": 12.0,
+     "dupont-aignan": 1.0,
+     "bardella": 35.0,
+     "zemmour": 5.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 12.0,
+     "roussel": 4.0,
+     "tondelier": 4.0,
+     "glucksmann": 11.0,
+     "philippe": 19.0,
+     "retailleau": 10.0,
+     "dupont-aignan": 1.0,
+     "le-pen": 32.0,
+     "zemmour": 6.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 12.0,
+     "roussel": 4.0,
+     "tondelier": 4.0,
+     "glucksmann": 12.0,
+     "attal": 14.0,
+     "retailleau": 13.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 33.0,
+     "zemmour": 5.0
+    }
+   ]
+  },
+  {
+   "id": "2026-03-27-elabe-1504",
+   "institut": "Elabe",
+   "debut": "2026-03-25",
+   "fin": "2026-03-27",
+   "echantillon": 1504,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/mars/10166-pres-elabe-28-mars.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 0.5,
+     "melenchon": 10.5,
+     "roussel": 3.0,
+     "tondelier": 4.5,
+     "glucksmann": 10.5,
+     "philippe": 20.5,
+     "villepin": 3.0,
+     "retailleau": 7.0,
+     "dupont-aignan": 2.5,
+     "bardella": 35.0,
+     "zemmour": 3.0
+    },
+    {
+     "arthaud": 0.5,
+     "melenchon": 11.5,
+     "roussel": 3.5,
+     "tondelier": 5.0,
+     "glucksmann": 8.5,
+     "philippe": 22.0,
+     "villepin": 2.5,
+     "retailleau": 8.5,
+     "dupont-aignan": 3.0,
+     "le-pen": 31.5,
+     "zemmour": 3.5
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 12.0,
+     "roussel": 4.0,
+     "tondelier": 4.5,
+     "faure": 4.5,
+     "philippe": 25.5,
+     "villepin": 3.0,
+     "dupont-aignan": 2.5,
+     "bardella": 38.0,
+     "knafo": 5.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 12.0,
+     "roussel": 2.5,
+     "tondelier": 4.0,
+     "glucksmann": 12.5,
+     "attal": 11.5,
+     "villepin": 6.0,
+     "retailleau": 10.0,
+     "dupont-aignan": 2.5,
+     "le-pen": 34.0,
+     "knafo": 4.0
+    },
+    {
+     "arthaud": 0.5,
+     "melenchon": 13.0,
+     "roussel": 3.0,
+     "tondelier": 5.0,
+     "glucksmann": 12.5,
+     "darmanin": 8.0,
+     "villepin": 5.0,
+     "retailleau": 8.5,
+     "dupont-aignan": 2.5,
+     "bardella": 38.5,
+     "knafo": 3.5
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 11.0,
+     "roussel": 3.0,
+     "ruffin": 8.0,
+     "glucksmann": 12.0,
+     "lecornu": 6.5,
+     "villepin": 5.5,
+     "retailleau": 9.5,
+     "dupont-aignan": 2.5,
+     "bardella": 37.5,
+     "zemmour": 3.5
+    }
+   ]
+  },
+  {
+   "id": "2026-03-26-odoxa-1299",
+   "institut": "Odoxa",
+   "debut": "2026-03-25",
+   "fin": "2026-03-26",
+   "echantillon": 1299,
+   "notice": "https://www.odoxa.fr/sondage/spectaculaire-come-back-dedouard-philippe-il-remporterait-aujourdhui-la-presidentielle/",
+   "hypotheses": [
+    {
+     "arthaud": 1.0,
+     "melenchon": 12.0,
+     "roussel": 2.0,
+     "tondelier": 5.0,
+     "glucksmann": 10.0,
+     "philippe": 21.0,
+     "retailleau": 8.0,
+     "dupont-aignan": 2.0,
+     "bardella": 34.0,
+     "knafo": 5.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 13.0,
+     "roussel": 2.0,
+     "tondelier": 4.0,
+     "glucksmann": 10.0,
+     "philippe": 25.0,
+     "dupont-aignan": 2.0,
+     "bardella": 38.0,
+     "knafo": 5.0
+    }
+   ]
+  },
+  {
+   "id": "2026-03-22-harris-interactive-1062",
+   "institut": "Harris Interactive",
+   "debut": "2026-03-22",
+   "fin": "2026-03-22",
+   "echantillon": 1062,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/mars/10165-pres-toluna-harris-interactive-22-mars.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 1.0,
+     "melenchon": 11.0,
+     "roussel": 3.0,
+     "tondelier": 4.0,
+     "glucksmann": 14.0,
+     "philippe": 18.0,
+     "retailleau": 7.0,
+     "dupont-aignan": 2.0,
+     "bardella": 35.0,
+     "zemmour": 5.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 11.0,
+     "roussel": 3.0,
+     "tondelier": 5.0,
+     "glucksmann": 14.0,
+     "attal": 13.0,
+     "retailleau": 10.0,
+     "dupont-aignan": 2.0,
+     "bardella": 36.0,
+     "zemmour": 5.0
+    }
+   ]
+  },
+  {
+   "id": "2026-02-27-ifop-1393",
+   "institut": "Ifop",
+   "debut": "2026-02-26",
+   "fin": "2026-02-27",
+   "echantillon": 1393,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/mars/10118-pres-ifop-le-figaro-4-mars.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 1.0,
+     "melenchon": 11.0,
+     "roussel": 2.0,
+     "tondelier": 4.0,
+     "glucksmann": 10.0,
+     "philippe": 16.0,
+     "villepin": 3.5,
+     "retailleau": 10.0,
+     "dupont-aignan": 2.5,
+     "bardella": 36.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 10.0,
+     "roussel": 2.0,
+     "tondelier": 4.0,
+     "glucksmann": 11.0,
+     "philippe": 16.0,
+     "villepin": 5.0,
+     "retailleau": 11.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 34.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 2.0,
+     "melenchon": 10.0,
+     "roussel": 3.0,
+     "tondelier": 4.0,
+     "glucksmann": 12.0,
+     "attal": 11.0,
+     "villepin": 4.0,
+     "retailleau": 12.0,
+     "dupont-aignan": 2.0,
+     "bardella": 36.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 2.0,
+     "melenchon": 11.0,
+     "roussel": 2.0,
+     "tondelier": 4.5,
+     "glucksmann": 12.0,
+     "attal": 10.0,
+     "villepin": 4.5,
+     "retailleau": 12.0,
+     "dupont-aignan": 3.0,
+     "le-pen": 35.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 1.5,
+     "melenchon": 10.0,
+     "roussel": 3.0,
+     "tondelier": 4.0,
+     "glucksmann": 13.0,
+     "darmanin": 8.0,
+     "villepin": 5.0,
+     "retailleau": 13.0,
+     "dupont-aignan": 2.5,
+     "bardella": 37.0,
+     "zemmour": 3.0
+    },
+    {
+     "arthaud": 2.0,
+     "melenchon": 10.0,
+     "roussel": 3.0,
+     "tondelier": 4.5,
+     "glucksmann": 13.0,
+     "lecornu": 6.0,
+     "villepin": 5.0,
+     "retailleau": 13.0,
+     "dupont-aignan": 3.0,
+     "bardella": 37.0,
+     "zemmour": 3.5
+    },
+    {
+     "arthaud": 2.0,
+     "melenchon": 12.0,
+     "roussel": 2.5,
+     "tondelier": 4.5,
+     "glucksmann": 11.0,
+     "philippe": 23.0,
+     "dupont-aignan": 3.0,
+     "bardella": 37.0,
+     "zemmour": 5.0
+    },
+    {
+     "arthaud": 2.0,
+     "melenchon": 12.0,
+     "roussel": 3.0,
+     "tondelier": 5.0,
+     "glucksmann": 16.0,
+     "retailleau": 17.0,
+     "dupont-aignan": 3.0,
+     "bardella": 38.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 2.0,
+     "melenchon": 11.0,
+     "roussel": 3.0,
+     "tondelier": 5.0,
+     "hollande": 8.0,
+     "philippe": 18.0,
+     "retailleau": 11.0,
+     "dupont-aignan": 2.0,
+     "bardella": 36.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 2.0,
+     "melenchon": 11.0,
+     "roussel": 3.0,
+     "tondelier": 5.0,
+     "faure": 5.0,
+     "philippe": 19.0,
+     "retailleau": 11.0,
+     "dupont-aignan": 3.5,
+     "bardella": 36.0,
+     "zemmour": 4.5
+    }
+   ]
+  },
+  {
+   "id": "2025-11-20-verian-938",
+   "institut": "Verian",
+   "debut": "2025-11-18",
+   "fin": "2025-11-20",
+   "echantillon": 938,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2025/novembre/10024-pres-verian-lhemicycle-27-novembre.pdf",
+   "hypotheses": [
+    {
+     "melenchon": 12.0,
+     "roussel": 3.0,
+     "tondelier": 5.0,
+     "glucksmann": 13.0,
+     "philippe": 17.0,
+     "retailleau": 7.5,
+     "dupont-aignan": 2.0,
+     "bardella": 36.5,
+     "zemmour": 4.0
+    }
+   ]
+  },
+  {
+   "id": "2025-11-20-odoxa-1300",
+   "institut": "Odoxa",
+   "debut": "2025-11-19",
+   "fin": "2025-11-20",
+   "echantillon": 1300,
+   "notice": "https://www.odoxa.fr/sondage/jordan-bardella-est-la-personnalite-politique-preferee-des-francais-et-remporterait-la-presidentielle-si-elle-avait-lieu-dimanche-prochain/",
+   "hypotheses": [
+    {
+     "arthaud": 1.0,
+     "melenchon": 12.0,
+     "roussel": 3.0,
+     "tondelier": 6.5,
+     "glucksmann": 14.5,
+     "attal": 11.0,
+     "retailleau": 10.0,
+     "dupont-aignan": 3.0,
+     "bardella": 36.0,
+     "zemmour": 3.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 11.0,
+     "roussel": 3.0,
+     "tondelier": 6.0,
+     "glucksmann": 13.5,
+     "philippe": 17.0,
+     "retailleau": 8.0,
+     "dupont-aignan": 2.0,
+     "bardella": 35.0,
+     "zemmour": 3.5
+    }
+   ]
+  },
+  {
+   "id": "2025-10-31-elabe-1396",
+   "institut": "Elabe",
+   "debut": "2025-10-30",
+   "fin": "2025-10-31",
+   "echantillon": 1396,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2025/novembre/10007-pres-elabe-bfmtv-la-tribune-1er-novembre.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 1.0,
+     "melenchon": 12.0,
+     "roussel": 3.0,
+     "tondelier": 5.5,
+     "hollande": 6.5,
+     "philippe": 19.0,
+     "villepin": 4.0,
+     "bertrand": 5.5,
+     "dupont-aignan": 2.5,
+     "bardella": 35.0,
+     "zemmour": 6.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 12.5,
+     "roussel": 4.5,
+     "tondelier": 5.5,
+     "faure": 5.5,
+     "philippe": 19.5,
+     "villepin": 4.0,
+     "wauquiez": 3.0,
+     "dupont-aignan": 2.0,
+     "bardella": 36.5,
+     "knafo": 6.0
+    },
+    {
+     "arthaud": 1.5,
+     "melenchon": 13.0,
+     "roussel": 3.0,
+     "tondelier": 5.0,
+     "glucksmann": 13.0,
+     "darmanin": 7.0,
+     "villepin": 5.0,
+     "retailleau": 8.5,
+     "dupont-aignan": 2.0,
+     "bardella": 37.5,
+     "villiers": 4.5
+    },
+    {
+     "arthaud": 1.5,
+     "melenchon": 11.5,
+     "roussel": 3.0,
+     "tondelier": 4.5,
+     "glucksmann": 12.0,
+     "attal": 12.5,
+     "villepin": 4.0,
+     "retailleau": 8.0,
+     "dupont-aignan": 2.5,
+     "le-pen": 34.0,
+     "knafo": 6.5
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 12.5,
+     "roussel": 3.0,
+     "tondelier": 4.5,
+     "glucksmann": 11.0,
+     "philippe": 15.5,
+     "villepin": 3.0,
+     "retailleau": 8.0,
+     "dupont-aignan": 2.0,
+     "bardella": 35.0,
+     "zemmour": 4.5
+    }
+   ]
+  },
+  {
+   "id": "2025-10-07-harris-interactive-1289",
+   "institut": "Harris Interactive",
+   "debut": "2025-10-07",
+   "fin": "2025-10-07",
+   "echantillon": 1289,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2025/octobre/9995-pres-toluna-harris-interactive-rtl-8-octobre.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 1.0,
+     "melenchon": 14.0,
+     "roussel": 3.0,
+     "tondelier": 3.0,
+     "glucksmann": 12.0,
+     "philippe": 15.0,
+     "retailleau": 10.0,
+     "dupont-aignan": 1.0,
+     "bardella": 35.0,
+     "zemmour": 6.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 14.0,
+     "roussel": 3.0,
+     "tondelier": 3.0,
+     "glucksmann": 14.0,
+     "attal": 12.0,
+     "retailleau": 11.0,
+     "dupont-aignan": 1.0,
+     "bardella": 35.0,
+     "zemmour": 6.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 14.0,
+     "roussel": 3.0,
+     "tondelier": 3.0,
+     "glucksmann": 12.0,
+     "philippe": 16.0,
+     "retailleau": 10.0,
+     "dupont-aignan": 1.0,
+     "le-pen": 34.0,
+     "zemmour": 6.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 14.0,
+     "roussel": 3.0,
+     "tondelier": 3.0,
+     "glucksmann": 14.0,
+     "attal": 12.0,
+     "retailleau": 11.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 34.0,
+     "zemmour": 6.0
+    }
+   ]
+  },
+  {
+   "id": "2025-10-01-cluster17-1531",
+   "institut": "Cluster17",
+   "debut": "2025-09-30",
+   "fin": "2025-10-01",
+   "echantillon": 1531,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2025/octobre/9990-pres-cluster-17-le-point-3-octobre.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 1.5,
+     "melenchon": 14.0,
+     "roussel": 4.0,
+     "faure": 8.0,
+     "philippe": 19.5,
+     "retailleau": 13.0,
+     "dupont-aignan": 4.5,
+     "bardella": 30.0,
+     "zemmour": 5.5
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 15.0,
+     "roussel": 4.0,
+     "tondelier": 7.5,
+     "philippe": 19.5,
+     "retailleau": 12.5,
+     "dupont-aignan": 4.0,
+     "bardella": 31.0,
+     "zemmour": 5.5
+    },
+    {
+     "arthaud": 1.5,
+     "melenchon": 15.0,
+     "roussel": 3.0,
+     "glucksmann": 15.0,
+     "attal": 12.0,
+     "retailleau": 14.0,
+     "dupont-aignan": 3.5,
+     "le-pen": 30.5,
+     "zemmour": 5.5
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 15.0,
+     "roussel": 3.0,
+     "glucksmann": 15.0,
+     "philippe": 15.0,
+     "retailleau": 12.0,
+     "dupont-aignan": 3.5,
+     "bardella": 30.0,
+     "zemmour": 5.5
+    }
+   ]
+  },
+  {
+   "id": "2025-09-25-ifop-1127",
+   "institut": "Ifop",
+   "debut": "2025-09-24",
+   "fin": "2025-09-25",
+   "echantillon": 1127,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2025/septembre/9987-pres-ifop-lopinion-sud-radio-29-septembre.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 2.0,
+     "melenchon": 13.0,
+     "roussel": 4.0,
+     "glucksmann": 16.0,
+     "bayrou": 3.0,
+     "villepin": 6.0,
+     "retailleau": 13.0,
+     "dupont-aignan": 3.0,
+     "bardella": 35.0,
+     "zemmour": 5.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 13.0,
+     "roussel": 4.0,
+     "glucksmann": 16.0,
+     "darmanin": 7.0,
+     "villepin": 5.0,
+     "retailleau": 13.0,
+     "dupont-aignan": 2.0,
+     "bardella": 35.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 1.5,
+     "melenchon": 13.0,
+     "roussel": 4.0,
+     "glucksmann": 14.0,
+     "attal": 10.0,
+     "villepin": 4.0,
+     "retailleau": 12.0,
+     "dupont-aignan": 2.5,
+     "bardella": 34.0,
+     "zemmour": 5.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 13.0,
+     "roussel": 5.0,
+     "faure": 7.0,
+     "philippe": 19.0,
+     "villepin": 4.5,
+     "retailleau": 10.0,
+     "dupont-aignan": 2.0,
+     "bardella": 34.0,
+     "zemmour": 4.5
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 12.0,
+     "roussel": 3.5,
+     "glucksmann": 15.0,
+     "philippe": 16.0,
+     "villepin": 4.0,
+     "retailleau": 9.0,
+     "dupont-aignan": 2.0,
+     "bardella": 33.0,
+     "zemmour": 4.5
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 12.0,
+     "roussel": 3.0,
+     "glucksmann": 15.0,
+     "philippe": 16.0,
+     "villepin": 5.0,
+     "retailleau": 9.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 33.0,
+     "zemmour": 4.0
+    }
+   ]
+  },
+  {
+   "id": "2025-05-20-ifop-1114",
+   "institut": "Ifop",
+   "debut": "2025-05-19",
+   "fin": "2025-05-20",
+   "echantillon": 1114,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2025/mai/9944-pres-ifop-le-figaro-sud-radio-21-mai.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 1.0,
+     "melenchon": 13.0,
+     "roussel": 3.5,
+     "tondelier": 4.5,
+     "faure": 4.5,
+     "philippe": 21.0,
+     "retailleau": 16.0,
+     "dupont-aignan": 2.0,
+     "bardella": 31.0,
+     "zemmour": 3.5
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 13.5,
+     "roussel": 3.0,
+     "tondelier": 5.0,
+     "faure": 4.5,
+     "philippe": 21.0,
+     "retailleau": 16.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 31.0,
+     "zemmour": 3.0
+    }
+   ]
+  },
+  {
+   "id": "2025-05-19-harris-interactive-1217",
+   "institut": "Harris Interactive",
+   "debut": "2025-05-19",
+   "fin": "2025-05-19",
+   "echantillon": 1217,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2025/mai/9942-p-toluna-hi-lci-20-mai.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 1.0,
+     "melenchon": 15.0,
+     "roussel": 3.0,
+     "tondelier": 3.0,
+     "glucksmann": 11.0,
+     "attal": 15.0,
+     "retailleau": 16.0,
+     "le-pen": 31.0,
+     "zemmour": 5.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 14.0,
+     "roussel": 3.0,
+     "tondelier": 3.0,
+     "glucksmann": 11.0,
+     "attal": 15.0,
+     "retailleau": 17.0,
+     "bardella": 31.0,
+     "zemmour": 5.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 14.0,
+     "roussel": 3.0,
+     "tondelier": 3.0,
+     "glucksmann": 10.0,
+     "philippe": 21.0,
+     "retailleau": 12.0,
+     "le-pen": 31.0,
+     "zemmour": 5.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 14.0,
+     "roussel": 3.0,
+     "tondelier": 3.0,
+     "glucksmann": 10.0,
+     "philippe": 21.0,
+     "retailleau": 13.0,
+     "bardella": 30.0,
+     "zemmour": 5.0
+    }
+   ]
+  },
+  {
+   "id": "2025-04-30-ifop-1838",
+   "institut": "Ifop",
+   "debut": "2025-04-29",
+   "fin": "2025-04-30",
+   "echantillon": 1838,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2025/mai/9930-pres-ifop-hexagone-5-mai.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 0.5,
+     "melenchon": 10.0,
+     "roussel": 2.0,
+     "tondelier": 4.0,
+     "glucksmann": 10.0,
+     "philippe": 21.0,
+     "retailleau": 9.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 32.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 10.0,
+     "roussel": 2.0,
+     "tondelier": 4.0,
+     "glucksmann": 10.0,
+     "philippe": 23.0,
+     "wauquiez": 4.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 34.0,
+     "zemmour": 5.0
+    }
+   ]
+  },
+  {
+   "id": "2025-04-24-odoxa-1005",
+   "institut": "Odoxa",
+   "debut": "2025-04-23",
+   "fin": "2025-04-24",
+   "echantillon": 1005,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2025/avril/9925-pres-odoxa-public-senat-29-avril.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 1.0,
+     "poutou": 2.0,
+     "melenchon": 12.0,
+     "roussel": 3.0,
+     "tondelier": 4.0,
+     "glucksmann": 12.0,
+     "philippe": 20.0,
+     "retailleau": 9.5,
+     "dupont-aignan": 2.0,
+     "bardella": 31.5,
+     "zemmour": 3.0
+    },
+    {
+     "arthaud": 1.0,
+     "poutou": 2.0,
+     "melenchon": 12.0,
+     "roussel": 3.0,
+     "tondelier": 3.0,
+     "glucksmann": 11.5,
+     "philippe": 20.5,
+     "retailleau": 10.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 32.0,
+     "zemmour": 3.0
+    }
+   ]
+  },
+  {
+   "id": "2025-04-18-ifop-9128",
+   "institut": "Ifop",
+   "debut": "2025-04-11",
+   "fin": "2025-04-18",
+   "echantillon": 9128,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2025/mai/9930-pres-ifop-hexagone-5-mai.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 1.0,
+     "melenchon": 10.0,
+     "roussel": 2.5,
+     "tondelier": 2.0,
+     "glucksmann": 9.0,
+     "attal": 8.0,
+     "philippe": 15.0,
+     "villepin": 2.0,
+     "retailleau": 7.5,
+     "dupont-aignan": 2.5,
+     "bardella": 32.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 10.0,
+     "roussel": 2.5,
+     "tondelier": 2.5,
+     "glucksmann": 10.0,
+     "philippe": 22.0,
+     "retailleau": 8.0,
+     "dupont-aignan": 2.0,
+     "bardella": 33.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 10.0,
+     "roussel": 2.5,
+     "tondelier": 3.0,
+     "glucksmann": 10.0,
+     "philippe": 24.0,
+     "wauquiez": 3.0,
+     "dupont-aignan": 2.5,
+     "bardella": 35.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 10.0,
+     "roussel": 2.5,
+     "tondelier": 3.0,
+     "glucksmann": 11.5,
+     "attal": 14.0,
+     "retailleau": 14.0,
+     "dupont-aignan": 2.0,
+     "bardella": 33.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 1.5,
+     "melenchon": 13.0,
+     "glucksmann": 15.0,
+     "philippe": 22.0,
+     "retailleau": 9.0,
+     "dupont-aignan": 2.5,
+     "bardella": 33.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 2.0,
+     "melenchon": 12.0,
+     "philippe": 26.0,
+     "retailleau": 10.0,
+     "dupont-aignan": 3.0,
+     "bardella": 33.0,
+     "zemmour": 4.0
+    }
+   ]
+  },
+  {
+   "id": "2025-04-04-elabe-1413",
+   "institut": "Elabe",
+   "debut": "2025-04-02",
+   "fin": "2025-04-04",
+   "echantillon": 1413,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2025/avril/9916-pres-elabe-bfmtv-tribune-dimanche-5-avril.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 1.5,
+     "poutou": 2.0,
+     "melenchon": 10.5,
+     "roussel": 5.5,
+     "tondelier": 4.5,
+     "faure": 4.0,
+     "attal": 18.0,
+     "villepin": 5.0,
+     "wauquiez": 4.5,
+     "dupont-aignan": 4.0,
+     "bardella": 35.5,
+     "zemmour": 5.0
+    },
+    {
+     "arthaud": 1.0,
+     "poutou": 1.5,
+     "melenchon": 9.5,
+     "roussel": 4.5,
+     "tondelier": 3.5,
+     "glucksmann": 10.5,
+     "philippe": 20.5,
+     "villepin": 2.5,
+     "retailleau": 8.5,
+     "dupont-aignan": 3.0,
+     "bardella": 31.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 1.0,
+     "poutou": 1.5,
+     "melenchon": 10.0,
+     "roussel": 5.5,
+     "tondelier": 6.0,
+     "hollande": 6.0,
+     "philippe": 23.0,
+     "retailleau": 9.0,
+     "dupont-aignan": 2.5,
+     "bardella": 31.5,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 1.0,
+     "poutou": 2.0,
+     "melenchon": 11.0,
+     "roussel": 5.5,
+     "tondelier": 6.0,
+     "faure": 4.0,
+     "attal": 18.0,
+     "retailleau": 10.0,
+     "dupont-aignan": 3.0,
+     "le-pen": 36.0,
+     "zemmour": 3.5
+    },
+    {
+     "arthaud": 0.5,
+     "poutou": 2.0,
+     "melenchon": 9.5,
+     "roussel": 5.0,
+     "tondelier": 4.0,
+     "glucksmann": 10.5,
+     "philippe": 24.0,
+     "wauquiez": 4.5,
+     "dupont-aignan": 3.0,
+     "le-pen": 33.5,
+     "zemmour": 3.5
+    },
+    {
+     "arthaud": 1.0,
+     "poutou": 2.0,
+     "melenchon": 10.0,
+     "roussel": 6.0,
+     "tondelier": 5.5,
+     "hollande": 5.5,
+     "philippe": 23.5,
+     "retailleau": 8.0,
+     "dupont-aignan": 3.0,
+     "le-pen": 32.0,
+     "zemmour": 3.5
+    }
+   ]
+  },
+  {
+   "id": "2025-03-31-harris-interactive-1162",
+   "institut": "Harris Interactive",
+   "debut": "2025-03-31",
+   "fin": "2025-03-31",
+   "echantillon": 1162,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2025/avril/9913-pres-toluna-harris-interactive-rtl-1er-avril.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 1.0,
+     "poutou": 1.0,
+     "melenchon": 13.0,
+     "roussel": 4.0,
+     "tondelier": 4.0,
+     "faure": 5.0,
+     "philippe": 25.0,
+     "wauquiez": 4.0,
+     "dupont-aignan": 2.0,
+     "bardella": 36.0,
+     "zemmour": 5.0
+    },
+    {
+     "arthaud": 1.0,
+     "poutou": 1.0,
+     "melenchon": 13.0,
+     "roussel": 4.0,
+     "tondelier": 4.0,
+     "faure": 5.0,
+     "philippe": 23.0,
+     "retailleau": 7.0,
+     "dupont-aignan": 2.0,
+     "bardella": 35.0,
+     "zemmour": 5.0
+    }
+   ]
+  },
+  {
+   "id": "2025-03-26-ifop-1119",
+   "institut": "Ifop",
+   "debut": "2025-03-21",
+   "fin": "2025-03-26",
+   "echantillon": 1119,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2025/mars/9912-pres-ifop-jdd-30-mars-notice-pour-publication.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 1.0,
+     "poutou": 1.0,
+     "melenchon": 13.0,
+     "roussel": 3.0,
+     "tondelier": 3.0,
+     "faure": 5.0,
+     "philippe": 21.0,
+     "retailleau": 11.0,
+     "dupont-aignan": 3.0,
+     "le-pen": 34.0,
+     "zemmour": 5.0
+    },
+    {
+     "arthaud": 1.0,
+     "poutou": 1.0,
+     "melenchon": 13.0,
+     "roussel": 2.0,
+     "tondelier": 3.0,
+     "glucksmann": 11.0,
+     "philippe": 20.0,
+     "wauquiez": 5.0,
+     "dupont-aignan": 3.0,
+     "le-pen": 35.0,
+     "zemmour": 6.0
+    },
+    {
+     "arthaud": 1.0,
+     "poutou": 1.0,
+     "melenchon": 12.0,
+     "roussel": 4.0,
+     "tondelier": 3.0,
+     "faure": 4.0,
+     "philippe": 25.0,
+     "wauquiez": 5.0,
+     "dupont-aignan": 4.0,
+     "le-pen": 36.0,
+     "zemmour": 5.0
+    },
+    {
+     "arthaud": 1.0,
+     "poutou": 1.0,
+     "melenchon": 13.0,
+     "roussel": 4.0,
+     "tondelier": 3.0,
+     "faure": 5.0,
+     "attal": 20.0,
+     "wauquiez": 8.0,
+     "dupont-aignan": 3.0,
+     "le-pen": 37.0,
+     "zemmour": 5.0
+    }
+   ]
+  },
+  {
+   "id": "2024-12-09-ifop-1101",
+   "institut": "Ifop",
+   "debut": "2024-12-06",
+   "fin": "2024-12-09",
+   "echantillon": 1101,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2024/decembre/9894-pdt-ifop-le-figaro-le-11-dec.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 1.0,
+     "poutou": 0.5,
+     "roussel": 3.0,
+     "melenchon": 12.0,
+     "faure": 5.0,
+     "tondelier": 4.5,
+     "attal": 20.0,
+     "wauquiez": 8.0,
+     "lassalle": 1.0,
+     "dupont-aignan": 3.0,
+     "le-pen": 38.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 0.5,
+     "poutou": 0.5,
+     "roussel": 3.0,
+     "melenchon": 12.0,
+     "faure": 4.0,
+     "tondelier": 4.5,
+     "philippe": 25.0,
+     "wauquiez": 6.0,
+     "lassalle": 1.0,
+     "dupont-aignan": 3.5,
+     "le-pen": 36.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 1.0,
+     "poutou": 0.5,
+     "roussel": 3.0,
+     "melenchon": 11.0,
+     "hollande": 7.0,
+     "tondelier": 4.0,
+     "philippe": 24.0,
+     "wauquiez": 6.0,
+     "lassalle": 1.5,
+     "dupont-aignan": 3.0,
+     "le-pen": 35.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 1.0,
+     "poutou": 0.5,
+     "roussel": 3.0,
+     "melenchon": 12.0,
+     "faure": 4.0,
+     "tondelier": 5.0,
+     "philippe": 26.0,
+     "wauquiez": 6.5,
+     "lassalle": 1.5,
+     "dupont-aignan": 3.5,
+     "bardella": 34.0,
+     "zemmour": 3.0
+    }
+   ]
+  },
+  {
+   "id": "2024-09-12-opinionway-1009",
+   "institut": "OpinionWay",
+   "debut": "2024-09-11",
+   "fin": "2024-09-12",
+   "echantillon": 1009,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2024/septembre/9889a-pres-iv-opinionway-challenges-18-septembre.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 0.5,
+     "poutou": 0.5,
+     "roussel": 4.0,
+     "melenchon": 10.0,
+     "glucksmann": 14.0,
+     "rousseau": 1.0,
+     "philippe": 26.0,
+     "wauquiez": 5.0,
+     "le-pen": 35.0,
+     "zemmour": 5.0
+    },
+    {
+     "arthaud": 1.0,
+     "poutou": 2.0,
+     "melenchon": 15.0,
+     "philippe": 31.0,
+     "bertrand": 7.0,
+     "le-pen": 40.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 0.5,
+     "poutou": 0.5,
+     "roussel": 3.0,
+     "melenchon": 10.0,
+     "glucksmann": 12.0,
+     "rousseau": 1.0,
+     "attal": 8.0,
+     "philippe": 23.0,
+     "wauquiez": 5.0,
+     "le-pen": 34.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 1.0,
+     "poutou": 2.0,
+     "melenchon": 14.0,
+     "attal": 10.0,
+     "philippe": 25.0,
+     "wauquiez": 6.0,
+     "le-pen": 38.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 0.5,
+     "poutou": 0.5,
+     "roussel": 4.0,
+     "melenchon": 10.0,
+     "glucksmann": 14.0,
+     "rousseau": 1.0,
+     "philippe": 28.0,
+     "wauquiez": 4.0,
+     "bardella": 35.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 0.5,
+     "poutou": 0.5,
+     "roussel": 4.0,
+     "melenchon": 10.0,
+     "glucksmann": 14.0,
+     "rousseau": 1.0,
+     "philippe": 27.0,
+     "barnier": 4.0,
+     "le-pen": 36.0,
+     "zemmour": 4.0
+    }
+   ]
+  },
+  {
+   "id": "2024-09-09-ifop-1204",
+   "institut": "Ifop",
+   "debut": "2024-09-06",
+   "fin": "2024-09-09",
+   "echantillon": 1204,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2024/septembre/9889-pdt-ifop-le-figaro-magazine-du-13-09-24.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 1.0,
+     "poutou": 1.0,
+     "roussel": 6.0,
+     "melenchon": 10.0,
+     "hollande": 7.0,
+     "tondelier": 5.0,
+     "attal": 22.0,
+     "wauquiez": 5.0,
+     "lassalle": 3.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 35.0,
+     "zemmour": 3.0
+    },
+    {
+     "arthaud": 1.0,
+     "poutou": 1.0,
+     "roussel": 6.0,
+     "melenchon": 10.0,
+     "faure": 4.0,
+     "tondelier": 6.0,
+     "attal": 24.0,
+     "wauquiez": 5.0,
+     "lassalle": 3.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 35.0,
+     "zemmour": 3.0
+    },
+    {
+     "arthaud": 0.5,
+     "poutou": 1.0,
+     "roussel": 5.0,
+     "melenchon": 9.5,
+     "hollande": 8.0,
+     "tondelier": 5.0,
+     "philippe": 26.0,
+     "wauquiez": 4.0,
+     "lassalle": 2.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 34.0,
+     "zemmour": 3.0
+    },
+    {
+     "arthaud": 1.0,
+     "poutou": 1.5,
+     "roussel": 6.0,
+     "melenchon": 9.0,
+     "faure": 4.0,
+     "tondelier": 5.0,
+     "philippe": 27.0,
+     "wauquiez": 4.0,
+     "lassalle": 3.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 34.0,
+     "zemmour": 3.5
+    }
+   ]
+  },
+  {
+   "id": "2024-07-08-harris-interactive-2496",
+   "institut": "Harris Interactive",
+   "debut": "2024-07-07",
+   "fin": "2024-07-08",
+   "echantillon": 2496,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2024/juillet/9888-pres-harris-interactive-challenges-m6-rtl-le-8-juillet.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 1.0,
+     "poutou": 2.0,
+     "roussel": 3.0,
+     "melenchon": 15.0,
+     "glucksmann": 14.0,
+     "tondelier": 3.0,
+     "attal": 20.0,
+     "wauquiez": 5.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 31.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 1.0,
+     "poutou": 1.0,
+     "roussel": 3.0,
+     "melenchon": 15.0,
+     "glucksmann": 14.0,
+     "tondelier": 3.0,
+     "philippe": 22.0,
+     "wauquiez": 5.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 31.0,
+     "zemmour": 3.0
+    },
+    {
+     "arthaud": 1.0,
+     "poutou": 2.0,
+     "roussel": 5.0,
+     "melenchon": 16.0,
+     "faure": 6.0,
+     "tondelier": 4.0,
+     "attal": 23.0,
+     "wauquiez": 5.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 32.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 1.0,
+     "poutou": 2.0,
+     "roussel": 4.0,
+     "melenchon": 17.0,
+     "faure": 5.0,
+     "tondelier": 4.0,
+     "philippe": 24.0,
+     "wauquiez": 5.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 32.0,
+     "zemmour": 4.0
+    }
+   ]
+  },
+  {
+   "id": "2024-04-18-ifop-1090",
+   "institut": "Ifop",
+   "debut": "2024-04-16",
+   "fin": "2024-04-18",
+   "echantillon": 1090,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2024/avril/9766-pdt-ifop-le-figaro-magazine-26-04.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 1.0,
+     "poutou": 2.0,
+     "roussel": 4.0,
+     "melenchon": 14.0,
+     "faure": 4.0,
+     "tondelier": 3.0,
+     "attal": 20.0,
+     "wauquiez": 7.0,
+     "lassalle": 2.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 35.0,
+     "zemmour": 6.0
+    },
+    {
+     "arthaud": 1.5,
+     "poutou": 1.5,
+     "roussel": 4.5,
+     "melenchon": 13.0,
+     "faure": 4.5,
+     "tondelier": 2.0,
+     "philippe": 24.0,
+     "wauquiez": 5.0,
+     "lassalle": 2.0,
+     "dupont-aignan": 3.0,
+     "le-pen": 34.0,
+     "zemmour": 5.0
+    },
+    {
+     "arthaud": 1.5,
+     "poutou": 1.5,
+     "roussel": 5.0,
+     "melenchon": 16.0,
+     "faure": 4.5,
+     "tondelier": 2.5,
+     "le-maire": 14.0,
+     "wauquiez": 8.0,
+     "lassalle": 2.0,
+     "dupont-aignan": 3.0,
+     "le-pen": 35.0,
+     "zemmour": 7.0
+    },
+    {
+     "arthaud": 2.0,
+     "poutou": 1.5,
+     "roussel": 6.0,
+     "melenchon": 15.0,
+     "faure": 5.5,
+     "tondelier": 3.0,
+     "darmanin": 12.0,
+     "wauquiez": 8.5,
+     "lassalle": 2.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 36.0,
+     "zemmour": 6.5
+    },
+    {
+     "arthaud": 1.5,
+     "poutou": 2.0,
+     "roussel": 5.0,
+     "ruffin": 7.0,
+     "faure": 3.5,
+     "tondelier": 3.0,
+     "philippe": 25.0,
+     "wauquiez": 5.0,
+     "lassalle": 3.0,
+     "dupont-aignan": 2.5,
+     "le-pen": 35.0,
+     "zemmour": 6.5
+    },
+    {
+     "arthaud": 1.0,
+     "poutou": 2.0,
+     "roussel": 5.5,
+     "melenchon": 12.0,
+     "hollande": 8.0,
+     "philippe": 24.0,
+     "wauquiez": 5.0,
+     "lassalle": 2.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 32.0,
+     "zemmour": 6.5
+    },
+    {
+     "arthaud": 1.5,
+     "poutou": 1.0,
+     "roussel": 5.0,
+     "melenchon": 13.0,
+     "faure": 4.0,
+     "tondelier": 2.5,
+     "philippe": 24.0,
+     "bertrand": 6.0,
+     "lassalle": 2.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 33.0,
+     "zemmour": 6.0
+    },
+    {
+     "arthaud": 1.0,
+     "poutou": 2.0,
+     "roussel": 5.0,
+     "melenchon": 13.0,
+     "faure": 3.0,
+     "tondelier": 2.0,
+     "attal": 22.0,
+     "wauquiez": 8.0,
+     "lassalle": 2.5,
+     "dupont-aignan": 2.5,
+     "bardella": 30.0,
+     "zemmour": 9.0
+    },
+    {
+     "arthaud": 1.5,
+     "poutou": 0.5,
+     "roussel": 4.5,
+     "melenchon": 14.0,
+     "faure": 3.0,
+     "tondelier": 2.0,
+     "philippe": 26.0,
+     "wauquiez": 5.0,
+     "lassalle": 1.5,
+     "dupont-aignan": 2.0,
+     "bardella": 33.0,
+     "zemmour": 7.0
+    }
+   ]
+  },
+  {
+   "id": "2024-04-05-cluster17-1713",
+   "institut": "Cluster17",
+   "debut": "2024-04-02",
+   "fin": "2024-04-05",
+   "echantillon": 1713,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2024/avril/9753-pdt-ruffin-cluster-17-picardie-debout-21-avril-2024.pdf",
+   "hypotheses": [
+    {
+     "poutou": 2.0,
+     "ruffin": 29.0,
+     "philippe": 25.0,
+     "wauquiez": 4.5,
+     "dupont-aignan": 3.0,
+     "le-pen": 30.0,
+     "zemmour": 6.5
+    },
+    {
+     "poutou": 3.0,
+     "melenchon": 18.0,
+     "philippe": 31.0,
+     "wauquiez": 5.0,
+     "dupont-aignan": 4.0,
+     "le-pen": 32.0,
+     "zemmour": 7.0
+    }
+   ]
+  },
+  {
+   "id": "2024-02-01-ifop-1081",
+   "institut": "Ifop",
+   "debut": "2024-01-31",
+   "fin": "2024-02-01",
+   "echantillon": 1081,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2024/fevrier/9715-pdtielle-ifop-valeurs-actuelles-7-fevrier.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 1.5,
+     "poutou": 1.5,
+     "roussel": 4.0,
+     "melenchon": 14.0,
+     "faure": 2.0,
+     "tondelier": 2.0,
+     "attal": 22.0,
+     "wauquiez": 5.5,
+     "lassalle": 3.0,
+     "dupont-aignan": 2.5,
+     "le-pen": 36.0,
+     "zemmour": 6.0
+    },
+    {
+     "arthaud": 1.5,
+     "poutou": 1.5,
+     "roussel": 4.5,
+     "melenchon": 14.0,
+     "faure": 2.0,
+     "tondelier": 2.5,
+     "philippe": 22.0,
+     "wauquiez": 4.5,
+     "lassalle": 3.0,
+     "dupont-aignan": 2.5,
+     "le-pen": 36.0,
+     "zemmour": 6.0
+    }
+   ]
+  },
+  {
+   "id": "2024-01-10-ifop-1144",
+   "institut": "Ifop",
+   "debut": "2024-01-09",
+   "fin": "2024-01-10",
+   "echantillon": 1144,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2024/janvier/9710-pdt-ifop-jdd-15-01.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 1.0,
+     "poutou": 2.0,
+     "roussel": 5.0,
+     "melenchon": 14.5,
+     "faure": 4.0,
+     "tondelier": 1.0,
+     "attal": 24.0,
+     "wauquiez": 6.0,
+     "lassalle": 2.5,
+     "dupont-aignan": 3.0,
+     "bardella": 28.0,
+     "zemmour": 9.0
+    },
+    {
+     "arthaud": 0.5,
+     "poutou": 1.5,
+     "roussel": 6.0,
+     "melenchon": 15.0,
+     "faure": 3.5,
+     "tondelier": 1.5,
+     "philippe": 26.0,
+     "wauquiez": 6.0,
+     "lassalle": 2.5,
+     "dupont-aignan": 2.5,
+     "bardella": 27.0,
+     "zemmour": 8.0
+    },
+    {
+     "arthaud": 0.5,
+     "poutou": 2.0,
+     "roussel": 6.5,
+     "melenchon": 14.0,
+     "faure": 3.5,
+     "tondelier": 1.5,
+     "attal": 23.0,
+     "wauquiez": 6.0,
+     "lassalle": 2.5,
+     "dupont-aignan": 2.0,
+     "le-pen": 32.0,
+     "zemmour": 6.5
+    },
+    {
+     "arthaud": 0.5,
+     "poutou": 1.5,
+     "roussel": 6.0,
+     "melenchon": 13.0,
+     "faure": 3.0,
+     "tondelier": 2.0,
+     "philippe": 25.0,
+     "wauquiez": 5.0,
+     "lassalle": 2.5,
+     "dupont-aignan": 2.0,
+     "le-pen": 33.0,
+     "zemmour": 6.5
+    }
+   ]
+  },
+  {
+   "id": "2023-10-25-ifop-1084",
+   "institut": "Ifop",
+   "debut": "2023-10-24",
+   "fin": "2023-10-25",
+   "echantillon": 1084,
+   "notice": "https://www.lefigaro.fr/politique/presidentielle-2027-marine-le-pen-s-echappe-jean-luc-melenchon-recule-20231030",
+   "hypotheses": [
+    {
+     "arthaud": 1.0,
+     "poutou": 2.0,
+     "roussel": 6.0,
+     "melenchon": 14.0,
+     "faure": 4.0,
+     "tondelier": 1.0,
+     "philippe": 25.0,
+     "wauquiez": 5.0,
+     "lassalle": 2.5,
+     "dupont-aignan": 2.0,
+     "le-pen": 31.0,
+     "zemmour": 6.5
+    },
+    {
+     "arthaud": 1.0,
+     "poutou": 1.0,
+     "roussel": 6.0,
+     "melenchon": 14.0,
+     "faure": 5.0,
+     "tondelier": 2.0,
+     "attal": 19.0,
+     "wauquiez": 6.0,
+     "lassalle": 4.0,
+     "dupont-aignan": 3.0,
+     "le-pen": 33.0,
+     "zemmour": 6.0
+    },
+    {
+     "arthaud": 1.5,
+     "poutou": 1.0,
+     "roussel": 7.0,
+     "melenchon": 15.0,
+     "faure": 5.5,
+     "tondelier": 2.0,
+     "le-maire": 18.0,
+     "wauquiez": 6.0,
+     "lassalle": 3.0,
+     "dupont-aignan": 2.5,
+     "le-pen": 32.0,
+     "zemmour": 6.5
+    },
+    {
+     "arthaud": 1.5,
+     "poutou": 1.5,
+     "roussel": 6.0,
+     "melenchon": 15.0,
+     "faure": 6.0,
+     "tondelier": 2.0,
+     "darmanin": 16.0,
+     "wauquiez": 6.0,
+     "lassalle": 3.5,
+     "dupont-aignan": 2.5,
+     "le-pen": 33.0,
+     "zemmour": 7.0
+    },
+    {
+     "arthaud": 1.5,
+     "poutou": 2.0,
+     "roussel": 7.5,
+     "ruffin": 7.0,
+     "faure": 4.0,
+     "tondelier": 2.0,
+     "philippe": 26.0,
+     "wauquiez": 6.0,
+     "lassalle": 2.5,
+     "dupont-aignan": 3.0,
+     "le-pen": 32.0,
+     "zemmour": 6.5
+    }
+   ]
+  },
+  {
+   "id": "2023-09-04-harris-interactive-2525",
+   "institut": "Harris Interactive",
+   "debut": "2023-09-01",
+   "fin": "2023-09-04",
+   "echantillon": 2525,
+   "notice": "https://harris-interactive.fr/wp-content/uploads/sites/6/2023/09/Rapport-Toluna-Harris-IV-Presidentielle-2027-Challenges-septembre-2023.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 1.0,
+     "poutou": 2.0,
+     "roussel": 6.0,
+     "melenchon": 16.0,
+     "cazeneuve": 5.0,
+     "jadot": 5.0,
+     "philippe": 22.0,
+     "wauquiez": 5.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 30.0,
+     "zemmour": 6.0
+    },
+    {
+     "arthaud": 1.0,
+     "poutou": 2.0,
+     "roussel": 6.0,
+     "melenchon": 16.0,
+     "cazeneuve": 7.0,
+     "jadot": 5.0,
+     "le-maire": 16.0,
+     "wauquiez": 7.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 32.0,
+     "zemmour": 6.0
+    },
+    {
+     "arthaud": 1.0,
+     "poutou": 2.0,
+     "roussel": 6.0,
+     "melenchon": 16.0,
+     "cazeneuve": 8.0,
+     "jadot": 6.0,
+     "darmanin": 14.0,
+     "wauquiez": 7.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 32.0,
+     "zemmour": 6.0
+    },
+    {
+     "arthaud": 1.0,
+     "poutou": 2.0,
+     "roussel": 5.0,
+     "melenchon": 16.0,
+     "cazeneuve": 8.0,
+     "jadot": 7.0,
+     "attal": 12.0,
+     "wauquiez": 8.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 32.0,
+     "zemmour": 7.0
+    },
+    {
+     "arthaud": 1.0,
+     "poutou": 2.0,
+     "roussel": 6.0,
+     "melenchon": 16.0,
+     "cazeneuve": 9.0,
+     "jadot": 5.0,
+     "borne": 11.0,
+     "wauquiez": 9.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 33.0,
+     "zemmour": 6.0
+    },
+    {
+     "arthaud": 1.0,
+     "poutou": 2.0,
+     "roussel": 6.0,
+     "melenchon": 17.0,
+     "cazeneuve": 9.0,
+     "jadot": 6.0,
+     "castex": 9.0,
+     "wauquiez": 9.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 33.0,
+     "zemmour": 6.0
+    },
+    {
+     "arthaud": 1.0,
+     "poutou": 2.0,
+     "roussel": 6.0,
+     "melenchon": 16.0,
+     "cazeneuve": 10.0,
+     "jadot": 6.0,
+     "bayrou": 8.0,
+     "wauquiez": 9.0,
+     "dupont-aignan": 3.0,
+     "le-pen": 33.0,
+     "zemmour": 6.0
+    },
+    {
+     "arthaud": 1.0,
+     "poutou": 2.0,
+     "roussel": 6.0,
+     "melenchon": 17.0,
+     "cazeneuve": 10.0,
+     "jadot": 7.0,
+     "braun-pivet": 5.0,
+     "wauquiez": 10.0,
+     "dupont-aignan": 3.0,
+     "le-pen": 33.0,
+     "zemmour": 6.0
+    }
+   ]
+  },
+  {
+   "id": "2023-04-13-opinionway-965",
+   "institut": "OpinionWay",
+   "debut": "2023-04-12",
+   "fin": "2023-04-13",
+   "echantillon": 965,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2023/avril/9689-pres-ow-le-figaro-magazine.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 1.0,
+     "poutou": 3.0,
+     "melenchon": 17.0,
+     "faure": 6.0,
+     "rousseau": 2.0,
+     "philippe": 32.0,
+     "wauquiez": 7.0,
+     "bardella": 23.0,
+     "zemmour": 9.0
+    }
+   ]
+  },
+  {
+   "id": "2023-04-07-harris-interactive-1320",
+   "institut": "Harris Interactive",
+   "debut": "2023-04-06",
+   "fin": "2023-04-07",
+   "echantillon": 1320,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2023/avril/9688-pres-hi-challenges.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 1.0,
+     "poutou": 2.0,
+     "roussel": 4.0,
+     "melenchon": 16.0,
+     "cazeneuve": 5.0,
+     "jadot": 4.0,
+     "philippe": 24.0,
+     "wauquiez": 5.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 30.0,
+     "zemmour": 7.0
+    },
+    {
+     "arthaud": 1.0,
+     "poutou": 2.0,
+     "roussel": 5.0,
+     "melenchon": 18.0,
+     "cazeneuve": 7.0,
+     "jadot": 5.0,
+     "le-maire": 16.0,
+     "wauquiez": 5.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 32.0,
+     "zemmour": 7.0
+    },
+    {
+     "arthaud": 1.0,
+     "poutou": 2.0,
+     "roussel": 5.0,
+     "melenchon": 19.0,
+     "cazeneuve": 8.0,
+     "jadot": 5.0,
+     "darmanin": 10.0,
+     "wauquiez": 7.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 33.0,
+     "zemmour": 8.0
+    },
+    {
+     "arthaud": 1.0,
+     "poutou": 2.0,
+     "roussel": 4.0,
+     "melenchon": 17.0,
+     "delga": 3.0,
+     "jadot": 4.0,
+     "philippe": 24.0,
+     "wauquiez": 5.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 31.0,
+     "zemmour": 7.0
+    }
+   ]
+  },
+  {
+   "id": "2023-03-31-ifop-1105",
+   "institut": "Ifop",
+   "debut": "2023-03-30",
+   "fin": "2023-03-31",
+   "echantillon": 1105,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2023/avril/9686-pres-ifop-7-04-fig-mag-sud-radio.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 1.0,
+     "poutou": 2.5,
+     "roussel": 5.0,
+     "melenchon": 17.0,
+     "faure": 3.0,
+     "tondelier": 1.0,
+     "philippe": 26.0,
+     "wauquiez": 5.0,
+     "lassalle": 2.0,
+     "dupont-aignan": 2.5,
+     "le-pen": 29.0,
+     "zemmour": 6.0
+    },
+    {
+     "arthaud": 1.0,
+     "poutou": 2.5,
+     "melenchon": 22.0,
+     "philippe": 28.0,
+     "wauquiez": 4.0,
+     "lassalle": 2.5,
+     "dupont-aignan": 3.0,
+     "le-pen": 31.0,
+     "zemmour": 6.0
+    },
+    {
+     "arthaud": 1.0,
+     "poutou": 2.5,
+     "roussel": 6.0,
+     "melenchon": 20.0,
+     "faure": 2.0,
+     "tondelier": 1.0,
+     "le-maire": 18.0,
+     "wauquiez": 6.0,
+     "lassalle": 2.5,
+     "dupont-aignan": 3.0,
+     "le-pen": 32.0,
+     "zemmour": 6.0
+    },
+    {
+     "arthaud": 0.5,
+     "poutou": 2.5,
+     "roussel": 5.0,
+     "melenchon": 20.0,
+     "faure": 3.0,
+     "tondelier": 2.0,
+     "darmanin": 11.0,
+     "wauquiez": 8.0,
+     "lassalle": 2.0,
+     "dupont-aignan": 4.0,
+     "le-pen": 35.0,
+     "zemmour": 7.0
+    },
+    {
+     "arthaud": 1.0,
+     "poutou": 1.5,
+     "roussel": 6.5,
+     "melenchon": 20.0,
+     "faure": 2.0,
+     "tondelier": 1.0,
+     "bayrou": 9.0,
+     "wauquiez": 10.0,
+     "lassalle": 3.0,
+     "dupont-aignan": 3.0,
+     "le-pen": 36.0,
+     "zemmour": 7.0
+    }
+   ]
+  }
+ ],
+ "duels": [
+  {
+   "a": "le-pen",
+   "b": "philippe",
+   "sondages": [
+    {
+     "id": "2026-10-22-opinionway-973",
+     "institut": "OpinionWay",
+     "debut": "2026-10-21",
+     "fin": "2026-10-22",
+     "echantillon": 973,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10333-pres-iv-opinionway-cnews-22-octobre.pdf",
+     "a": 56.0,
+     "b": 44.0
+    },
+    {
+     "id": "2026-10-21-harris-interactive-2094",
+     "institut": "Harris Interactive",
+     "debut": "2026-10-19",
+     "fin": "2026-10-21",
+     "echantillon": 2094,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10332-pres-iv-toluna-harris-interactive-23-octobre.pdf",
+     "a": 57.0,
+     "b": 43.0
+    },
+    {
+     "id": "2026-10-19-ifop-2081",
+     "institut": "Ifop",
+     "debut": "2026-10-17",
+     "fin": "2026-10-19",
+     "echantillon": 2081,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10327-pres-barometre-election-v7-ifop-20-octobre.pdf",
+     "a": 56.0,
+     "b": 44.0
+    },
+    {
+     "id": "2026-10-16-elabe-1701",
+     "institut": "Elabe",
+     "debut": "2026-10-14",
+     "fin": "2026-10-16",
+     "echantillon": 1701,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10324-pres-iv-elabe-17-octobre.pdf",
+     "a": 52.5,
+     "b": 47.5
+    },
+    {
+     "id": "2026-10-15-yougov-1094",
+     "institut": "YouGov",
+     "debut": "2026-10-12",
+     "fin": "2026-10-15",
+     "echantillon": 1094,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10323-pres-iv-yougov-le-huffpost-18-octobre.pdf",
+     "a": 52.0,
+     "b": 48.0
+    },
+    {
+     "id": "2026-10-14-opinionway-1043",
+     "institut": "OpinionWay",
+     "debut": "2026-10-13",
+     "fin": "2026-10-14",
+     "echantillon": 1043,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10319-pres-iv-opinionway-cnews-15-octobre.pdf",
+     "a": 56.0,
+     "b": 44.0
+    },
+    {
+     "id": "2026-10-08-harris-interactive-2004",
+     "institut": "Harris Interactive",
+     "debut": "2026-10-05",
+     "fin": "2026-10-08",
+     "echantillon": 2004,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10305-pres-iv-toluna-harris-interactive-12-octobre.pdf",
+     "a": 56.0,
+     "b": 44.0
+    },
+    {
+     "id": "2026-10-07-odoxa-12005",
+     "institut": "Odoxa",
+     "debut": "2026-09-24",
+     "fin": "2026-10-07",
+     "echantillon": 12005,
+     "notice": "https://www.odoxa.fr/sondage/melenchon-est-passe-devant-philippe-au-premier-tour-marine-le-pen-est-plus-que-jamais-la-grande-favorite-pour-2027-a-la-fois-au-premier-et-au-second-tour/",
+     "a": 53.0,
+     "b": 47.0
+    },
+    {
+     "id": "2026-09-24-harris-interactive-1974",
+     "institut": "Harris Interactive",
+     "debut": "2026-09-22",
+     "fin": "2026-09-24",
+     "echantillon": 1974,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10277-pres-toluna-harris-interactive-rtl-28-septembre.pdf",
+     "a": 57.0,
+     "b": 43.0
+    },
+    {
+     "id": "2026-09-21-yougov-1103",
+     "institut": "YouGov",
+     "debut": "2026-09-17",
+     "fin": "2026-09-21",
+     "echantillon": 1103,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10270-pres-iv-yougov-huffpost-23-septembre.pdf",
+     "a": 55.0,
+     "b": 45.0
+    },
+    {
+     "id": "2026-09-10-opinionway-1001",
+     "institut": "OpinionWay",
+     "debut": "2026-09-09",
+     "fin": "2026-09-10",
+     "echantillon": 1001,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10260-pres-iv-opinionway-cnews-11-septembre.pdf",
+     "a": 55.0,
+     "b": 45.0
+    },
+    {
+     "id": "2026-09-10-harris-interactive-2052",
+     "institut": "Harris Interactive",
+     "debut": "2026-09-08",
+     "fin": "2026-09-10",
+     "echantillon": 2052,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10263-pres-iv-toluna-harris-interactive-rtl-14-septembre.pdf",
+     "a": 55.0,
+     "b": 45.0
+    },
+    {
+     "id": "2026-09-03-opinionway-1003",
+     "institut": "OpinionWay",
+     "debut": "2026-09-02",
+     "fin": "2026-09-03",
+     "echantillon": 1003,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10252-pres-iv-opinionway-jdd-7-septembre.pdf",
+     "a": 52.0,
+     "b": 48.0
+    },
+    {
+     "id": "2026-08-28-elabe-1503",
+     "institut": "Elabe",
+     "debut": "2026-08-26",
+     "fin": "2026-08-28",
+     "echantillon": 1503,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10245-pres-iv-elabe-29-aout.pdf",
+     "a": 52.5,
+     "b": 47.5
+    },
+    {
+     "id": "2026-08-25-ifop-1598",
+     "institut": "Ifop",
+     "debut": "2026-08-24",
+     "fin": "2026-08-25",
+     "echantillon": 1598,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10242-pres-barometre-election-pres-iv-v5-ifop-26-aout.pdf",
+     "a": 52.0,
+     "b": 48.0
+    },
+    {
+     "id": "2026-08-19-harris-interactive-1764",
+     "institut": "Harris Interactive",
+     "debut": "2026-08-18",
+     "fin": "2026-08-19",
+     "echantillon": 1764,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10239-pres-toluna-harris-interactive-rtl-24-aout.pdf",
+     "a": 55.0,
+     "b": 45.0
+    },
+    {
+     "id": "2026-07-24-cluster17-1506",
+     "institut": "Cluster17",
+     "debut": "2026-07-22",
+     "fin": "2026-07-24",
+     "echantillon": 1506,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10246-pres-cluster17-le-grand-continent-31-aout.pdf",
+     "a": 52.0,
+     "b": 48.0
+    },
+    {
+     "id": "2026-07-10-elabe-1503",
+     "institut": "Elabe",
+     "debut": "2026-07-09",
+     "fin": "2026-07-10",
+     "echantillon": 1503,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/juillet/10226-pres-elabe-11-juillet.pdf",
+     "a": 52.0,
+     "b": 48.0
+    },
+    {
+     "id": "2026-07-08-ifop-984",
+     "institut": "Ifop",
+     "debut": "2026-07-07",
+     "fin": "2026-07-08",
+     "echantillon": 984,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/juillet/10222-pres-ifop-le-figaro-8-juillet.pdf",
+     "a": 54.0,
+     "b": 46.0
+    },
+    {
+     "id": "2026-07-08-harris-interactive-1592",
+     "institut": "Harris Interactive",
+     "debut": "2026-07-07",
+     "fin": "2026-07-08",
+     "echantillon": 1592,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/juillet/10223-pres-iv-toluna-harris-interactive-rtl-8-juillet.pdf",
+     "a": 51.0,
+     "b": 49.0
+    },
+    {
+     "id": "2026-05-27-harris-interactive-1744",
+     "institut": "Harris Interactive",
+     "debut": "2026-05-25",
+     "fin": "2026-05-27",
+     "echantillon": 1744,
+     "notice": "https://tolunacorporate.com/wp-content/uploads/2026/05/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-2-M6-RTL-Mai-2026.pdf",
+     "a": 52.0,
+     "b": 48.0
+    },
+    {
+     "id": "2026-03-27-elabe-1504",
+     "institut": "Elabe",
+     "debut": "2026-03-25",
+     "fin": "2026-03-27",
+     "echantillon": 1504,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/mars/10166-pres-elabe-28-mars.pdf",
+     "a": 47.0,
+     "b": 53.0
+    },
+    {
+     "id": "2025-04-30-ifop-1838",
+     "institut": "Ifop",
+     "debut": "2025-04-29",
+     "fin": "2025-04-30",
+     "echantillon": 1838,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2025/mai/9930-pres-ifop-hexagone-5-mai.pdf",
+     "a": 48.0,
+     "b": 52.0
+    },
+    {
+     "id": "2025-04-24-odoxa-1005",
+     "institut": "Odoxa",
+     "debut": "2025-04-23",
+     "fin": "2025-04-24",
+     "echantillon": 1005,
+     "notice": "https://www.odoxa.fr/sondage/presidentielle-le-pen-ou-bardella-seraient-en-tete-au-premier-tour-mais-battus-par-philippe-au-second/",
+     "a": 46.0,
+     "b": 54.0
+    },
+    {
+     "id": "2024-04-18-ifop-1090",
+     "institut": "Ifop",
+     "debut": "2024-04-16",
+     "fin": "2024-04-18",
+     "echantillon": 1090,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2024/avril/9766-pdt-ifop-le-figaro-magazine-26-04.pdf",
+     "a": 51.0,
+     "b": 49.0
+    },
+    {
+     "id": "2024-02-01-ifop-1081",
+     "institut": "Ifop",
+     "debut": "2024-01-31",
+     "fin": "2024-02-01",
+     "echantillon": 1081,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2024/fevrier/9715-pdtielle-ifop-valeurs-actuelles-7-fevrier.pdf",
+     "a": 50.0,
+     "b": 50.0
+    }
+   ]
+  },
+  {
+   "a": "le-pen",
+   "b": "melenchon",
+   "sondages": [
+    {
+     "id": "2026-10-22-opinionway-973",
+     "institut": "OpinionWay",
+     "debut": "2026-10-21",
+     "fin": "2026-10-22",
+     "echantillon": 973,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10333-pres-iv-opinionway-cnews-22-octobre.pdf",
+     "a": 69.0,
+     "b": 31.0
+    },
+    {
+     "id": "2026-10-21-harris-interactive-2094",
+     "institut": "Harris Interactive",
+     "debut": "2026-10-19",
+     "fin": "2026-10-21",
+     "echantillon": 2094,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10332-pres-iv-toluna-harris-interactive-23-octobre.pdf",
+     "a": 70.0,
+     "b": 30.0
+    },
+    {
+     "id": "2026-10-19-ifop-2081",
+     "institut": "Ifop",
+     "debut": "2026-10-17",
+     "fin": "2026-10-19",
+     "echantillon": 2081,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10327-pres-barometre-election-v7-ifop-20-octobre.pdf",
+     "a": 68.0,
+     "b": 32.0
+    },
+    {
+     "id": "2026-10-16-elabe-1701",
+     "institut": "Elabe",
+     "debut": "2026-10-14",
+     "fin": "2026-10-16",
+     "echantillon": 1701,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10324-pres-iv-elabe-17-octobre.pdf",
+     "a": 69.0,
+     "b": 31.0
+    },
+    {
+     "id": "2026-10-15-yougov-1094",
+     "institut": "YouGov",
+     "debut": "2026-10-12",
+     "fin": "2026-10-15",
+     "echantillon": 1094,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10323-pres-iv-yougov-le-huffpost-18-octobre.pdf",
+     "a": 68.0,
+     "b": 32.0
+    },
+    {
+     "id": "2026-10-14-opinionway-1043",
+     "institut": "OpinionWay",
+     "debut": "2026-10-13",
+     "fin": "2026-10-14",
+     "echantillon": 1043,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10319-pres-iv-opinionway-cnews-15-octobre.pdf",
+     "a": 68.0,
+     "b": 32.0
+    },
+    {
+     "id": "2026-10-08-harris-interactive-2004",
+     "institut": "Harris Interactive",
+     "debut": "2026-10-05",
+     "fin": "2026-10-08",
+     "echantillon": 2004,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10305-pres-iv-toluna-harris-interactive-12-octobre.pdf",
+     "a": 67.0,
+     "b": 33.0
+    },
+    {
+     "id": "2026-10-07-odoxa-12005",
+     "institut": "Odoxa",
+     "debut": "2026-09-24",
+     "fin": "2026-10-07",
+     "echantillon": 12005,
+     "notice": "https://www.odoxa.fr/sondage/melenchon-est-passe-devant-philippe-au-premier-tour-marine-le-pen-est-plus-que-jamais-la-grande-favorite-pour-2027-a-la-fois-au-premier-et-au-second-tour/",
+     "a": 68.0,
+     "b": 32.0
+    },
+    {
+     "id": "2026-09-24-harris-interactive-1974",
+     "institut": "Harris Interactive",
+     "debut": "2026-09-22",
+     "fin": "2026-09-24",
+     "echantillon": 1974,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10277-pres-toluna-harris-interactive-rtl-28-septembre.pdf",
+     "a": 69.0,
+     "b": 31.0
+    },
+    {
+     "id": "2026-09-21-yougov-1103",
+     "institut": "YouGov",
+     "debut": "2026-09-17",
+     "fin": "2026-09-21",
+     "echantillon": 1103,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10270-pres-iv-yougov-huffpost-23-septembre.pdf",
+     "a": 64.0,
+     "b": 36.0
+    },
+    {
+     "id": "2026-09-10-opinionway-1001",
+     "institut": "OpinionWay",
+     "debut": "2026-09-09",
+     "fin": "2026-09-10",
+     "echantillon": 1001,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10260-pres-iv-opinionway-cnews-11-septembre.pdf",
+     "a": 67.0,
+     "b": 33.0
+    },
+    {
+     "id": "2026-09-10-harris-interactive-2052",
+     "institut": "Harris Interactive",
+     "debut": "2026-09-08",
+     "fin": "2026-09-10",
+     "echantillon": 2052,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10263-pres-iv-toluna-harris-interactive-rtl-14-septembre.pdf",
+     "a": 67.0,
+     "b": 33.0
+    },
+    {
+     "id": "2026-09-03-opinionway-1003",
+     "institut": "OpinionWay",
+     "debut": "2026-09-02",
+     "fin": "2026-09-03",
+     "echantillon": 1003,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10252-pres-iv-opinionway-jdd-7-septembre.pdf",
+     "a": 66.0,
+     "b": 34.0
+    },
+    {
+     "id": "2026-08-28-elabe-1503",
+     "institut": "Elabe",
+     "debut": "2026-08-26",
+     "fin": "2026-08-28",
+     "echantillon": 1503,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10245-pres-iv-elabe-29-aout.pdf",
+     "a": 69.5,
+     "b": 30.5
+    },
+    {
+     "id": "2026-08-25-ifop-1598",
+     "institut": "Ifop",
+     "debut": "2026-08-24",
+     "fin": "2026-08-25",
+     "echantillon": 1598,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10242-pres-barometre-election-pres-iv-v5-ifop-26-aout.pdf",
+     "a": 67.0,
+     "b": 33.0
+    },
+    {
+     "id": "2026-08-19-harris-interactive-1764",
+     "institut": "Harris Interactive",
+     "debut": "2026-08-18",
+     "fin": "2026-08-19",
+     "echantillon": 1764,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10239-pres-toluna-harris-interactive-rtl-24-aout.pdf",
+     "a": 68.0,
+     "b": 32.0
+    },
+    {
+     "id": "2026-07-24-cluster17-1506",
+     "institut": "Cluster17",
+     "debut": "2026-07-22",
+     "fin": "2026-07-24",
+     "echantillon": 1506,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10246-pres-cluster17-le-grand-continent-31-aout.pdf",
+     "a": 61.0,
+     "b": 39.0
+    },
+    {
+     "id": "2026-07-10-elabe-1503",
+     "institut": "Elabe",
+     "debut": "2026-07-09",
+     "fin": "2026-07-10",
+     "echantillon": 1503,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/juillet/10226-pres-elabe-11-juillet.pdf",
+     "a": 67.5,
+     "b": 32.5
+    },
+    {
+     "id": "2026-07-08-ifop-984",
+     "institut": "Ifop",
+     "debut": "2026-07-07",
+     "fin": "2026-07-08",
+     "echantillon": 984,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/juillet/10222-pres-ifop-le-figaro-8-juillet.pdf",
+     "a": 70.0,
+     "b": 30.0
+    },
+    {
+     "id": "2026-07-08-harris-interactive-1592",
+     "institut": "Harris Interactive",
+     "debut": "2026-07-07",
+     "fin": "2026-07-08",
+     "echantillon": 1592,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/juillet/10223-pres-iv-toluna-harris-interactive-rtl-8-juillet.pdf",
+     "a": 67.0,
+     "b": 33.0
+    },
+    {
+     "id": "2026-05-27-harris-interactive-1744",
+     "institut": "Harris Interactive",
+     "debut": "2026-05-25",
+     "fin": "2026-05-27",
+     "echantillon": 1744,
+     "notice": "https://tolunacorporate.com/wp-content/uploads/2026/05/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-2-M6-RTL-Mai-2026.pdf",
+     "a": 67.0,
+     "b": 33.0
+    },
+    {
+     "id": "2024-04-05-cluster17-1713",
+     "institut": "Cluster17",
+     "debut": "2024-04-02",
+     "fin": "2024-04-05",
+     "echantillon": 1713,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2024/avril/9753-pdt-ruffin-cluster-17-picardie-debout-21-avril-2024.pdf",
+     "a": 65.0,
+     "b": 35.0
+    },
+    {
+     "id": "2024-02-01-ifop-1081",
+     "institut": "Ifop",
+     "debut": "2024-01-31",
+     "fin": "2024-02-01",
+     "echantillon": 1081,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2024/fevrier/9715-pdtielle-ifop-valeurs-actuelles-7-fevrier.pdf",
+     "a": 64.0,
+     "b": 36.0
+    }
+   ]
+  },
+  {
+   "a": "attal",
+   "b": "le-pen",
+   "sondages": [
+    {
+     "id": "2026-10-19-ifop-2081",
+     "institut": "Ifop",
+     "debut": "2026-10-17",
+     "fin": "2026-10-19",
+     "echantillon": 2081,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10327-pres-barometre-election-v7-ifop-20-octobre.pdf",
+     "a": 42.0,
+     "b": 58.0
+    },
+    {
+     "id": "2026-10-15-yougov-1094",
+     "institut": "YouGov",
+     "debut": "2026-10-12",
+     "fin": "2026-10-15",
+     "echantillon": 1094,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10323-pres-iv-yougov-le-huffpost-18-octobre.pdf",
+     "a": 45.0,
+     "b": 55.0
+    },
+    {
+     "id": "2026-09-21-yougov-1103",
+     "institut": "YouGov",
+     "debut": "2026-09-17",
+     "fin": "2026-09-21",
+     "echantillon": 1103,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10270-pres-iv-yougov-huffpost-23-septembre.pdf",
+     "a": 43.0,
+     "b": 57.0
+    },
+    {
+     "id": "2026-09-10-harris-interactive-2052",
+     "institut": "Harris Interactive",
+     "debut": "2026-09-08",
+     "fin": "2026-09-10",
+     "echantillon": 2052,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10263-pres-iv-toluna-harris-interactive-rtl-14-septembre.pdf",
+     "a": 44.0,
+     "b": 56.0
+    },
+    {
+     "id": "2026-09-03-opinionway-1003",
+     "institut": "OpinionWay",
+     "debut": "2026-09-02",
+     "fin": "2026-09-03",
+     "echantillon": 1003,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10252-pres-iv-opinionway-jdd-7-septembre.pdf",
+     "a": 45.0,
+     "b": 55.0
+    },
+    {
+     "id": "2026-08-28-elabe-1503",
+     "institut": "Elabe",
+     "debut": "2026-08-26",
+     "fin": "2026-08-28",
+     "echantillon": 1503,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10245-pres-iv-elabe-29-aout.pdf",
+     "a": 43.0,
+     "b": 57.0
+    },
+    {
+     "id": "2026-08-25-ifop-1598",
+     "institut": "Ifop",
+     "debut": "2026-08-24",
+     "fin": "2026-08-25",
+     "echantillon": 1598,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10242-pres-barometre-election-pres-iv-v5-ifop-26-aout.pdf",
+     "a": 46.0,
+     "b": 54.0
+    },
+    {
+     "id": "2026-08-19-harris-interactive-1764",
+     "institut": "Harris Interactive",
+     "debut": "2026-08-18",
+     "fin": "2026-08-19",
+     "echantillon": 1764,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10239-pres-toluna-harris-interactive-rtl-24-aout.pdf",
+     "a": 43.0,
+     "b": 57.0
+    },
+    {
+     "id": "2026-07-24-cluster17-1506",
+     "institut": "Cluster17",
+     "debut": "2026-07-22",
+     "fin": "2026-07-24",
+     "echantillon": 1506,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10246-pres-cluster17-le-grand-continent-31-aout.pdf",
+     "a": 44.0,
+     "b": 56.0
+    },
+    {
+     "id": "2026-07-10-elabe-1503",
+     "institut": "Elabe",
+     "debut": "2026-07-09",
+     "fin": "2026-07-10",
+     "echantillon": 1503,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/juillet/10226-pres-elabe-11-juillet.pdf",
+     "a": 46.0,
+     "b": 54.0
+    },
+    {
+     "id": "2026-07-08-ifop-984",
+     "institut": "Ifop",
+     "debut": "2026-07-07",
+     "fin": "2026-07-08",
+     "echantillon": 984,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/juillet/10222-pres-ifop-le-figaro-8-juillet.pdf",
+     "a": 45.0,
+     "b": 55.0
+    },
+    {
+     "id": "2026-07-08-harris-interactive-1592",
+     "institut": "Harris Interactive",
+     "debut": "2026-07-07",
+     "fin": "2026-07-08",
+     "echantillon": 1592,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/juillet/10223-pres-iv-toluna-harris-interactive-rtl-8-juillet.pdf",
+     "a": 45.0,
+     "b": 55.0
+    },
+    {
+     "id": "2026-05-27-harris-interactive-1744",
+     "institut": "Harris Interactive",
+     "debut": "2026-05-25",
+     "fin": "2026-05-27",
+     "echantillon": 1744,
+     "notice": "https://tolunacorporate.com/wp-content/uploads/2026/05/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-2-M6-RTL-Mai-2026.pdf",
+     "a": 46.0,
+     "b": 54.0
+    },
+    {
+     "id": "2026-03-27-elabe-1504",
+     "institut": "Elabe",
+     "debut": "2026-03-25",
+     "fin": "2026-03-27",
+     "echantillon": 1504,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/mars/10166-pres-elabe-28-mars.pdf",
+     "a": 49.0,
+     "b": 51.0
+    },
+    {
+     "id": "2024-04-18-ifop-1093",
+     "institut": "Ifop",
+     "debut": "2024-04-16",
+     "fin": "2024-04-18",
+     "echantillon": 1093,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2024/avril/9766-pdt-ifop-le-figaro-magazine-26-04.pdf",
+     "a": 47.0,
+     "b": 53.0
+    },
+    {
+     "id": "2024-02-01-ifop-1081",
+     "institut": "Ifop",
+     "debut": "2024-01-31",
+     "fin": "2024-02-01",
+     "echantillon": 1081,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2024/fevrier/9715-pdtielle-ifop-valeurs-actuelles-7-fevrier.pdf",
+     "a": 49.0,
+     "b": 51.0
+    }
+   ]
+  },
+  {
+   "a": "glucksmann",
+   "b": "le-pen",
+   "sondages": [
+    {
+     "id": "2026-10-22-opinionway-973",
+     "institut": "OpinionWay",
+     "debut": "2026-10-21",
+     "fin": "2026-10-22",
+     "echantillon": 973,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10333-pres-iv-opinionway-cnews-22-octobre.pdf",
+     "a": 44.0,
+     "b": 56.0
+    },
+    {
+     "id": "2026-10-21-harris-interactive-2094",
+     "institut": "Harris Interactive",
+     "debut": "2026-10-19",
+     "fin": "2026-10-21",
+     "echantillon": 2094,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10332-pres-iv-toluna-harris-interactive-23-octobre.pdf",
+     "a": 41.0,
+     "b": 59.0
+    },
+    {
+     "id": "2026-10-19-ifop-2081",
+     "institut": "Ifop",
+     "debut": "2026-10-17",
+     "fin": "2026-10-19",
+     "echantillon": 2081,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10327-pres-barometre-election-v7-ifop-20-octobre.pdf",
+     "a": 43.0,
+     "b": 57.0
+    },
+    {
+     "id": "2026-10-16-elabe-1701",
+     "institut": "Elabe",
+     "debut": "2026-10-14",
+     "fin": "2026-10-16",
+     "echantillon": 1701,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10324-pres-iv-elabe-17-octobre.pdf",
+     "a": 46.5,
+     "b": 53.5
+    },
+    {
+     "id": "2026-10-15-yougov-1094",
+     "institut": "YouGov",
+     "debut": "2026-10-12",
+     "fin": "2026-10-15",
+     "echantillon": 1094,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10323-pres-iv-yougov-le-huffpost-18-octobre.pdf",
+     "a": 45.0,
+     "b": 55.0
+    },
+    {
+     "id": "2026-10-14-opinionway-1043",
+     "institut": "OpinionWay",
+     "debut": "2026-10-13",
+     "fin": "2026-10-14",
+     "echantillon": 1043,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10319-pres-iv-opinionway-cnews-15-octobre.pdf",
+     "a": 44.0,
+     "b": 56.0
+    },
+    {
+     "id": "2026-09-21-yougov-1103",
+     "institut": "YouGov",
+     "debut": "2026-09-17",
+     "fin": "2026-09-21",
+     "echantillon": 1103,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10270-pres-iv-yougov-huffpost-23-septembre.pdf",
+     "a": 41.0,
+     "b": 59.0
+    },
+    {
+     "id": "2026-08-28-elabe-1503",
+     "institut": "Elabe",
+     "debut": "2026-08-26",
+     "fin": "2026-08-28",
+     "echantillon": 1503,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10245-pres-iv-elabe-29-aout.pdf",
+     "a": 43.0,
+     "b": 57.0
+    },
+    {
+     "id": "2026-08-25-ifop-1598",
+     "institut": "Ifop",
+     "debut": "2026-08-24",
+     "fin": "2026-08-25",
+     "echantillon": 1598,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10242-pres-barometre-election-pres-iv-v5-ifop-26-aout.pdf",
+     "a": 45.0,
+     "b": 55.0
+    },
+    {
+     "id": "2026-07-24-cluster17-1506",
+     "institut": "Cluster17",
+     "debut": "2026-07-22",
+     "fin": "2026-07-24",
+     "echantillon": 1506,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10246-pres-cluster17-le-grand-continent-31-aout.pdf",
+     "a": 44.0,
+     "b": 56.0
+    },
+    {
+     "id": "2026-07-10-elabe-1503",
+     "institut": "Elabe",
+     "debut": "2026-07-09",
+     "fin": "2026-07-10",
+     "echantillon": 1503,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/juillet/10226-pres-elabe-11-juillet.pdf",
+     "a": 41.5,
+     "b": 58.5
+    }
+   ]
+  },
+  {
+   "a": "bardella",
+   "b": "philippe",
+   "sondages": [
+    {
+     "id": "2026-05-27-harris-interactive-1744",
+     "institut": "Harris Interactive",
+     "debut": "2026-05-25",
+     "fin": "2026-05-27",
+     "echantillon": 1744,
+     "notice": "https://tolunacorporate.com/wp-content/uploads/2026/05/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-2-M6-RTL-Mai-2026.pdf",
+     "a": 54.0,
+     "b": 46.0
+    },
+    {
+     "id": "2026-05-21-odoxa-1005",
+     "institut": "Odoxa",
+     "debut": "2026-05-20",
+     "fin": "2026-05-21",
+     "echantillon": 1005,
+     "notice": "https://www.odoxa.fr/sondage/philippe-seffondre-melenchon-decolle-bardella-simpose/",
+     "a": 52.0,
+     "b": 48.0
+    },
+    {
+     "id": "2026-03-27-elabe-1504",
+     "institut": "Elabe",
+     "debut": "2026-03-25",
+     "fin": "2026-03-27",
+     "echantillon": 1504,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/mars/10166-pres-elabe-28-mars.pdf",
+     "a": 48.5,
+     "b": 51.5
+    },
+    {
+     "id": "2026-03-26-odoxa-812",
+     "institut": "Odoxa",
+     "debut": "2026-03-25",
+     "fin": "2026-03-26",
+     "echantillon": 812,
+     "notice": "https://www.odoxa.fr/sondage/spectaculaire-come-back-dedouard-philippe-il-remporterait-aujourdhui-la-presidentielle/",
+     "a": 48.0,
+     "b": 52.0
+    },
+    {
+     "id": "2025-11-20-odoxa-803",
+     "institut": "Odoxa",
+     "debut": "2025-11-19",
+     "fin": "2025-11-20",
+     "echantillon": 803,
+     "notice": "https://www.odoxa.fr/sondage/jordan-bardella-est-la-personnalite-politique-preferee-des-francais-et-remporterait-la-presidentielle-si-elle-avait-lieu-dimanche-prochain/",
+     "a": 53.0,
+     "b": 47.0
+    },
+    {
+     "id": "2025-04-24-odoxa-1005",
+     "institut": "Odoxa",
+     "debut": "2025-04-23",
+     "fin": "2025-04-24",
+     "echantillon": 1005,
+     "notice": "https://www.odoxa.fr/sondage/presidentielle-le-pen-ou-bardella-seraient-en-tete-au-premier-tour-mais-battus-par-philippe-au-second/",
+     "a": 46.0,
+     "b": 54.0
+    },
+    {
+     "id": "2025-04-18-ifop-9128",
+     "institut": "Ifop",
+     "debut": "2025-04-11",
+     "fin": "2025-04-18",
+     "echantillon": 9128,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2025/mai/9930-pres-ifop-hexagone-5-mai.pdf",
+     "a": 50.0,
+     "b": 50.0
+    },
+    {
+     "id": "2024-04-18-ifop-1090",
+     "institut": "Ifop",
+     "debut": "2024-04-16",
+     "fin": "2024-04-18",
+     "echantillon": 1090,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2024/avril/9766-pdt-ifop-le-figaro-magazine-26-04.pdf",
+     "a": 50.0,
+     "b": 50.0
+    }
+   ]
+  },
+  {
+   "a": "hollande",
+   "b": "le-pen",
+   "sondages": [
+    {
+     "id": "2026-10-19-ifop-2081",
+     "institut": "Ifop",
+     "debut": "2026-10-17",
+     "fin": "2026-10-19",
+     "echantillon": 2081,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10327-pres-barometre-election-v7-ifop-20-octobre.pdf",
+     "a": 41.0,
+     "b": 59.0
+    },
+    {
+     "id": "2026-10-15-yougov-1094",
+     "institut": "YouGov",
+     "debut": "2026-10-12",
+     "fin": "2026-10-15",
+     "echantillon": 1094,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10323-pres-iv-yougov-le-huffpost-18-octobre.pdf",
+     "a": 45.0,
+     "b": 55.0
+    },
+    {
+     "id": "2026-09-21-yougov-1103",
+     "institut": "YouGov",
+     "debut": "2026-09-17",
+     "fin": "2026-09-21",
+     "echantillon": 1103,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10270-pres-iv-yougov-huffpost-23-septembre.pdf",
+     "a": 44.0,
+     "b": 56.0
+    },
+    {
+     "id": "2026-08-25-ifop-1598",
+     "institut": "Ifop",
+     "debut": "2026-08-24",
+     "fin": "2026-08-25",
+     "echantillon": 1598,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10242-pres-barometre-election-pres-iv-v5-ifop-26-aout.pdf",
+     "a": 46.0,
+     "b": 54.0
+    }
+   ]
+  },
+  {
+   "a": "attal",
+   "b": "bardella",
+   "sondages": [
+    {
+     "id": "2026-05-27-harris-interactive-1744",
+     "institut": "Harris Interactive",
+     "debut": "2026-05-25",
+     "fin": "2026-05-27",
+     "echantillon": 1744,
+     "notice": "https://tolunacorporate.com/wp-content/uploads/2026/05/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-2-M6-RTL-Mai-2026.pdf",
+     "a": 43.0,
+     "b": 57.0
+    },
+    {
+     "id": "2025-11-20-odoxa-776",
+     "institut": "Odoxa",
+     "debut": "2025-11-19",
+     "fin": "2025-11-20",
+     "echantillon": 776,
+     "notice": "https://www.odoxa.fr/sondage/jordan-bardella-est-la-personnalite-politique-preferee-des-francais-et-remporterait-la-presidentielle-si-elle-avait-lieu-dimanche-prochain/",
+     "a": 44.0,
+     "b": 56.0
+    },
+    {
+     "id": "2025-04-18-ifop-9128",
+     "institut": "Ifop",
+     "debut": "2025-04-11",
+     "fin": "2025-04-18",
+     "echantillon": 9128,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2025/mai/9930-pres-ifop-hexagone-5-mai.pdf",
+     "a": 48.0,
+     "b": 52.0
+    },
+    {
+     "id": "2024-04-18-ifop-1093",
+     "institut": "Ifop",
+     "debut": "2024-04-16",
+     "fin": "2024-04-18",
+     "echantillon": 1093,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2024/avril/9766-pdt-ifop-le-figaro-magazine-26-04.pdf",
+     "a": 49.0,
+     "b": 51.0
+    }
+   ]
+  },
+  {
+   "a": "bardella",
+   "b": "melenchon",
+   "sondages": [
+    {
+     "id": "2026-05-27-harris-interactive-1744",
+     "institut": "Harris Interactive",
+     "debut": "2026-05-25",
+     "fin": "2026-05-27",
+     "echantillon": 1744,
+     "notice": "https://tolunacorporate.com/wp-content/uploads/2026/05/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-2-M6-RTL-Mai-2026.pdf",
+     "a": 68.0,
+     "b": 32.0
+    },
+    {
+     "id": "2026-03-27-elabe-1504",
+     "institut": "Elabe",
+     "debut": "2026-03-25",
+     "fin": "2026-03-27",
+     "echantillon": 1504,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/mars/10166-pres-elabe-28-mars.pdf",
+     "a": 71.5,
+     "b": 28.5
+    },
+    {
+     "id": "2025-11-20-odoxa-689",
+     "institut": "Odoxa",
+     "debut": "2025-11-19",
+     "fin": "2025-11-20",
+     "echantillon": 689,
+     "notice": "https://www.odoxa.fr/sondage/jordan-bardella-est-la-personnalite-politique-preferee-des-francais-et-remporterait-la-presidentielle-si-elle-avait-lieu-dimanche-prochain/",
+     "a": 74.0,
+     "b": 26.0
+    },
+    {
+     "id": "2025-04-18-ifop-9128",
+     "institut": "Ifop",
+     "debut": "2025-04-11",
+     "fin": "2025-04-18",
+     "echantillon": 9128,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2025/mai/9930-pres-ifop-hexagone-5-mai.pdf",
+     "a": 67.0,
+     "b": 33.0
+    }
+   ]
+  },
+  {
+   "a": "le-pen",
+   "b": "retailleau",
+   "sondages": [
+    {
+     "id": "2026-08-25-ifop-1598",
+     "institut": "Ifop",
+     "debut": "2026-08-24",
+     "fin": "2026-08-25",
+     "echantillon": 1598,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10242-pres-barometre-election-pres-iv-v5-ifop-26-aout.pdf",
+     "a": 58.0,
+     "b": 42.0
+    },
+    {
+     "id": "2026-07-24-cluster17-1506",
+     "institut": "Cluster17",
+     "debut": "2026-07-22",
+     "fin": "2026-07-24",
+     "echantillon": 1506,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10246-pres-cluster17-le-grand-continent-31-aout.pdf",
+     "a": 57.0,
+     "b": 43.0
+    },
+    {
+     "id": "2026-07-10-elabe-1503",
+     "institut": "Elabe",
+     "debut": "2026-07-09",
+     "fin": "2026-07-10",
+     "echantillon": 1503,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/juillet/10226-pres-elabe-11-juillet.pdf",
+     "a": 56.0,
+     "b": 44.0
+    }
+   ]
+  },
+  {
+   "a": "melenchon",
+   "b": "philippe",
+   "sondages": [
+    {
+     "id": "2026-10-15-yougov-1094",
+     "institut": "YouGov",
+     "debut": "2026-10-12",
+     "fin": "2026-10-15",
+     "echantillon": 1094,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10323-pres-iv-yougov-le-huffpost-18-octobre.pdf",
+     "a": 34.0,
+     "b": 66.0
+    },
+    {
+     "id": "2026-09-21-yougov-1103",
+     "institut": "YouGov",
+     "debut": "2026-09-17",
+     "fin": "2026-09-21",
+     "echantillon": 1103,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10270-pres-iv-yougov-huffpost-23-septembre.pdf",
+     "a": 39.0,
+     "b": 61.0
+    }
+   ]
+  },
+  {
+   "a": "bardella",
+   "b": "glucksmann",
+   "sondages": [
+    {
+     "id": "2026-03-27-elabe-1504",
+     "institut": "Elabe",
+     "debut": "2026-03-25",
+     "fin": "2026-03-27",
+     "echantillon": 1504,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/mars/10166-pres-elabe-28-mars.pdf",
+     "a": 58.5,
+     "b": 41.5
+    },
+    {
+     "id": "2025-11-20-odoxa-795",
+     "institut": "Odoxa",
+     "debut": "2025-11-19",
+     "fin": "2025-11-20",
+     "echantillon": 795,
+     "notice": "https://www.odoxa.fr/sondage/jordan-bardella-est-la-personnalite-politique-preferee-des-francais-et-remporterait-la-presidentielle-si-elle-avait-lieu-dimanche-prochain/",
+     "a": 58.0,
+     "b": 42.0
+    }
+   ]
+  },
+  {
+   "a": "bardella",
+   "b": "retailleau",
+   "sondages": [
+    {
+     "id": "2026-03-27-elabe-1504",
+     "institut": "Elabe",
+     "debut": "2026-03-25",
+     "fin": "2026-03-27",
+     "echantillon": 1504,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/mars/10166-pres-elabe-28-mars.pdf",
+     "a": 58.0,
+     "b": 42.0
+    },
+    {
+     "id": "2025-04-18-ifop-9128",
+     "institut": "Ifop",
+     "debut": "2025-04-11",
+     "fin": "2025-04-18",
+     "echantillon": 9128,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2025/mai/9930-pres-ifop-hexagone-5-mai.pdf",
+     "a": 53.0,
+     "b": 47.0
+    }
+   ]
+  },
+  {
+   "a": "le-pen",
+   "b": "ruffin",
+   "sondages": [
+    {
+     "id": "2024-04-05-cluster17-1713",
+     "institut": "Cluster17",
+     "debut": "2024-04-02",
+     "fin": "2024-04-05",
+     "echantillon": 1713,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2024/avril/9753-pdt-ruffin-cluster-17-picardie-debout-21-avril-2024.pdf",
+     "a": 50.0,
+     "b": 50.0
+    }
+   ]
+  }
+ ],
+ "candidats": {
+  "arthaud": {
+   "nom": "Nathalie Arthaud",
+   "parti": "LO"
+  },
+  "attal": {
+   "nom": "Gabriel Attal",
+   "parti": "RE"
+  },
+  "bardella": {
+   "nom": "Jordan Bardella",
+   "parti": "RN"
+  },
+  "barnier": {
+   "nom": "Michel Barnier",
+   "parti": "LR"
+  },
+  "bayrou": {
+   "nom": "François Bayrou",
+   "parti": "EPR"
+  },
+  "bertrand": {
+   "nom": "Xavier Bertrand",
+   "parti": "LR"
+  },
+  "borne": {
+   "nom": "Élisabeth Borne",
+   "parti": "ENS"
+  },
+  "braun-pivet": {
+   "nom": "Yaël Braun-Pivet",
+   "parti": "ENS"
+  },
+  "castex": {
+   "nom": "Jean Castex",
+   "parti": "ENS"
+  },
+  "cazeneuve": {
+   "nom": "Bernard Cazeneuve",
+   "parti": "PS/DVG"
+  },
+  "darmanin": {
+   "nom": "Gérald Darmanin",
+   "parti": "RE"
+  },
+  "delga": {
+   "nom": "Carole Delga",
+   "parti": "PS/DVG"
+  },
+  "dupont-aignan": {
+   "nom": "Nicolas Dupont-Aignan",
+   "parti": "DLF"
+  },
+  "faure": {
+   "nom": "Olivier Faure",
+   "parti": "PS"
+  },
+  "glucksmann": {
+   "nom": "Raphaël Glucksmann",
+   "parti": "PP"
+  },
+  "guedj": {
+   "nom": "Jérôme Guedj",
+   "parti": "PS"
+  },
+  "hollande": {
+   "nom": "François Hollande",
+   "parti": "PS"
+  },
+  "jadot": {
+   "nom": "Yannick Jadot",
+   "parti": "EELV"
+  },
+  "knafo": {
+   "nom": "Sarah Knafo",
+   "parti": "REC"
+  },
+  "lassalle": {
+   "nom": "Jean Lassalle",
+   "parti": "RES"
+  },
+  "le-maire": {
+   "nom": "Bruno Le Maire",
+   "parti": "RE"
+  },
+  "le-pen": {
+   "nom": "Marine Le Pen",
+   "parti": "RN"
+  },
+  "lecornu": {
+   "nom": "Sébastien Lecornu",
+   "parti": "RE"
+  },
+  "lisnard": {
+   "nom": "David Lisnard",
+   "parti": "NE"
+  },
+  "maurel": {
+   "nom": "Emmanuel Maurel",
+   "parti": "GRS"
+  },
+  "melenchon": {
+   "nom": "Jean-Luc Mélenchon",
+   "parti": "LFI"
+  },
+  "philippe": {
+   "nom": "Édouard Philippe",
+   "parti": "HOR"
+  },
+  "poutou": {
+   "nom": "Philippe Poutou",
+   "parti": "NPA-A"
+  },
+  "retailleau": {
+   "nom": "Bruno Retailleau",
+   "parti": "LR"
+  },
+  "rousseau": {
+   "nom": "Sandrine Rousseau",
+   "parti": "LE"
+  },
+  "roussel": {
+   "nom": "Fabien Roussel",
+   "parti": "PCF"
+  },
+  "royal": {
+   "nom": "Ségolène Royal",
+   "parti": "PS"
+  },
+  "ruffin": {
+   "nom": "François Ruffin",
+   "parti": "LE"
+  },
+  "tondelier": {
+   "nom": "Marine Tondelier",
+   "parti": "LE"
+  },
+  "villepin": {
+   "nom": "Dominique de Villepin",
+   "parti": "LFH"
+  },
+  "villiers": {
+   "nom": "Philippe de Villiers",
+   "parti": "REC"
+  },
+  "wauquiez": {
+   "nom": "Laurent Wauquiez",
+   "parti": "LR"
+  },
+  "zemmour": {
+   "nom": "Éric Zemmour",
+   "parti": "REC"
+  }
+ }
+}
