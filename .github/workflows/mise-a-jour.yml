@@ -2,7 +2,7 @@ name: Mise à jour et publication
 
 on:
   schedule:
-    - cron: "17 */3 * * *" # toutes les 3 heures
+    - cron: "17 * * * *" # toutes les heures
   push:
     branches: [main]
   workflow_dispatch:
@@ -41,6 +41,12 @@ jobs:
           git push
 
       - uses: actions/configure-pages@v5
+        id: pages
+
+      # Titres de presse : non versionnés, fusionnés avec la version en ligne pour garder 14 jours
+      - name: Récupérer les actualités (flux RSS des médias)
+        continue-on-error: true
+        run: python3 scripts/update_news.py --previous "${{ steps.pages.outputs.base_url }}/data/actualites.json"
 
       - uses: actions/upload-pages-artifact@v4
         with:

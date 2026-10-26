@@ -15,14 +15,7 @@
   const PERIOD_LABEL = { '3m': 'depuis 3 mois', '6m': 'depuis 6 mois', '1a': 'depuis 1 an', tout: 'depuis le début' };
   const DAY = 864e5;
 
-  // Couleur fixe par personnalité (jamais par rang) ; les autres en gris.
-  const COLOR = {
-    'le-pen': 'violet', bardella: 'violet', melenchon: 'red', glucksmann: 'rasp',
-    philippe: 'aqua', retailleau: 'blue', attal: 'yellow', tondelier: 'green', zemmour: 'ink',
-  };
-  const DASHED = new Set(['bardella']);
-  const colorOf = (k) => `var(--c-${COLOR[k] || 'other'})`;
-  const isMain = (k) => k in COLOR;
+  const { DASHED, colorOf, isMain } = window.P2027; // assets/commun.js
 
   // ---------------------------------------------------------------- Outils
   const $ = (s) => document.querySelector(s);
@@ -631,12 +624,6 @@
     $('#share-btn').addEventListener('click', async () => {
       const url = location.origin + location.pathname + location.search + stateHash();
       try { await navigator.clipboard.writeText(url); toast('Lien copié dans le presse-papiers'); } catch (e) { window.prompt('Copiez ce lien :', url); }
-    });
-    $('#theme-btn').addEventListener('click', () => {
-      const root = document.documentElement;
-      const dark = root.dataset.theme ? root.dataset.theme === 'dark' : matchMedia('(prefers-color-scheme: dark)').matches;
-      root.dataset.theme = dark ? 'light' : 'dark';
-      try { localStorage.setItem('theme', root.dataset.theme); } catch (e) { /* stockage indisponible */ }
     });
     let raf = 0, lastW = 0;
     new ResizeObserver((entries) => {

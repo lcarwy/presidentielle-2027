@@ -19,13 +19,14 @@
   <div class="tricolore" aria-hidden="true"></div>
   <header class="top">
     <div class="wrap top-inner">
-      <a class="brand" href="#">Sondages <strong>Présidentielle 2027</strong></a>
+      <a class="brand" href="#"><span class="brand-pre">Sondages </span><strong>Présidentielle 2027</strong></a>
       <nav class="nav" aria-label="Sections">
         <a href="#moyenne">Moyenne</a>
         <a href="#evolution">Évolution</a>
         <a href="#second-tour">Second tour</a>
         <a href="#sondages">Sondages</a>
         <a href="#methode">Méthode</a>
+        <a class="page" href="actualites.html">Actualités</a>
       </nav>
       <button class="icon-btn" id="theme-btn" type="button" aria-label="Changer de thème" title="Thème clair / sombre">
         <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path fill="currentColor" d="M12 3a9 9 0 1 0 9 9c0-.46-.04-.92-.1-1.36a5.39 5.39 0 0 1-4.4 2.26 5.4 5.4 0 0 1-3.14-9.8c-.44-.06-.9-.1-1.36-.1z"/></svg>
@@ -129,18 +130,19 @@
       </details>
       <details>
         <summary>D'où viennent les données&nbsp;? À quelle fréquence sont-elles mises à jour&nbsp;?</summary>
-        <p>Les sondages sont relevés automatiquement toutes les trois heures sur la page Wikipédia <a id="source-link" href="https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027" target="_blank" rel="noopener">«&nbsp;Liste de sondages sur l'élection présidentielle française de 2027&nbsp;»</a> (licence CC BY-SA 4.0), elle-même alimentée par les notices officielles déposées auprès de la <a href="https://www.commission-des-sondages.fr/" target="_blank" rel="noopener">Commission des sondages</a>. Le lien de chaque institut, dans le tableau, renvoie à sa notice. Cette page se recharge d'elle-même lorsque de nouvelles données sont publiées.</p>
+        <p>Les sondages sont relevés automatiquement toutes les heures sur la page Wikipédia <a id="source-link" href="https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027" target="_blank" rel="noopener">«&nbsp;Liste de sondages sur l'élection présidentielle française de 2027&nbsp;»</a> (licence CC BY-SA 4.0), elle-même alimentée par les notices officielles déposées auprès de la <a href="https://www.commission-des-sondages.fr/" target="_blank" rel="noopener">Commission des sondages</a>. Le lien de chaque institut, dans le tableau, renvoie à sa notice. Cette page se recharge d'elle-même lorsque de nouvelles données sont publiées.</p>
       </details>
     </section>
   </main>
 
   <footer class="foot">
     <div class="wrap">
-      <p>Site indépendant, sans affiliation politique. Données&nbsp;: Wikipédia (CC BY-SA 4.0) et Commission des sondages. <a href="data/sondages.json">Données brutes</a> · <a id="repo-link" href="https://github.com/" target="_blank" rel="noopener">Code source</a></p>
+      <p>Site indépendant, sans affiliation politique. Données&nbsp;: Wikipédia (CC BY-SA 4.0) et Commission des sondages. <a href="actualites.html">Actualités</a> · <a href="data/sondages.json">Données brutes</a> · <a id="repo-link" href="https://github.com/" target="_blank" rel="noopener">Code source</a></p>
     </div>
   </footer>
 
   <div class="toast" id="toast" role="status" hidden></div>
+  <script src="assets/commun.js"></script>
   <script src="assets/app.js"></script>
 </body>
 </html>

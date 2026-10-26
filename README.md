@@ -12,18 +12,26 @@ Moyenne des sondages pour l'élection présidentielle française de 2027 (premie
 - **Second tour** : moyenne des duels testés sur les 60 derniers jours.
 - **Tableau de tous les sondages**, filtrable par institut, avec le détail de chaque hypothèse, la marge d'erreur au survol et un lien vers la notice officielle.
 - Export **CSV / JSON**, lien partageable (les filtres sont dans l'URL), thème clair / sombre, affichage mobile.
+- **Actualités** (`actualites.html`) : les derniers titres de la presse sur la campagne (Le Monde, franceinfo, Le Figaro, Libération, 20 Minutes, BFMTV, L'Express, HuffPost, France 24, RFI), filtrables par personnalité et par média.
 
 ## Fonctionnement
 
 ```
 scripts/update_polls.py      lit la page Wikipédia et écrit data/sondages.json + data/sondages.csv
-.github/workflows/…          relance le script toutes les 3 heures, enregistre les changements, publie le site
+scripts/update_news.py       lit les flux RSS des médias et écrit data/actualites.json (non versionné)
+.github/workflows/…          relance les scripts toutes les heures, enregistre les sondages, publie le site
 index.html, assets/          site statique (aucune dépendance) qui calcule la moyenne dans le navigateur
 ```
 
 Source des données : [Liste de sondages sur l'élection présidentielle française de 2027](https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027) (Wikipédia, licence CC BY-SA 4.0), alimentée par les notices de la [Commission des sondages](https://www.commission-des-sondages.fr/).
 
-Le script refuse d'écraser les données si le nombre de sondages extraits chute brutalement (page vandalisée ou restructurée) ; le site continue alors d'afficher les dernières données valides.
+### Actualités et droit d'auteur
+
+La page Actualités n'affiche que le titre, le nom du média, la date et un lien vers l'article, tels que publiés dans les flux RSS publics des médias. Aucun texte d'article ni aucune image n'est reproduit ; le résumé du flux sert seulement à repérer les articles qui concernent la présidentielle et n'est pas enregistré. Un média peut demander à être retiré en ouvrant une *issue*.
+
+### Robustesse
+
+Le script des sondages refuse d'écraser les données si le nombre de sondages extraits chute brutalement (page vandalisée ou restructurée) ; le site continue alors d'afficher les dernières données valides.
 
 ### Méthode de la moyenne
 
@@ -38,7 +46,8 @@ Les couleurs suivent les usages politiques (RN violet-bleu, LFI rouge, PS-Place 
 ## Développement local
 
 ```bash
-python3 scripts/update_polls.py     # met à jour data/
+python3 scripts/update_polls.py     # met à jour data/sondages.*
+python3 scripts/update_news.py      # met à jour data/actualites.json
 python3 -m http.server 8000         # puis http://localhost:8000
 ```
 
@@ -46,6 +55,6 @@ python3 -m http.server 8000         # puis http://localhost:8000
 
 1. Pousser le dépôt sur GitHub.
 2. *Settings → Pages → Build and deployment → Source* : **GitHub Actions**.
-3. Le workflow « Mise à jour et publication » publie le site à chaque push et toutes les 3 heures (il peut aussi être lancé à la main depuis l'onglet *Actions*).
+3. Le workflow « Mise à jour et publication » publie le site à chaque push et toutes les heures (il peut aussi être lancé à la main depuis l'onglet *Actions*).
 
 > Un sondage n'est pas une prévision : c'est une photographie de l'opinion à un instant donné.

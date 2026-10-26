@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Actualités Présidentielle 2027</title>
+  <meta name="description" content="Les derniers titres de la presse française sur la présidentielle 2027, rassemblés automatiquement toutes les heures, avec un lien vers chaque article original.">
+  <meta property="og:title" content="Actualités de la présidentielle 2027">
+  <meta property="og:description" content="Les derniers titres de la presse française sur la campagne, mis à jour toutes les heures.">
+  <meta property="og:type" content="website">
+  <meta name="theme-color" content="#f9f9f7">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%23f9f9f7'/%3E%3Crect x='6' y='16' width='5' height='10' rx='1.5' fill='%23002395'/%3E%3Crect x='13.5' y='9' width='5' height='17' rx='1.5' fill='%2389877f'/%3E%3Crect x='21' y='13' width='5' height='13' rx='1.5' fill='%23ED2939'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="assets/style.css">
+  <script>
+    try { const t = localStorage.getItem('theme'); if (t) document.documentElement.dataset.theme = t; } catch (e) {}
+  </script>
+</head>
+<body>
+  <div class="tricolore" aria-hidden="true"></div>
+  <header class="top">
+    <div class="wrap top-inner">
+      <a class="brand" href="./"><span class="brand-pre">Sondages </span><strong>Présidentielle 2027</strong></a>
+      <nav class="nav" aria-label="Pages">
+        <a class="page" href="./">Sondages</a>
+        <a href="./#second-tour">Second tour</a>
+        <a href="./#methode">Méthode</a>
+        <a class="page" href="actualites.html" aria-current="page">Actualités</a>
+      </nav>
+      <button class="icon-btn" id="theme-btn" type="button" aria-label="Changer de thème" title="Thème clair / sombre">
+        <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path fill="currentColor" d="M12 3a9 9 0 1 0 9 9c0-.46-.04-.92-.1-1.36a5.39 5.39 0 0 1-4.4 2.26 5.4 5.4 0 0 1-3.14-9.8c-.44-.06-.9-.1-1.36-.1z"/></svg>
+      </button>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="hero">
+      <p class="eyebrow">Présidentielle 2027 · revue de presse automatique</p>
+      <h1>Actualités de la campagne</h1>
+      <p class="lede">Les derniers titres de la presse française sur la présidentielle et ses candidats, rassemblés toutes les heures. Cliquez sur un titre pour lire l'article sur le site du média.</p>
+      <p class="status" id="status" aria-live="polite">Chargement…</p>
+    </section>
+
+    <div class="controls" role="group" aria-label="Filtres">
+      <label class="field">
+        <span>Personnalité</span>
+        <select id="f-cand"><option value="">Toutes</option></select>
+      </label>
+      <label class="field">
+        <span>Média</span>
+        <select id="f-src"><option value="">Tous les médias</option></select>
+      </label>
+      <label class="field grow">
+        <span>Rechercher</span>
+        <input type="search" id="f-q" placeholder="Un mot du titre…" autocomplete="off">
+      </label>
+    </div>
+
+    <section class="card" aria-labelledby="h-fil">
+      <h2 id="h-fil" class="sr-only">Fil d'actualités</h2>
+      <div id="feed"></div>
+      <button type="button" class="btn ghost small" id="more-btn" hidden>Afficher plus d'articles</button>
+    </section>
+
+    <section class="card" aria-labelledby="h-sources">
+      <h2 id="h-sources">Sources et droits</h2>
+      <p class="sub">Cette page n'affiche que le <strong>titre</strong>, le <strong>nom du média</strong>, la <strong>date</strong> et un <strong>lien</strong> vers l'article, tels que publiés par chaque média dans son flux RSS public. Aucun texte d'article ni aucune image n'est reproduit : les articles restent sur le site de leur éditeur et appartiennent à leurs auteurs. Sont retenus les articles des rubriques politiques qui citent un candidat testé dans les sondages ou la présidentielle.</p>
+      <p class="sub">Un média ne souhaite pas apparaître ici&nbsp;? <a id="issues-link" href="https://github.com/lcarwy/presidentielle-2027/issues" target="_blank" rel="noopener">Signalez-le</a>, il sera retiré.</p>
+      <ul class="sources" id="sources"></ul>
+    </section>
+  </main>
+
+  <footer class="foot">
+    <div class="wrap">
+      <p>Site indépendant, sans affiliation politique. <a href="./">Moyenne des sondages</a> · <a id="repo-link" href="https://github.com/lcarwy/presidentielle-2027" target="_blank" rel="noopener">Code source</a></p>
+    </div>
+  </footer>
+
+  <script src="assets/commun.js"></script>
+  <script src="assets/actualites.js"></script>
+</body>
+</html>
