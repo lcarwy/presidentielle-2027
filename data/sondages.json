@@ -1,10 +1,10 @@
 {
- "mis_a_jour": "2026-10-26T10:34:27+00:00",
+ "mis_a_jour": "2026-10-26T21:00:14+00:00",
  "source": {
   "nom": "Wikipédia — Liste de sondages sur l'élection présidentielle française de 2027",
   "url": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
-  "revision": 240731388,
-  "revision_date": "2026-10-26T10:21:16Z",
+  "revision": 240741132,
+  "revision_date": "2026-10-26T16:37:39Z",
   "licence": "CC BY-SA 4.0"
  },
  "election": {
@@ -102,7 +102,7 @@
    "debut": "2026-10-19",
    "fin": "2026-10-22",
    "echantillon": 3000,
-   "notice": "https://www.politico.eu/article/sondage-exclusif-2027-la-chute-de-philippe-relegue-derriere-melenchon/",
+   "notice": "https://cluster17.com/wp-content/uploads/2026/10/ITV-Politico-Octobre-C17.pdf",
    "hypotheses": [
     {
      "arthaud": 0.5,
@@ -114,6 +114,18 @@
      "retailleau": 8.0,
      "dupont-aignan": 3.0,
      "le-pen": 33.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 0.5,
+     "melenchon": 19.5,
+     "roussel": 2.0,
+     "tondelier": 2.0,
+     "glucksmann": 14.0,
+     "attal": 12.0,
+     "retailleau": 10.0,
+     "dupont-aignan": 3.5,
+     "le-pen": 32.5,
      "zemmour": 4.0
     },
     {
