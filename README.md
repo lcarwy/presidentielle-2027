@@ -2,6 +2,8 @@
 
 Moyenne des sondages pour l'élection présidentielle française de 2027 (premier tour le 18 avril, second tour le 2 mai 2027), mise à jour automatiquement.
 
+**👉 Voir le site : <https://lcarwy.github.io/presidentielle-2027/>**
+
 ## Fonctionnalités
 
 - **Moyenne actuelle** des intentions de vote au premier tour, avec l'évolution sur la période choisie et la fourchette des sondages récents.
