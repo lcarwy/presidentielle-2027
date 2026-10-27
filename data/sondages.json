@@ -1,10 +1,10 @@
 {
- "mis_a_jour": "2026-10-26T21:00:14+00:00",
+ "mis_a_jour": "2026-10-27T17:59:40+00:00",
  "source": {
   "nom": "Wikipédia — Liste de sondages sur l'élection présidentielle française de 2027",
   "url": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
-  "revision": 240741132,
-  "revision_date": "2026-10-26T16:37:39Z",
+  "revision": 240766888,
+  "revision_date": "2026-10-27T13:03:58Z",
   "licence": "CC BY-SA 4.0"
  },
  "election": {
@@ -97,12 +97,12 @@
    ]
   },
   {
-   "id": "2026-10-22-cluster17-3000",
+   "id": "2026-10-22-cluster17-2817",
    "institut": "Cluster17",
    "debut": "2026-10-19",
    "fin": "2026-10-22",
-   "echantillon": 3000,
-   "notice": "https://cluster17.com/wp-content/uploads/2026/10/ITV-Politico-Octobre-C17.pdf",
+   "echantillon": 2817,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10339-pres-iv-cluster17-politico-26-octobre.pdf",
    "hypotheses": [
     {
      "arthaud": 0.5,
