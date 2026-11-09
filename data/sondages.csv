@@ -3351,6 +3351,8 @@ tour,sondage,institut,debut,fin,echantillon,hypothese,candidat,score
 1,2023-03-31-ifop-1105,Ifop,2023-03-30,2023-03-31,1105,5,dupont-aignan,3.0
 1,2023-03-31-ifop-1105,Ifop,2023-03-30,2023-03-31,1105,5,le-pen,36.0
 1,2023-03-31-ifop-1105,Ifop,2023-03-30,2023-03-31,1105,5,zemmour,7.0
+2,2026-11-05-harris-interactive-2101,Harris Interactive,2026-11-03,2026-11-05,2101,le-pen / philippe,le-pen,58.0
+2,2026-11-05-harris-interactive-2101,Harris Interactive,2026-11-03,2026-11-05,2101,le-pen / philippe,philippe,42.0
 2,2026-10-22-opinionway-973,OpinionWay,2026-10-21,2026-10-22,973,le-pen / philippe,le-pen,56.0
 2,2026-10-22-opinionway-973,OpinionWay,2026-10-21,2026-10-22,973,le-pen / philippe,philippe,44.0
 2,2026-10-21-harris-interactive-2094,Harris Interactive,2026-10-19,2026-10-21,2094,le-pen / philippe,le-pen,57.0
@@ -3403,6 +3405,8 @@ tour,sondage,institut,debut,fin,echantillon,hypothese,candidat,score
 2,2024-04-18-ifop-1090,Ifop,2024-04-16,2024-04-18,1090,le-pen / philippe,philippe,49.0
 2,2024-02-01-ifop-1081,Ifop,2024-01-31,2024-02-01,1081,le-pen / philippe,le-pen,50.0
 2,2024-02-01-ifop-1081,Ifop,2024-01-31,2024-02-01,1081,le-pen / philippe,philippe,50.0
+2,2026-11-05-harris-interactive-2101,Harris Interactive,2026-11-03,2026-11-05,2101,le-pen / melenchon,le-pen,68.0
+2,2026-11-05-harris-interactive-2101,Harris Interactive,2026-11-03,2026-11-05,2101,le-pen / melenchon,melenchon,32.0
 2,2026-10-22-opinionway-973,OpinionWay,2026-10-21,2026-10-22,973,le-pen / melenchon,le-pen,69.0
 2,2026-10-22-opinionway-973,OpinionWay,2026-10-21,2026-10-22,973,le-pen / melenchon,melenchon,31.0
 2,2026-10-21-harris-interactive-2094,Harris Interactive,2026-10-19,2026-10-21,2094,le-pen / melenchon,le-pen,70.0
@@ -3481,6 +3485,8 @@ tour,sondage,institut,debut,fin,echantillon,hypothese,candidat,score
 2,2024-04-18-ifop-1093,Ifop,2024-04-16,2024-04-18,1093,attal / le-pen,le-pen,53.0
 2,2024-02-01-ifop-1081,Ifop,2024-01-31,2024-02-01,1081,attal / le-pen,attal,49.0
 2,2024-02-01-ifop-1081,Ifop,2024-01-31,2024-02-01,1081,attal / le-pen,le-pen,51.0
+2,2026-11-05-harris-interactive-2101,Harris Interactive,2026-11-03,2026-11-05,2101,glucksmann / le-pen,glucksmann,40.0
+2,2026-11-05-harris-interactive-2101,Harris Interactive,2026-11-03,2026-11-05,2101,glucksmann / le-pen,le-pen,60.0
 2,2026-10-22-opinionway-973,OpinionWay,2026-10-21,2026-10-22,973,glucksmann / le-pen,glucksmann,44.0
 2,2026-10-22-opinionway-973,OpinionWay,2026-10-21,2026-10-22,973,glucksmann / le-pen,le-pen,56.0
 2,2026-10-21-harris-interactive-2094,Harris Interactive,2026-10-19,2026-10-21,2094,glucksmann / le-pen,glucksmann,41.0

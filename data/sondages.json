@@ -1,10 +1,10 @@
 {
- "mis_a_jour": "2026-11-09T07:55:49+00:00",
+ "mis_a_jour": "2026-11-09T18:44:45+00:00",
  "source": {
   "nom": "Wikipédia — Liste de sondages sur l'élection présidentielle française de 2027",
   "url": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
-  "revision": 241170462,
-  "revision_date": "2026-11-09T07:52:45Z",
+  "revision": 241186034,
+  "revision_date": "2026-11-09T17:32:37Z",
   "licence": "CC BY-SA 4.0"
  },
  "election": {
@@ -18,7 +18,7 @@
    "debut": "2026-11-03",
    "fin": "2026-11-05",
    "echantillon": 2101,
-   "notice": "https://tolunacorporate.com/wp-content/uploads/2026/11/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-9-M6-RTL-9-novembre-2026.pdf",
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/novembre/10362-pres-iv-toluna-harris-interactive-9-novembre.pdf",
    "hypotheses": [
     {
      "arthaud": 1.0,
@@ -4769,6 +4769,16 @@
    "b": "philippe",
    "sondages": [
     {
+     "id": "2026-11-05-harris-interactive-2101",
+     "institut": "Harris Interactive",
+     "debut": "2026-11-03",
+     "fin": "2026-11-05",
+     "echantillon": 2101,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/novembre/10362-pres-iv-toluna-harris-interactive-9-novembre.pdf",
+     "a": 58.0,
+     "b": 42.0
+    },
+    {
      "id": "2026-10-22-opinionway-973",
      "institut": "OpinionWay",
      "debut": "2026-10-21",
@@ -5034,6 +5044,16 @@
    "a": "le-pen",
    "b": "melenchon",
    "sondages": [
+    {
+     "id": "2026-11-05-harris-interactive-2101",
+     "institut": "Harris Interactive",
+     "debut": "2026-11-03",
+     "fin": "2026-11-05",
+     "echantillon": 2101,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/novembre/10362-pres-iv-toluna-harris-interactive-9-novembre.pdf",
+     "a": 68.0,
+     "b": 32.0
+    },
     {
      "id": "2026-10-22-opinionway-973",
      "institut": "OpinionWay",
@@ -5436,6 +5456,16 @@
    "a": "glucksmann",
    "b": "le-pen",
    "sondages": [
+    {
+     "id": "2026-11-05-harris-interactive-2101",
+     "institut": "Harris Interactive",
+     "debut": "2026-11-03",
+     "fin": "2026-11-05",
+     "echantillon": 2101,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/novembre/10362-pres-iv-toluna-harris-interactive-9-novembre.pdf",
+     "a": 40.0,
+     "b": 60.0
+    },
     {
      "id": "2026-10-22-opinionway-973",
      "institut": "OpinionWay",
