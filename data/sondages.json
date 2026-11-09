@@ -1,10 +1,10 @@
 {
- "mis_a_jour": "2026-11-04T21:17:30+00:00",
+ "mis_a_jour": "2026-11-09T07:55:49+00:00",
  "source": {
   "nom": "Wikipédia — Liste de sondages sur l'élection présidentielle française de 2027",
   "url": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
-  "revision": 241019119,
-  "revision_date": "2026-11-04T17:25:39Z",
+  "revision": 241170462,
+  "revision_date": "2026-11-09T07:52:45Z",
   "licence": "CC BY-SA 4.0"
  },
  "election": {
@@ -12,6 +12,79 @@
   "second_tour": "2027-05-02"
  },
  "sondages": [
+  {
+   "id": "2026-11-05-harris-interactive-2101",
+   "institut": "Harris Interactive",
+   "debut": "2026-11-03",
+   "fin": "2026-11-05",
+   "echantillon": 2101,
+   "notice": "https://tolunacorporate.com/wp-content/uploads/2026/11/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-9-M6-RTL-9-novembre-2026.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 1.0,
+     "melenchon": 19.0,
+     "roussel": 1.0,
+     "tondelier": 2.0,
+     "glucksmann": 11.0,
+     "philippe": 12.0,
+     "lisnard": 9.0,
+     "retailleau": 5.0,
+     "dupont-aignan": 1.0,
+     "le-pen": 34.0,
+     "zemmour": 3.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 19.0,
+     "roussel": 1.0,
+     "tondelier": 2.0,
+     "glucksmann": 12.0,
+     "attal": 9.0,
+     "lisnard": 9.0,
+     "retailleau": 6.0,
+     "dupont-aignan": 1.0,
+     "le-pen": 35.0,
+     "zemmour": 3.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 18.0,
+     "roussel": 2.0,
+     "tondelier": 2.0,
+     "glucksmann": 11.0,
+     "attal": 6.0,
+     "philippe": 11.0,
+     "retailleau": 7.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 36.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 19.0,
+     "roussel": 2.0,
+     "tondelier": 2.0,
+     "glucksmann": 12.0,
+     "philippe": 14.0,
+     "retailleau": 8.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 36.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 19.0,
+     "roussel": 2.0,
+     "tondelier": 3.0,
+     "glucksmann": 13.0,
+     "attal": 10.0,
+     "retailleau": 10.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 36.0,
+     "zemmour": 4.0
+    }
+   ]
+  },
   {
    "id": "2026-10-29-ifop-1501",
    "institut": "Ifop",
