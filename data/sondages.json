@@ -1,10 +1,10 @@
 {
- "mis_a_jour": "2026-11-09T18:44:45+00:00",
+ "mis_a_jour": "2026-11-11T18:40:23+00:00",
  "source": {
   "nom": "Wikipédia — Liste de sondages sur l'élection présidentielle française de 2027",
   "url": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
-  "revision": 241186034,
-  "revision_date": "2026-11-09T17:32:37Z",
+  "revision": 241251668,
+  "revision_date": "2026-11-11T18:30:31Z",
   "licence": "CC BY-SA 4.0"
  },
  "election": {
@@ -12,6 +12,55 @@
   "second_tour": "2027-05-02"
  },
  "sondages": [
+  {
+   "id": "2026-11-10-cluster17-1242",
+   "institut": "Cluster17",
+   "debut": "2026-11-09",
+   "fin": "2026-11-10",
+   "echantillon": 1242,
+   "notice": "https://www.politico.eu/article/sondage-exclusif-2027-christine-lagarde-bien-accueillie-par-les-electeurs-du-centre/",
+   "hypotheses": [
+    {
+     "arthaud": 0.5,
+     "melenchon": 20.5,
+     "roussel": 2.5,
+     "tondelier": 1.5,
+     "glucksmann": 10.0,
+     "lisnard": 10.0,
+     "retailleau": 5.5,
+     "dupont-aignan": 2.0,
+     "le-pen": 30.5,
+     "zemmour": 3.0
+    },
+    {
+     "arthaud": 0.5,
+     "melenchon": 20.0,
+     "roussel": 2.0,
+     "tondelier": 1.5,
+     "glucksmann": 11.0,
+     "philippe": 13.5,
+     "lisnard": 10.0,
+     "retailleau": 5.0,
+     "dupont-aignan": 3.0,
+     "le-pen": 30.5,
+     "zemmour": 3.0
+    },
+    {
+     "arthaud": 0.5,
+     "melenchon": 19.0,
+     "roussel": 1.5,
+     "tondelier": 1.0,
+     "glucksmann": 8.0,
+     "attal": 2.0,
+     "philippe": 8.0,
+     "lisnard": 8.0,
+     "retailleau": 5.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 27.0,
+     "zemmour": 2.0
+    }
+   ]
+  },
   {
    "id": "2026-11-05-harris-interactive-2101",
    "institut": "Harris Interactive",
