@@ -1,10 +1,10 @@
 {
- "mis_a_jour": "2026-11-12T01:31:18+00:00",
+ "mis_a_jour": "2026-11-12T18:16:42+00:00",
  "source": {
   "nom": "Wikipédia — Liste de sondages sur l'élection présidentielle française de 2027",
   "url": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
-  "revision": 241254292,
-  "revision_date": "2026-11-11T20:20:13Z",
+  "revision": 241283491,
+  "revision_date": "2026-11-12T17:23:09Z",
   "licence": "CC BY-SA 4.0"
  },
  "election": {
@@ -13,12 +13,62 @@
  },
  "sondages": [
   {
+   "id": "2026-11-10-opinionway-982",
+   "institut": "OpinionWay",
+   "debut": "2026-11-09",
+   "fin": "2026-11-10",
+   "echantillon": 982,
+   "notice": "https://f.dviz.factoviz.com/UserFiles/0/9/2/2027/OpinionWay%20pour%20Les%20Echos%20et%20Radio%20Classique%20-%20Barom%C3%A8tre%20Pr%C3%A9sitrack%202027%20Vague%204%20-%20Novembre%202026.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 1.0,
+     "melenchon": 17.0,
+     "roussel": 1.0,
+     "tondelier": 3.0,
+     "glucksmann": 11.0,
+     "attal": 4.0,
+     "philippe": 11.0,
+     "lisnard": 10.0,
+     "retailleau": 4.0,
+     "dupont-aignan": 1.0,
+     "le-pen": 34.0,
+     "zemmour": 3.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 16.0,
+     "roussel": 2.0,
+     "tondelier": 3.0,
+     "glucksmann": 12.0,
+     "philippe": 12.0,
+     "lisnard": 11.0,
+     "retailleau": 4.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 34.0,
+     "zemmour": 3.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 16.0,
+     "roussel": 1.0,
+     "tondelier": 3.0,
+     "glucksmann": 13.0,
+     "attal": 10.0,
+     "lisnard": 12.0,
+     "retailleau": 6.0,
+     "dupont-aignan": 1.0,
+     "le-pen": 34.0,
+     "zemmour": 3.0
+    }
+   ]
+  },
+  {
    "id": "2026-11-10-cluster17-1164",
    "institut": "Cluster17",
    "debut": "2026-11-09",
    "fin": "2026-11-10",
    "echantillon": 1164,
-   "notice": "https://www.politico.eu/article/sondage-exclusif-2027-christine-lagarde-bien-accueillie-par-les-electeurs-du-centre/",
+   "notice": "https://cluster17.com/wp-content/uploads/2026/11/Sondage_Cluster17_ITV_P2027-Politico.pdf",
    "hypotheses": [
     {
      "arthaud": 0.5,
@@ -30,6 +80,19 @@
      "retailleau": 5.5,
      "dupont-aignan": 2.0,
      "le-pen": 30.5,
+     "zemmour": 3.0
+    },
+    {
+     "arthaud": 0.5,
+     "melenchon": 20.5,
+     "roussel": 2.0,
+     "tondelier": 1.5,
+     "glucksmann": 11.5,
+     "attal": 11.0,
+     "lisnard": 10.0,
+     "retailleau": 6.0,
+     "dupont-aignan": 3.0,
+     "le-pen": 31.0,
      "zemmour": 3.0
     },
     {
