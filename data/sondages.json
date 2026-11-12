@@ -1,10 +1,10 @@
 {
- "mis_a_jour": "2026-11-11T18:40:23+00:00",
+ "mis_a_jour": "2026-11-12T01:31:18+00:00",
  "source": {
   "nom": "Wikipédia — Liste de sondages sur l'élection présidentielle française de 2027",
   "url": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
-  "revision": 241251668,
-  "revision_date": "2026-11-11T18:30:31Z",
+  "revision": 241254292,
+  "revision_date": "2026-11-11T20:20:13Z",
   "licence": "CC BY-SA 4.0"
  },
  "election": {
@@ -13,11 +13,11 @@
  },
  "sondages": [
   {
-   "id": "2026-11-10-cluster17-1242",
+   "id": "2026-11-10-cluster17-1164",
    "institut": "Cluster17",
    "debut": "2026-11-09",
    "fin": "2026-11-10",
-   "echantillon": 1242,
+   "echantillon": 1164,
    "notice": "https://www.politico.eu/article/sondage-exclusif-2027-christine-lagarde-bien-accueillie-par-les-electeurs-du-centre/",
    "hypotheses": [
     {
