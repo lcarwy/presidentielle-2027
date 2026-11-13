@@ -1,10 +1,10 @@
 {
- "mis_a_jour": "2026-11-12T23:40:25+00:00",
+ "mis_a_jour": "2026-11-13T21:58:03+00:00",
  "source": {
   "nom": "Wikipédia — Liste de sondages sur l'élection présidentielle française de 2027",
   "url": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
-  "revision": 241284952,
-  "revision_date": "2026-11-12T18:17:34Z",
+  "revision": 241312018,
+  "revision_date": "2026-11-13T16:59:56Z",
   "licence": "CC BY-SA 4.0"
  },
  "election": {
@@ -12,6 +12,44 @@
   "second_tour": "2027-05-02"
  },
  "sondages": [
+  {
+   "id": "2026-11-12-opinionway-1001",
+   "institut": "OpinionWay",
+   "debut": "2026-11-10",
+   "fin": "2026-11-12",
+   "echantillon": 1001,
+   "notice": "https://www.cnews.fr/france/2026-11-12/presidentielle-2027-marine-le-pen-reste-en-tete-des-intentions-de-vote-teddy",
+   "hypotheses": [
+    {
+     "arthaud": 1.0,
+     "melenchon": 16.0,
+     "roussel": 2.0,
+     "tondelier": 3.0,
+     "glucksmann": 10.0,
+     "attal": 3.0,
+     "philippe": 12.0,
+     "lisnard": 9.0,
+     "retailleau": 4.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 31.0,
+     "zemmour": 3.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 16.0,
+     "roussel": 2.0,
+     "tondelier": 3.0,
+     "glucksmann": 10.0,
+     "attal": 4.0,
+     "philippe": 12.0,
+     "lisnard": 10.0,
+     "retailleau": 5.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 32.0,
+     "zemmour": 2.0
+    }
+   ]
+  },
   {
    "id": "2026-11-10-opinionway-982",
    "institut": "OpinionWay",
