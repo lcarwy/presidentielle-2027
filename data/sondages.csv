@@ -1,28 +1,28 @@
 tour,sondage,institut,debut,fin,echantillon,hypothese,candidat,score
-1,2026-11-12-opinionway-1001,OpinionWay,2026-11-10,2026-11-12,1001,1,arthaud,1.0
-1,2026-11-12-opinionway-1001,OpinionWay,2026-11-10,2026-11-12,1001,1,melenchon,16.0
-1,2026-11-12-opinionway-1001,OpinionWay,2026-11-10,2026-11-12,1001,1,roussel,2.0
-1,2026-11-12-opinionway-1001,OpinionWay,2026-11-10,2026-11-12,1001,1,tondelier,3.0
-1,2026-11-12-opinionway-1001,OpinionWay,2026-11-10,2026-11-12,1001,1,glucksmann,10.0
-1,2026-11-12-opinionway-1001,OpinionWay,2026-11-10,2026-11-12,1001,1,attal,3.0
-1,2026-11-12-opinionway-1001,OpinionWay,2026-11-10,2026-11-12,1001,1,philippe,12.0
-1,2026-11-12-opinionway-1001,OpinionWay,2026-11-10,2026-11-12,1001,1,lisnard,9.0
-1,2026-11-12-opinionway-1001,OpinionWay,2026-11-10,2026-11-12,1001,1,retailleau,4.0
-1,2026-11-12-opinionway-1001,OpinionWay,2026-11-10,2026-11-12,1001,1,dupont-aignan,2.0
-1,2026-11-12-opinionway-1001,OpinionWay,2026-11-10,2026-11-12,1001,1,le-pen,31.0
-1,2026-11-12-opinionway-1001,OpinionWay,2026-11-10,2026-11-12,1001,1,zemmour,3.0
-1,2026-11-12-opinionway-1001,OpinionWay,2026-11-10,2026-11-12,1001,2,arthaud,1.0
-1,2026-11-12-opinionway-1001,OpinionWay,2026-11-10,2026-11-12,1001,2,melenchon,16.0
-1,2026-11-12-opinionway-1001,OpinionWay,2026-11-10,2026-11-12,1001,2,roussel,2.0
-1,2026-11-12-opinionway-1001,OpinionWay,2026-11-10,2026-11-12,1001,2,tondelier,3.0
-1,2026-11-12-opinionway-1001,OpinionWay,2026-11-10,2026-11-12,1001,2,glucksmann,10.0
-1,2026-11-12-opinionway-1001,OpinionWay,2026-11-10,2026-11-12,1001,2,attal,4.0
-1,2026-11-12-opinionway-1001,OpinionWay,2026-11-10,2026-11-12,1001,2,philippe,12.0
-1,2026-11-12-opinionway-1001,OpinionWay,2026-11-10,2026-11-12,1001,2,lisnard,10.0
-1,2026-11-12-opinionway-1001,OpinionWay,2026-11-10,2026-11-12,1001,2,retailleau,5.0
-1,2026-11-12-opinionway-1001,OpinionWay,2026-11-10,2026-11-12,1001,2,dupont-aignan,2.0
-1,2026-11-12-opinionway-1001,OpinionWay,2026-11-10,2026-11-12,1001,2,le-pen,32.0
-1,2026-11-12-opinionway-1001,OpinionWay,2026-11-10,2026-11-12,1001,2,zemmour,2.0
+1,2026-11-12-opinionway-964,OpinionWay,2026-11-10,2026-11-12,964,1,arthaud,1.0
+1,2026-11-12-opinionway-964,OpinionWay,2026-11-10,2026-11-12,964,1,melenchon,16.0
+1,2026-11-12-opinionway-964,OpinionWay,2026-11-10,2026-11-12,964,1,roussel,2.0
+1,2026-11-12-opinionway-964,OpinionWay,2026-11-10,2026-11-12,964,1,tondelier,3.0
+1,2026-11-12-opinionway-964,OpinionWay,2026-11-10,2026-11-12,964,1,glucksmann,10.0
+1,2026-11-12-opinionway-964,OpinionWay,2026-11-10,2026-11-12,964,1,attal,3.0
+1,2026-11-12-opinionway-964,OpinionWay,2026-11-10,2026-11-12,964,1,philippe,12.0
+1,2026-11-12-opinionway-964,OpinionWay,2026-11-10,2026-11-12,964,1,lisnard,9.0
+1,2026-11-12-opinionway-964,OpinionWay,2026-11-10,2026-11-12,964,1,retailleau,4.0
+1,2026-11-12-opinionway-964,OpinionWay,2026-11-10,2026-11-12,964,1,dupont-aignan,2.0
+1,2026-11-12-opinionway-964,OpinionWay,2026-11-10,2026-11-12,964,1,le-pen,31.0
+1,2026-11-12-opinionway-964,OpinionWay,2026-11-10,2026-11-12,964,1,zemmour,3.0
+1,2026-11-12-opinionway-964,OpinionWay,2026-11-10,2026-11-12,964,2,arthaud,1.0
+1,2026-11-12-opinionway-964,OpinionWay,2026-11-10,2026-11-12,964,2,melenchon,16.0
+1,2026-11-12-opinionway-964,OpinionWay,2026-11-10,2026-11-12,964,2,roussel,1.0
+1,2026-11-12-opinionway-964,OpinionWay,2026-11-10,2026-11-12,964,2,tondelier,3.0
+1,2026-11-12-opinionway-964,OpinionWay,2026-11-10,2026-11-12,964,2,glucksmann,11.0
+1,2026-11-12-opinionway-964,OpinionWay,2026-11-10,2026-11-12,964,2,attal,4.0
+1,2026-11-12-opinionway-964,OpinionWay,2026-11-10,2026-11-12,964,2,philippe,12.0
+1,2026-11-12-opinionway-964,OpinionWay,2026-11-10,2026-11-12,964,2,lisnard,10.0
+1,2026-11-12-opinionway-964,OpinionWay,2026-11-10,2026-11-12,964,2,retailleau,5.0
+1,2026-11-12-opinionway-964,OpinionWay,2026-11-10,2026-11-12,964,2,dupont-aignan,2.0
+1,2026-11-12-opinionway-964,OpinionWay,2026-11-10,2026-11-12,964,2,le-pen,32.0
+1,2026-11-12-opinionway-964,OpinionWay,2026-11-10,2026-11-12,964,2,zemmour,2.0
 1,2026-11-10-opinionway-982,OpinionWay,2026-11-09,2026-11-10,982,1,arthaud,1.0
 1,2026-11-10-opinionway-982,OpinionWay,2026-11-09,2026-11-10,982,1,melenchon,17.0
 1,2026-11-10-opinionway-982,OpinionWay,2026-11-09,2026-11-10,982,1,roussel,1.0
@@ -3453,6 +3453,8 @@ tour,sondage,institut,debut,fin,echantillon,hypothese,candidat,score
 1,2023-03-31-ifop-1105,Ifop,2023-03-30,2023-03-31,1105,5,dupont-aignan,3.0
 1,2023-03-31-ifop-1105,Ifop,2023-03-30,2023-03-31,1105,5,le-pen,36.0
 1,2023-03-31-ifop-1105,Ifop,2023-03-30,2023-03-31,1105,5,zemmour,7.0
+2,2026-11-12-opinionway-964,OpinionWay,2026-11-10,2026-11-12,964,le-pen / philippe,le-pen,56.0
+2,2026-11-12-opinionway-964,OpinionWay,2026-11-10,2026-11-12,964,le-pen / philippe,philippe,44.0
 2,2026-11-05-harris-interactive-2101,Harris Interactive,2026-11-03,2026-11-05,2101,le-pen / philippe,le-pen,58.0
 2,2026-11-05-harris-interactive-2101,Harris Interactive,2026-11-03,2026-11-05,2101,le-pen / philippe,philippe,42.0
 2,2026-10-22-opinionway-973,OpinionWay,2026-10-21,2026-10-22,973,le-pen / philippe,le-pen,56.0
@@ -3507,6 +3509,8 @@ tour,sondage,institut,debut,fin,echantillon,hypothese,candidat,score
 2,2024-04-18-ifop-1090,Ifop,2024-04-16,2024-04-18,1090,le-pen / philippe,philippe,49.0
 2,2024-02-01-ifop-1081,Ifop,2024-01-31,2024-02-01,1081,le-pen / philippe,le-pen,50.0
 2,2024-02-01-ifop-1081,Ifop,2024-01-31,2024-02-01,1081,le-pen / philippe,philippe,50.0
+2,2026-11-12-opinionway-964,OpinionWay,2026-11-10,2026-11-12,964,le-pen / melenchon,le-pen,68.0
+2,2026-11-12-opinionway-964,OpinionWay,2026-11-10,2026-11-12,964,le-pen / melenchon,melenchon,32.0
 2,2026-11-05-harris-interactive-2101,Harris Interactive,2026-11-03,2026-11-05,2101,le-pen / melenchon,le-pen,68.0
 2,2026-11-05-harris-interactive-2101,Harris Interactive,2026-11-03,2026-11-05,2101,le-pen / melenchon,melenchon,32.0
 2,2026-10-22-opinionway-973,OpinionWay,2026-10-21,2026-10-22,973,le-pen / melenchon,le-pen,69.0
@@ -3587,6 +3591,8 @@ tour,sondage,institut,debut,fin,echantillon,hypothese,candidat,score
 2,2024-04-18-ifop-1093,Ifop,2024-04-16,2024-04-18,1093,attal / le-pen,le-pen,53.0
 2,2024-02-01-ifop-1081,Ifop,2024-01-31,2024-02-01,1081,attal / le-pen,attal,49.0
 2,2024-02-01-ifop-1081,Ifop,2024-01-31,2024-02-01,1081,attal / le-pen,le-pen,51.0
+2,2026-11-12-opinionway-964,OpinionWay,2026-11-10,2026-11-12,964,glucksmann / le-pen,glucksmann,42.0
+2,2026-11-12-opinionway-964,OpinionWay,2026-11-10,2026-11-12,964,glucksmann / le-pen,le-pen,58.0
 2,2026-11-05-harris-interactive-2101,Harris Interactive,2026-11-03,2026-11-05,2101,glucksmann / le-pen,glucksmann,40.0
 2,2026-11-05-harris-interactive-2101,Harris Interactive,2026-11-03,2026-11-05,2101,glucksmann / le-pen,le-pen,60.0
 2,2026-10-22-opinionway-973,OpinionWay,2026-10-21,2026-10-22,973,glucksmann / le-pen,glucksmann,44.0
