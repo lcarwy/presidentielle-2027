@@ -1,10 +1,10 @@
 {
- "mis_a_jour": "2026-11-14T21:27:10+00:00",
+ "mis_a_jour": "2026-11-17T13:18:54+00:00",
  "source": {
   "nom": "Wikipédia — Liste de sondages sur l'élection présidentielle française de 2027",
   "url": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
-  "revision": 241348766,
-  "revision_date": "2026-11-14T20:35:43Z",
+  "revision": 241431275,
+  "revision_date": "2026-11-17T13:15:46Z",
   "licence": "CC BY-SA 4.0"
  },
  "election": {
@@ -18,7 +18,7 @@
    "debut": "2026-11-12",
    "fin": "2026-11-13",
    "echantillon": 1500,
-   "notice": "https://elabe.fr/fichier-pdf/13399-les-francais-et-lelection-presidentielle-2027/",
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/novembre/10375-pres-iv-elabe-14-novembre.pdf",
    "hypotheses": [
     {
      "arthaud": 0.5,
@@ -141,7 +141,7 @@
    "debut": "2026-11-09",
    "fin": "2026-11-10",
    "echantillon": 982,
-   "notice": "https://f.dviz.factoviz.com/UserFiles/0/9/2/2027/OpinionWay%20pour%20Les%20Echos%20et%20Radio%20Classique%20-%20Barom%C3%A8tre%20Pr%C3%A9sitrack%202027%20Vague%204%20-%20Novembre%202026.pdf",
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/novembre/10372-pres-presitrack-opinionway-13-novembre.pdf",
    "hypotheses": [
     {
      "arthaud": 1.0,
@@ -191,7 +191,7 @@
    "debut": "2026-11-09",
    "fin": "2026-11-10",
    "echantillon": 1164,
-   "notice": "https://cluster17.com/wp-content/uploads/2026/11/Sondage_Cluster17_ITV_P2027-Politico.pdf",
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/novembre/10368-pres-iv-cluster17-politico-11-novembre.pdf",
    "hypotheses": [
     {
      "arthaud": 0.5,
@@ -5009,7 +5009,7 @@
      "debut": "2026-11-12",
      "fin": "2026-11-13",
      "echantillon": 1500,
-     "notice": "https://elabe.fr/fichier-pdf/13399-les-francais-et-lelection-presidentielle-2027/",
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/novembre/10375-pres-iv-elabe-14-novembre.pdf",
      "a": 55.0,
      "b": 45.0
     },
@@ -5305,7 +5305,7 @@
      "debut": "2026-11-12",
      "fin": "2026-11-13",
      "echantillon": 1500,
-     "notice": "https://elabe.fr/fichier-pdf/13399-les-francais-et-lelection-presidentielle-2027/",
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/novembre/10375-pres-iv-elabe-14-novembre.pdf",
      "a": 68.5,
      "b": 31.5
     },
@@ -5737,7 +5737,7 @@
      "debut": "2026-11-12",
      "fin": "2026-11-13",
      "echantillon": 1500,
-     "notice": "https://elabe.fr/fichier-pdf/13399-les-francais-et-lelection-presidentielle-2027/",
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/novembre/10375-pres-iv-elabe-14-novembre.pdf",
      "a": 45.0,
      "b": 55.0
     },
