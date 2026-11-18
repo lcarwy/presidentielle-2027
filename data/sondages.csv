@@ -1,4 +1,58 @@
 tour,sondage,institut,debut,fin,echantillon,hypothese,candidat,score
+1,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,1,arthaud,1.0
+1,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,1,melenchon,19.0
+1,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,1,roussel,2.0
+1,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,1,tondelier,4.0
+1,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,1,glucksmann,9.0
+1,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,1,attal,5.0
+1,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,1,philippe,8.0
+1,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,1,lisnard,9.0
+1,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,1,retailleau,6.0
+1,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,1,dupont-aignan,2.0
+1,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,1,le-pen,32.0
+1,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,1,zemmour,3.0
+1,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,2,arthaud,1.0
+1,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,2,melenchon,19.0
+1,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,2,roussel,3.0
+1,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,2,tondelier,4.0
+1,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,2,glucksmann,10.0
+1,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,2,philippe,9.0
+1,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,2,lisnard,10.0
+1,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,2,retailleau,7.0
+1,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,2,dupont-aignan,2.0
+1,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,2,le-pen,33.0
+1,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,2,zemmour,3.0
+1,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,3,arthaud,1.0
+1,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,3,melenchon,22.0
+1,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,3,roussel,3.0
+1,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,3,glucksmann,12.0
+1,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,3,philippe,16.0
+1,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,3,dupont-aignan,2.0
+1,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,3,le-pen,40.0
+1,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,3,zemmour,4.0
+1,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,4,arthaud,1.0
+1,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,4,melenchon,19.0
+1,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,4,roussel,2.0
+1,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,4,tondelier,6.0
+1,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,4,glucksmann,10.0
+1,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,4,attal,7.0
+1,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,4,lisnard,10.0
+1,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,4,retailleau,8.0
+1,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,4,dupont-aignan,1.0
+1,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,4,le-pen,34.0
+1,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,4,zemmour,3.0
+1,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,5,arthaud,1.0
+1,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,5,melenchon,17.0
+1,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,5,roussel,2.0
+1,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,5,tondelier,5.0
+1,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,5,glucksmann,9.0
+1,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,5,attal,4.0
+1,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,5,philippe,7.0
+1,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,5,lisnard,9.0
+1,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,5,retailleau,6.0
+1,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,5,dupont-aignan,2.0
+1,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,5,le-pen,32.0
+1,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,5,zemmour,3.0
 1,2026-11-16-ifop-1690,Ifop,2026-11-13,2026-11-16,1690,1,arthaud,0.0
 1,2026-11-16-ifop-1690,Ifop,2026-11-13,2026-11-16,1690,1,melenchon,17.0
 1,2026-11-16-ifop-1690,Ifop,2026-11-13,2026-11-16,1690,1,roussel,1.5
@@ -3582,6 +3636,8 @@ tour,sondage,institut,debut,fin,echantillon,hypothese,candidat,score
 1,2023-03-31-ifop-1105,Ifop,2023-03-30,2023-03-31,1105,5,dupont-aignan,3.0
 1,2023-03-31-ifop-1105,Ifop,2023-03-30,2023-03-31,1105,5,le-pen,36.0
 1,2023-03-31-ifop-1105,Ifop,2023-03-30,2023-03-31,1105,5,zemmour,7.0
+2,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,le-pen / philippe,le-pen,54.0
+2,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,le-pen / philippe,philippe,46.0
 2,2026-11-13-elabe-1500,Elabe,2026-11-12,2026-11-13,1500,le-pen / philippe,le-pen,55.0
 2,2026-11-13-elabe-1500,Elabe,2026-11-12,2026-11-13,1500,le-pen / philippe,philippe,45.0
 2,2026-11-12-opinionway-964,OpinionWay,2026-11-10,2026-11-12,964,le-pen / philippe,le-pen,56.0
@@ -3640,6 +3696,8 @@ tour,sondage,institut,debut,fin,echantillon,hypothese,candidat,score
 2,2024-04-18-ifop-1090,Ifop,2024-04-16,2024-04-18,1090,le-pen / philippe,philippe,49.0
 2,2024-02-01-ifop-1081,Ifop,2024-01-31,2024-02-01,1081,le-pen / philippe,le-pen,50.0
 2,2024-02-01-ifop-1081,Ifop,2024-01-31,2024-02-01,1081,le-pen / philippe,philippe,50.0
+2,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,le-pen / melenchon,le-pen,63.0
+2,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,le-pen / melenchon,melenchon,37.0
 2,2026-11-13-elabe-1500,Elabe,2026-11-12,2026-11-13,1500,le-pen / melenchon,le-pen,68.5
 2,2026-11-13-elabe-1500,Elabe,2026-11-12,2026-11-13,1500,le-pen / melenchon,melenchon,31.5
 2,2026-11-12-opinionway-964,OpinionWay,2026-11-10,2026-11-12,964,le-pen / melenchon,le-pen,68.0
@@ -3692,6 +3750,8 @@ tour,sondage,institut,debut,fin,echantillon,hypothese,candidat,score
 2,2024-04-05-cluster17-1713,Cluster17,2024-04-02,2024-04-05,1713,le-pen / melenchon,melenchon,35.0
 2,2024-02-01-ifop-1081,Ifop,2024-01-31,2024-02-01,1081,le-pen / melenchon,le-pen,64.0
 2,2024-02-01-ifop-1081,Ifop,2024-01-31,2024-02-01,1081,le-pen / melenchon,melenchon,36.0
+2,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,attal / le-pen,attal,45.0
+2,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,attal / le-pen,le-pen,55.0
 2,2026-10-19-ifop-2081,Ifop,2026-10-17,2026-10-19,2081,attal / le-pen,attal,42.0
 2,2026-10-19-ifop-2081,Ifop,2026-10-17,2026-10-19,2081,attal / le-pen,le-pen,58.0
 2,2026-10-15-yougov-1094,YouGov,2026-10-12,2026-10-15,1094,attal / le-pen,attal,45.0
@@ -3724,6 +3784,8 @@ tour,sondage,institut,debut,fin,echantillon,hypothese,candidat,score
 2,2024-04-18-ifop-1093,Ifop,2024-04-16,2024-04-18,1093,attal / le-pen,le-pen,53.0
 2,2024-02-01-ifop-1081,Ifop,2024-01-31,2024-02-01,1081,attal / le-pen,attal,49.0
 2,2024-02-01-ifop-1081,Ifop,2024-01-31,2024-02-01,1081,attal / le-pen,le-pen,51.0
+2,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,glucksmann / le-pen,glucksmann,42.0
+2,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,glucksmann / le-pen,le-pen,58.0
 2,2026-11-13-elabe-1500,Elabe,2026-11-12,2026-11-13,1500,glucksmann / le-pen,glucksmann,45.0
 2,2026-11-13-elabe-1500,Elabe,2026-11-12,2026-11-13,1500,glucksmann / le-pen,le-pen,55.0
 2,2026-11-12-opinionway-964,OpinionWay,2026-11-10,2026-11-12,964,glucksmann / le-pen,glucksmann,42.0
@@ -3798,6 +3860,8 @@ tour,sondage,institut,debut,fin,echantillon,hypothese,candidat,score
 2,2026-07-24-cluster17-1506,Cluster17,2026-07-22,2026-07-24,1506,le-pen / retailleau,retailleau,43.0
 2,2026-07-10-elabe-1503,Elabe,2026-07-09,2026-07-10,1503,le-pen / retailleau,le-pen,56.0
 2,2026-07-10-elabe-1503,Elabe,2026-07-09,2026-07-10,1503,le-pen / retailleau,retailleau,44.0
+2,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,melenchon / philippe,melenchon,39.0
+2,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,melenchon / philippe,philippe,61.0
 2,2026-10-15-yougov-1094,YouGov,2026-10-12,2026-10-15,1094,melenchon / philippe,melenchon,34.0
 2,2026-10-15-yougov-1094,YouGov,2026-10-12,2026-10-15,1094,melenchon / philippe,philippe,66.0
 2,2026-09-21-yougov-1103,YouGov,2026-09-17,2026-09-21,1103,melenchon / philippe,melenchon,39.0
