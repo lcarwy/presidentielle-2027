@@ -1,10 +1,10 @@
 {
- "mis_a_jour": "2026-11-19T12:58:45+00:00",
+ "mis_a_jour": "2026-11-20T20:10:13+00:00",
  "source": {
   "nom": "Wikipédia — Liste de sondages sur l'élection présidentielle française de 2027",
   "url": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
-  "revision": 241480048,
-  "revision_date": "2026-11-19T12:25:18Z",
+  "revision": 241517088,
+  "revision_date": "2026-11-20T17:45:50Z",
   "licence": "CC BY-SA 4.0"
  },
  "election": {
@@ -28,8 +28,8 @@
      "glucksmann": 9.0,
      "attal": 5.0,
      "philippe": 8.0,
-     "lisnard": 9.0,
      "retailleau": 6.0,
+     "lisnard": 9.0,
      "dupont-aignan": 2.0,
      "le-pen": 32.0,
      "zemmour": 3.0
@@ -41,8 +41,8 @@
      "tondelier": 6.0,
      "glucksmann": 10.0,
      "attal": 7.0,
-     "lisnard": 10.0,
      "retailleau": 8.0,
+     "lisnard": 10.0,
      "dupont-aignan": 1.0,
      "le-pen": 34.0,
      "zemmour": 3.0
@@ -54,8 +54,8 @@
      "tondelier": 4.0,
      "glucksmann": 10.0,
      "philippe": 9.0,
-     "lisnard": 10.0,
      "retailleau": 7.0,
+     "lisnard": 10.0,
      "dupont-aignan": 2.0,
      "le-pen": 33.0,
      "zemmour": 3.0
@@ -78,8 +78,8 @@
      "glucksmann": 9.0,
      "attal": 4.0,
      "philippe": 7.0,
-     "lisnard": 9.0,
      "retailleau": 6.0,
+     "lisnard": 9.0,
      "dupont-aignan": 2.0,
      "le-pen": 32.0,
      "zemmour": 3.0
@@ -102,8 +102,8 @@
      "glucksmann": 8.0,
      "attal": 4.5,
      "philippe": 10.0,
-     "lisnard": 8.0,
      "retailleau": 4.0,
+     "lisnard": 8.0,
      "dupont-aignan": 1.5,
      "le-pen": 32.0,
      "zemmour": 3.0
@@ -116,8 +116,8 @@
      "glucksmann": 10.0,
      "attal": 4.0,
      "philippe": 11.0,
-     "lisnard": 9.0,
      "retailleau": 4.0,
+     "lisnard": 9.0,
      "dupont-aignan": 1.5,
      "le-pen": 34.0,
      "zemmour": 3.0
@@ -129,8 +129,8 @@
      "tondelier": 2.5,
      "glucksmann": 10.0,
      "philippe": 12.0,
-     "lisnard": 10.0,
      "retailleau": 4.0,
+     "lisnard": 10.0,
      "dupont-aignan": 1.5,
      "le-pen": 35.0,
      "zemmour": 3.0
@@ -142,8 +142,8 @@
      "tondelier": 2.5,
      "glucksmann": 11.0,
      "attal": 9.0,
-     "lisnard": 11.0,
      "retailleau": 5.0,
+     "lisnard": 11.0,
      "dupont-aignan": 2.0,
      "le-pen": 35.0,
      "zemmour": 3.0
@@ -225,8 +225,8 @@
      "roussel": 1.5,
      "glucksmann": 14.0,
      "attal": 8.5,
-     "lisnard": 10.5,
      "retailleau": 6.0,
+     "lisnard": 10.5,
      "dupont-aignan": 2.5,
      "le-pen": 32.0,
      "zemmour": 4.0
@@ -237,8 +237,8 @@
      "roussel": 2.5,
      "glucksmann": 13.5,
      "philippe": 13.0,
-     "lisnard": 9.0,
      "retailleau": 4.0,
+     "lisnard": 9.0,
      "dupont-aignan": 3.0,
      "le-pen": 32.5,
      "zemmour": 3.5
@@ -251,8 +251,8 @@
      "glucksmann": 10.5,
      "attal": 4.0,
      "philippe": 9.5,
-     "lisnard": 8.0,
      "retailleau": 4.0,
+     "lisnard": 8.0,
      "dupont-aignan": 2.0,
      "le-pen": 31.0,
      "zemmour": 3.0
@@ -275,8 +275,8 @@
      "glucksmann": 10.0,
      "attal": 3.0,
      "philippe": 12.0,
-     "lisnard": 9.0,
      "retailleau": 4.0,
+     "lisnard": 9.0,
      "dupont-aignan": 2.0,
      "le-pen": 31.0,
      "zemmour": 3.0
@@ -289,8 +289,8 @@
      "glucksmann": 11.0,
      "attal": 4.0,
      "philippe": 12.0,
-     "lisnard": 10.0,
      "retailleau": 5.0,
+     "lisnard": 10.0,
      "dupont-aignan": 2.0,
      "le-pen": 32.0,
      "zemmour": 2.0
@@ -313,8 +313,8 @@
      "glucksmann": 11.0,
      "attal": 4.0,
      "philippe": 11.0,
-     "lisnard": 10.0,
      "retailleau": 4.0,
+     "lisnard": 10.0,
      "dupont-aignan": 1.0,
      "le-pen": 34.0,
      "zemmour": 3.0
@@ -326,8 +326,8 @@
      "tondelier": 3.0,
      "glucksmann": 12.0,
      "philippe": 12.0,
-     "lisnard": 11.0,
      "retailleau": 4.0,
+     "lisnard": 11.0,
      "dupont-aignan": 2.0,
      "le-pen": 34.0,
      "zemmour": 3.0
@@ -339,8 +339,8 @@
      "tondelier": 3.0,
      "glucksmann": 13.0,
      "attal": 10.0,
-     "lisnard": 12.0,
      "retailleau": 6.0,
+     "lisnard": 12.0,
      "dupont-aignan": 1.0,
      "le-pen": 34.0,
      "zemmour": 3.0
@@ -362,8 +362,8 @@
      "tondelier": 1.5,
      "glucksmann": 11.0,
      "philippe": 13.5,
-     "lisnard": 10.0,
      "retailleau": 5.0,
+     "lisnard": 10.0,
      "dupont-aignan": 3.0,
      "le-pen": 30.5,
      "zemmour": 3.0
@@ -375,8 +375,8 @@
      "tondelier": 1.5,
      "glucksmann": 11.5,
      "attal": 11.0,
-     "lisnard": 10.0,
      "retailleau": 6.0,
+     "lisnard": 10.0,
      "dupont-aignan": 3.0,
      "le-pen": 31.0,
      "zemmour": 3.0
@@ -387,8 +387,8 @@
      "roussel": 2.5,
      "tondelier": 1.5,
      "glucksmann": 10.0,
-     "lisnard": 10.0,
      "retailleau": 5.5,
+     "lisnard": 10.0,
      "dupont-aignan": 2.0,
      "le-pen": 30.5,
      "zemmour": 3.0
@@ -401,8 +401,8 @@
      "glucksmann": 8.0,
      "attal": 2.0,
      "philippe": 8.0,
-     "lisnard": 8.0,
      "retailleau": 5.0,
+     "lisnard": 8.0,
      "dupont-aignan": 2.0,
      "le-pen": 27.0,
      "zemmour": 2.0
@@ -424,8 +424,8 @@
      "tondelier": 2.0,
      "glucksmann": 11.0,
      "philippe": 12.0,
-     "lisnard": 9.0,
      "retailleau": 5.0,
+     "lisnard": 9.0,
      "dupont-aignan": 1.0,
      "le-pen": 34.0,
      "zemmour": 3.0
@@ -437,8 +437,8 @@
      "tondelier": 2.0,
      "glucksmann": 12.0,
      "attal": 9.0,
-     "lisnard": 9.0,
      "retailleau": 6.0,
+     "lisnard": 9.0,
      "dupont-aignan": 1.0,
      "le-pen": 35.0,
      "zemmour": 3.0
@@ -483,6 +483,60 @@
    ]
   },
   {
+   "id": "2026-11-04-ifop-1834",
+   "institut": "Ifop",
+   "debut": "2026-11-02",
+   "fin": "2026-11-04",
+   "echantillon": 1834,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/novembre/10392-pres-iv-ifop-sud-radio-20-novembre.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 0.5,
+     "melenchon": 18.0,
+     "roussel": 3.0,
+     "tondelier": 3.0,
+     "glucksmann": 13.0,
+     "philippe": 19.0,
+     "dupont-aignan": 1.5,
+     "le-pen": 37.0,
+     "zemmour": 5.0
+    },
+    {
+     "arthaud": 0.5,
+     "melenchon": 18.0,
+     "roussel": 3.0,
+     "tondelier": 3.5,
+     "glucksmann": 17.0,
+     "retailleau": 14.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 38.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 17.0,
+     "roussel": 3.5,
+     "tondelier": 3.5,
+     "glucksmann": 18.0,
+     "lisnard": 14.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 37.0,
+     "zemmour": 4.0
+    },
+    {
+     "arthaud": 1.0,
+     "melenchon": 18.0,
+     "roussel": 3.0,
+     "tondelier": 3.0,
+     "glucksmann": 16.0,
+     "attal": 13.0,
+     "dupont-aignan": 3.0,
+     "le-pen": 38.0,
+     "zemmour": 5.0
+    }
+   ]
+  },
+  {
    "id": "2026-10-29-ifop-1501",
    "institut": "Ifop",
    "debut": "2026-10-27",
@@ -498,8 +552,8 @@
      "glucksmann": 10.0,
      "attal": 5.0,
      "philippe": 9.5,
-     "lisnard": 7.0,
      "retailleau": 4.0,
+     "lisnard": 7.0,
      "dupont-aignan": 1.5,
      "le-pen": 35.0,
      "zemmour": 4.5
@@ -511,8 +565,8 @@
      "tondelier": 3.0,
      "glucksmann": 13.0,
      "attal": 9.0,
-     "lisnard": 7.5,
      "retailleau": 5.0,
+     "lisnard": 7.5,
      "dupont-aignan": 2.0,
      "le-pen": 36.0,
      "zemmour": 4.5
@@ -559,8 +613,8 @@
      "glucksmann": 13.0,
      "attal": 4.0,
      "philippe": 12.0,
-     "lisnard": 6.0,
      "retailleau": 6.0,
+     "lisnard": 6.0,
      "dupont-aignan": 1.0,
      "le-pen": 36.0,
      "zemmour": 4.0
@@ -619,8 +673,8 @@
      "tondelier": 3.5,
      "glucksmann": 13.0,
      "philippe": 14.0,
-     "lisnard": 6.5,
      "retailleau": 5.5,
+     "lisnard": 6.5,
      "dupont-aignan": 1.5,
      "le-pen": 32.0,
      "zemmour": 4.0
@@ -666,8 +720,8 @@
      "tondelier": 2.5,
      "hollande": 6.5,
      "philippe": 17.0,
-     "lisnard": 8.0,
      "retailleau": 7.0,
+     "lisnard": 8.0,
      "dupont-aignan": 3.0,
      "le-pen": 30.5,
      "zemmour": 3.5
@@ -689,8 +743,8 @@
      "tondelier": 2.0,
      "glucksmann": 12.0,
      "philippe": 15.0,
-     "lisnard": 7.0,
      "retailleau": 4.0,
+     "lisnard": 7.0,
      "dupont-aignan": 1.0,
      "le-pen": 33.0,
      "zemmour": 5.0
@@ -702,8 +756,8 @@
      "tondelier": 2.0,
      "glucksmann": 14.0,
      "attal": 10.0,
-     "lisnard": 8.0,
      "retailleau": 5.0,
+     "lisnard": 8.0,
      "dupont-aignan": 1.0,
      "le-pen": 33.0,
      "zemmour": 5.0
@@ -821,8 +875,8 @@
      "glucksmann": 12.0,
      "attal": 4.0,
      "philippe": 12.0,
-     "lisnard": 5.5,
      "retailleau": 5.5,
+     "lisnard": 5.5,
      "dupont-aignan": 1.5,
      "le-pen": 34.0,
      "zemmour": 3.0
@@ -894,8 +948,8 @@
      "tondelier": 2.5,
      "glucksmann": 15.0,
      "philippe": 15.5,
-     "lisnard": 5.5,
      "retailleau": 6.5,
+     "lisnard": 5.5,
      "dupont-aignan": 3.0,
      "le-pen": 31.5,
      "zemmour": 3.0
@@ -906,8 +960,8 @@
      "roussel": 1.5,
      "glucksmann": 16.5,
      "attal": 9.5,
-     "lisnard": 6.5,
      "retailleau": 9.0,
+     "lisnard": 6.5,
      "dupont-aignan": 2.5,
      "le-pen": 31.0,
      "zemmour": 3.5
@@ -1004,8 +1058,8 @@
      "glucksmann": 12.0,
      "attal": 6.0,
      "philippe": 8.0,
-     "lisnard": 4.0,
      "retailleau": 5.0,
+     "lisnard": 4.0,
      "dupont-aignan": 2.0,
      "le-pen": 35.0,
      "zemmour": 4.0
@@ -1027,8 +1081,8 @@
      "tondelier": 2.0,
      "glucksmann": 11.0,
      "philippe": 17.0,
-     "lisnard": 7.0,
      "retailleau": 7.0,
+     "lisnard": 7.0,
      "dupont-aignan": 2.0,
      "le-pen": 31.0,
      "zemmour": 3.0
@@ -1095,8 +1149,8 @@
      "glucksmann": 13.0,
      "attal": 5.0,
      "philippe": 12.0,
-     "lisnard": 4.0,
      "retailleau": 6.0,
+     "lisnard": 4.0,
      "dupont-aignan": 1.0,
      "le-pen": 35.0,
      "zemmour": 5.0
@@ -1166,8 +1220,8 @@
      "glucksmann": 11.5,
      "attal": 5.0,
      "philippe": 13.0,
-     "lisnard": 6.0,
      "retailleau": 5.0,
+     "lisnard": 6.0,
      "dupont-aignan": 1.0,
      "le-pen": 32.0,
      "zemmour": 3.0
