@@ -1,10 +1,10 @@
 {
- "mis_a_jour": "2026-11-23T07:45:41+00:00",
+ "mis_a_jour": "2026-11-23T20:10:36+00:00",
  "source": {
   "nom": "Wikipédia — Liste de sondages sur l'élection présidentielle française de 2027",
   "url": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
-  "revision": 241596892,
-  "revision_date": "2026-11-23T07:43:15Z",
+  "revision": 241614820,
+  "revision_date": "2026-11-23T20:07:56Z",
   "licence": "CC BY-SA 4.0"
  },
  "election": {
@@ -18,7 +18,7 @@
    "debut": "2026-11-18",
    "fin": "2026-11-19",
    "echantillon": 2088,
-   "notice": "https://tolunacorporate.com/wp-content/uploads/2026/11/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-10-M6-RTL-LExpress-23-novembre-2026.pdf",
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/novembre/10393-pres-iv-vague-10-toluna-harris-interactive-23-novembre.pdf",
    "hypotheses": [
     {
      "arthaud": 1.0,
