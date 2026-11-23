@@ -1,4 +1,38 @@
 tour,sondage,institut,debut,fin,echantillon,hypothese,candidat,score
+1,2026-11-19-harris-interactive-2088,Harris Interactive,2026-11-18,2026-11-19,2088,1,arthaud,1.0
+1,2026-11-19-harris-interactive-2088,Harris Interactive,2026-11-18,2026-11-19,2088,1,melenchon,18.0
+1,2026-11-19-harris-interactive-2088,Harris Interactive,2026-11-18,2026-11-19,2088,1,roussel,1.0
+1,2026-11-19-harris-interactive-2088,Harris Interactive,2026-11-18,2026-11-19,2088,1,tondelier,1.0
+1,2026-11-19-harris-interactive-2088,Harris Interactive,2026-11-18,2026-11-19,2088,1,glucksmann,11.0
+1,2026-11-19-harris-interactive-2088,Harris Interactive,2026-11-18,2026-11-19,2088,1,attal,4.0
+1,2026-11-19-harris-interactive-2088,Harris Interactive,2026-11-18,2026-11-19,2088,1,philippe,9.0
+1,2026-11-19-harris-interactive-2088,Harris Interactive,2026-11-18,2026-11-19,2088,1,retailleau,4.0
+1,2026-11-19-harris-interactive-2088,Harris Interactive,2026-11-18,2026-11-19,2088,1,lisnard,11.0
+1,2026-11-19-harris-interactive-2088,Harris Interactive,2026-11-18,2026-11-19,2088,1,dupont-aignan,1.0
+1,2026-11-19-harris-interactive-2088,Harris Interactive,2026-11-18,2026-11-19,2088,1,le-pen,31.0
+1,2026-11-19-harris-interactive-2088,Harris Interactive,2026-11-18,2026-11-19,2088,1,zemmour,3.0
+1,2026-11-19-harris-interactive-2088,Harris Interactive,2026-11-18,2026-11-19,2088,2,arthaud,1.0
+1,2026-11-19-harris-interactive-2088,Harris Interactive,2026-11-18,2026-11-19,2088,2,melenchon,19.0
+1,2026-11-19-harris-interactive-2088,Harris Interactive,2026-11-18,2026-11-19,2088,2,roussel,1.0
+1,2026-11-19-harris-interactive-2088,Harris Interactive,2026-11-18,2026-11-19,2088,2,tondelier,1.0
+1,2026-11-19-harris-interactive-2088,Harris Interactive,2026-11-18,2026-11-19,2088,2,glucksmann,11.0
+1,2026-11-19-harris-interactive-2088,Harris Interactive,2026-11-18,2026-11-19,2088,2,philippe,10.0
+1,2026-11-19-harris-interactive-2088,Harris Interactive,2026-11-18,2026-11-19,2088,2,retailleau,4.0
+1,2026-11-19-harris-interactive-2088,Harris Interactive,2026-11-18,2026-11-19,2088,2,lisnard,11.0
+1,2026-11-19-harris-interactive-2088,Harris Interactive,2026-11-18,2026-11-19,2088,2,dupont-aignan,1.0
+1,2026-11-19-harris-interactive-2088,Harris Interactive,2026-11-18,2026-11-19,2088,2,le-pen,31.0
+1,2026-11-19-harris-interactive-2088,Harris Interactive,2026-11-18,2026-11-19,2088,2,zemmour,4.0
+1,2026-11-19-harris-interactive-2088,Harris Interactive,2026-11-18,2026-11-19,2088,3,arthaud,1.0
+1,2026-11-19-harris-interactive-2088,Harris Interactive,2026-11-18,2026-11-19,2088,3,melenchon,19.0
+1,2026-11-19-harris-interactive-2088,Harris Interactive,2026-11-18,2026-11-19,2088,3,roussel,1.0
+1,2026-11-19-harris-interactive-2088,Harris Interactive,2026-11-18,2026-11-19,2088,3,tondelier,2.0
+1,2026-11-19-harris-interactive-2088,Harris Interactive,2026-11-18,2026-11-19,2088,3,glucksmann,11.0
+1,2026-11-19-harris-interactive-2088,Harris Interactive,2026-11-18,2026-11-19,2088,3,attal,7.0
+1,2026-11-19-harris-interactive-2088,Harris Interactive,2026-11-18,2026-11-19,2088,3,retailleau,5.0
+1,2026-11-19-harris-interactive-2088,Harris Interactive,2026-11-18,2026-11-19,2088,3,lisnard,12.0
+1,2026-11-19-harris-interactive-2088,Harris Interactive,2026-11-18,2026-11-19,2088,3,dupont-aignan,1.0
+1,2026-11-19-harris-interactive-2088,Harris Interactive,2026-11-18,2026-11-19,2088,3,le-pen,30.0
+1,2026-11-19-harris-interactive-2088,Harris Interactive,2026-11-18,2026-11-19,2088,3,zemmour,4.0
 1,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,1,arthaud,1.0
 1,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,1,melenchon,19.0
 1,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,1,roussel,2.0
@@ -3732,6 +3766,8 @@ tour,sondage,institut,debut,fin,echantillon,hypothese,candidat,score
 2,2024-04-18-ifop-1090,Ifop,2024-04-16,2024-04-18,1090,le-pen / philippe,philippe,49.0
 2,2024-02-01-ifop-1081,Ifop,2024-01-31,2024-02-01,1081,le-pen / philippe,le-pen,50.0
 2,2024-02-01-ifop-1081,Ifop,2024-01-31,2024-02-01,1081,le-pen / philippe,philippe,50.0
+2,2026-11-19-harris-interactive-2088,Harris Interactive,2026-11-18,2026-11-19,2088,le-pen / melenchon,le-pen,65.0
+2,2026-11-19-harris-interactive-2088,Harris Interactive,2026-11-18,2026-11-19,2088,le-pen / melenchon,melenchon,35.0
 2,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,le-pen / melenchon,le-pen,63.0
 2,2026-11-17-yougov-952,YouGov,2026-11-12,2026-11-17,952,le-pen / melenchon,melenchon,37.0
 2,2026-11-13-elabe-1500,Elabe,2026-11-12,2026-11-13,1500,le-pen / melenchon,le-pen,68.5
