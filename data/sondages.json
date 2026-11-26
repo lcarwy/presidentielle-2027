@@ -1,10 +1,10 @@
 {
- "mis_a_jour": "2026-11-23T20:10:36+00:00",
+ "mis_a_jour": "2026-11-26T22:19:11+00:00",
  "source": {
   "nom": "Wikipédia — Liste de sondages sur l'élection présidentielle française de 2027",
   "url": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
-  "revision": 241614820,
-  "revision_date": "2026-11-23T20:07:56Z",
+  "revision": 241704906,
+  "revision_date": "2026-11-26T19:44:19Z",
   "licence": "CC BY-SA 4.0"
  },
  "election": {
@@ -12,6 +12,31 @@
   "second_tour": "2027-05-02"
  },
  "sondages": [
+  {
+   "id": "2026-11-26-opinonway-912",
+   "institut": "OpinonWay",
+   "debut": "2026-11-25",
+   "fin": "2026-11-26",
+   "echantillon": 912,
+   "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/novembre/10400-pres-iv-vague-5-opinionway-26-novembre.pdf",
+   "hypotheses": [
+    {
+     "arthaud": 1.0,
+     "melenchon": 16.0,
+     "roussel": 2.0,
+     "tondelier": 1.0,
+     "glucksmann": 10.0,
+     "attal": 4.0,
+     "philippe": 8.0,
+     "villepin": 2.0,
+     "retailleau": 4.0,
+     "lisnard": 12.0,
+     "dupont-aignan": 2.0,
+     "le-pen": 33.0,
+     "zemmour": 3.0
+    }
+   ]
+  },
   {
    "id": "2026-11-19-harris-interactive-2088",
    "institut": "Harris Interactive",
@@ -28,6 +53,7 @@
      "glucksmann": 11.0,
      "attal": 4.0,
      "philippe": 9.0,
+     "villepin": 1.0,
      "retailleau": 4.0,
      "lisnard": 11.0,
      "dupont-aignan": 1.0,
@@ -41,6 +67,7 @@
      "tondelier": 1.0,
      "glucksmann": 11.0,
      "philippe": 10.0,
+     "villepin": 2.0,
      "retailleau": 4.0,
      "lisnard": 11.0,
      "dupont-aignan": 1.0,
@@ -54,6 +81,7 @@
      "tondelier": 2.0,
      "glucksmann": 11.0,
      "attal": 7.0,
+     "villepin": 2.0,
      "retailleau": 5.0,
      "lisnard": 12.0,
      "dupont-aignan": 1.0,
@@ -128,6 +156,7 @@
      "glucksmann": 9.0,
      "attal": 4.0,
      "philippe": 7.0,
+     "villepin": 2.0,
      "retailleau": 6.0,
      "lisnard": 9.0,
      "dupont-aignan": 2.0,
@@ -152,6 +181,7 @@
      "glucksmann": 8.0,
      "attal": 4.5,
      "philippe": 10.0,
+     "villepin": 1.5,
      "retailleau": 4.0,
      "lisnard": 8.0,
      "dupont-aignan": 1.5,
@@ -239,6 +269,7 @@
      "tondelier": 3.0,
      "glucksmann": 13.5,
      "philippe": 15.0,
+     "villepin": 2.5,
      "retailleau": 6.0,
      "dupont-aignan": 3.0,
      "le-pen": 33.0,
@@ -251,6 +282,7 @@
      "tondelier": 3.0,
      "glucksmann": 14.0,
      "attal": 10.0,
+     "villepin": 3.0,
      "retailleau": 9.0,
      "dupont-aignan": 2.5,
      "le-pen": 33.0,
@@ -451,6 +483,7 @@
      "glucksmann": 8.0,
      "attal": 2.0,
      "philippe": 8.0,
+     "villepin": 1.0,
      "retailleau": 5.0,
      "lisnard": 8.0,
      "dupont-aignan": 2.0,
@@ -474,6 +507,7 @@
      "tondelier": 2.0,
      "glucksmann": 11.0,
      "philippe": 12.0,
+     "villepin": 2.0,
      "retailleau": 5.0,
      "lisnard": 9.0,
      "dupont-aignan": 1.0,
@@ -487,6 +521,7 @@
      "tondelier": 2.0,
      "glucksmann": 12.0,
      "attal": 9.0,
+     "villepin": 2.0,
      "retailleau": 6.0,
      "lisnard": 9.0,
      "dupont-aignan": 1.0,
@@ -793,6 +828,7 @@
      "tondelier": 2.0,
      "glucksmann": 12.0,
      "philippe": 15.0,
+     "villepin": 1.0,
      "retailleau": 4.0,
      "lisnard": 7.0,
      "dupont-aignan": 1.0,
@@ -806,6 +842,7 @@
      "tondelier": 2.0,
      "glucksmann": 14.0,
      "attal": 10.0,
+     "villepin": 2.0,
      "retailleau": 5.0,
      "lisnard": 8.0,
      "dupont-aignan": 1.0,
@@ -925,6 +962,7 @@
      "glucksmann": 12.0,
      "attal": 4.0,
      "philippe": 12.0,
+     "villepin": 1.5,
      "retailleau": 5.5,
      "lisnard": 5.5,
      "dupont-aignan": 1.5,
@@ -974,6 +1012,7 @@
      "tondelier": 3.0,
      "glucksmann": 15.5,
      "philippe": 16.5,
+     "villepin": 2.0,
      "retailleau": 7.0,
      "dupont-aignan": 2.5,
      "le-pen": 32.5,
@@ -986,6 +1025,7 @@
      "tondelier": 2.5,
      "glucksmann": 16.5,
      "attal": 10.5,
+     "villepin": 3.0,
      "retailleau": 9.5,
      "dupont-aignan": 2.0,
      "le-pen": 33.5,
@@ -1108,6 +1148,7 @@
      "glucksmann": 12.0,
      "attal": 6.0,
      "philippe": 8.0,
+     "villepin": 1.0,
      "retailleau": 5.0,
      "lisnard": 4.0,
      "dupont-aignan": 2.0,
@@ -1270,6 +1311,7 @@
      "glucksmann": 11.5,
      "attal": 5.0,
      "philippe": 13.0,
+     "villepin": 1.5,
      "retailleau": 5.0,
      "lisnard": 6.0,
      "dupont-aignan": 1.0,
@@ -5270,12 +5312,22 @@
    "b": "philippe",
    "sondages": [
     {
+     "id": "2026-11-26-opinonway-912",
+     "institut": "OpinonWay",
+     "debut": "2026-11-25",
+     "fin": "2026-11-26",
+     "echantillon": 912,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/novembre/10400-pres-iv-vague-5-opinionway-26-novembre.pdf",
+     "a": 59.0,
+     "b": 41.0
+    },
+    {
      "id": "2026-11-17-yougov-952",
      "institut": "YouGov",
      "debut": "2026-11-12",
      "fin": "2026-11-17",
      "echantillon": 952,
-     "notice": "https://www.huffingtonpost.fr/politique/article/dans-notre-sondage-sur-la-presidentielle-2027-edouard-philippe-atteint-la-cote-d-alerte_360406.html",
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/novembre/10382-pres-iv-yougov-le-huffpost-19-novembre.pdf",
      "a": 54.0,
      "b": 46.0
     },
@@ -5576,12 +5628,22 @@
    "b": "melenchon",
    "sondages": [
     {
+     "id": "2026-11-26-opinonway-912",
+     "institut": "OpinonWay",
+     "debut": "2026-11-25",
+     "fin": "2026-11-26",
+     "echantillon": 912,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/novembre/10400-pres-iv-vague-5-opinionway-26-novembre.pdf",
+     "a": 69.0,
+     "b": 31.0
+    },
+    {
      "id": "2026-11-19-harris-interactive-2088",
      "institut": "Harris Interactive",
      "debut": "2026-11-18",
      "fin": "2026-11-19",
      "echantillon": 2088,
-     "notice": "https://tolunacorporate.com/wp-content/uploads/2026/11/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-10-M6-RTL-LExpress-23-novembre-2026.pdf",
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/novembre/10393-pres-iv-vague-10-toluna-harris-interactive-23-novembre.pdf",
      "a": 65.0,
      "b": 35.0
     },
@@ -5591,7 +5653,7 @@
      "debut": "2026-11-12",
      "fin": "2026-11-17",
      "echantillon": 952,
-     "notice": "https://www.huffingtonpost.fr/politique/article/dans-notre-sondage-sur-la-presidentielle-2027-edouard-philippe-atteint-la-cote-d-alerte_360406.html",
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/novembre/10382-pres-iv-yougov-le-huffpost-19-novembre.pdf",
      "a": 63.0,
      "b": 37.0
     },
@@ -5867,7 +5929,7 @@
      "debut": "2026-11-12",
      "fin": "2026-11-17",
      "echantillon": 952,
-     "notice": "https://www.huffingtonpost.fr/politique/article/dans-notre-sondage-sur-la-presidentielle-2027-edouard-philippe-atteint-la-cote-d-alerte_360406.html",
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/novembre/10382-pres-iv-yougov-le-huffpost-19-novembre.pdf",
      "a": 45.0,
      "b": 55.0
     },
@@ -6038,12 +6100,22 @@
    "b": "le-pen",
    "sondages": [
     {
+     "id": "2026-11-26-opinonway-912",
+     "institut": "OpinonWay",
+     "debut": "2026-11-25",
+     "fin": "2026-11-26",
+     "echantillon": 912,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/novembre/10400-pres-iv-vague-5-opinionway-26-novembre.pdf",
+     "a": 42.0,
+     "b": 58.0
+    },
+    {
      "id": "2026-11-17-yougov-952",
      "institut": "YouGov",
      "debut": "2026-11-12",
      "fin": "2026-11-17",
      "echantillon": 952,
-     "notice": "https://www.huffingtonpost.fr/politique/article/dans-notre-sondage-sur-la-presidentielle-2027-edouard-philippe-atteint-la-cote-d-alerte_360406.html",
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/novembre/10382-pres-iv-yougov-le-huffpost-19-novembre.pdf",
      "a": 42.0,
      "b": 58.0
     },
@@ -6459,7 +6531,7 @@
      "debut": "2026-11-12",
      "fin": "2026-11-17",
      "echantillon": 952,
-     "notice": "https://www.huffingtonpost.fr/politique/article/dans-notre-sondage-sur-la-presidentielle-2027-edouard-philippe-atteint-la-cote-d-alerte_360406.html",
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/novembre/10382-pres-iv-yougov-le-huffpost-19-novembre.pdf",
      "a": 39.0,
      "b": 61.0
     },
@@ -6534,6 +6606,22 @@
      "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2025/mai/9930-pres-ifop-hexagone-5-mai.pdf",
      "a": 53.0,
      "b": 47.0
+    }
+   ]
+  },
+  {
+   "a": "le-pen",
+   "b": "lisnard",
+   "sondages": [
+    {
+     "id": "2026-11-26-opinonway-912",
+     "institut": "OpinonWay",
+     "debut": "2026-11-25",
+     "fin": "2026-11-26",
+     "echantillon": 912,
+     "notice": "https://www.commission-des-sondages.fr/notices/files/notices/2026/novembre/10400-pres-iv-vague-5-opinionway-26-novembre.pdf",
+     "a": 55.0,
+     "b": 45.0
     }
    ]
   },
